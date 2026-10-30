@@ -12,7 +12,7 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     
     <!-- FontAwesome Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.net/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -50,14 +50,14 @@
                 </div>
                 <div>
                     <h1 class="text-lg font-bold tracking-wide text-slate-100">Belgium Analytics</h1>
-                    <p class="text-xs text-slate-400">European Central Bank Data Pipeline</p>
+                    <p class="text-xs text-slate-400">Live FX Data Pipeline</p>
                 </div>
             </div>
 
             <div class="flex items-center gap-3 text-xs">
                 <span class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-medium">
                     <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-                    ECB Auto-Sync (30m)
+                    Live Auto-Sync (5m)
                 </span>
                 
                 <button id="manual-refresh-btn" onclick="fetchCentralBankData()" class="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 active:scale-95 border border-slate-700 rounded-lg text-slate-300 transition flex items-center gap-2">
@@ -76,7 +76,7 @@
             <div class="flex items-center gap-3">
                 <i class="fa-solid fa-building-columns text-sky-400 text-lg"></i>
                 <span class="text-xs text-slate-300">
-                    Σύνδεση με το επίσημο API της Ευρωπαϊκής Κεντρικής Τράπεζας (ECB).
+                    Ζωντανές ισοτιμίες από το δημόσιο API του Coinbase.
                 </span>
             </div>
             <span id="last-update" class="text-xs text-slate-400 font-mono">Τελευταία ενημέρωση: --:--:--</span>
@@ -141,10 +141,10 @@
                 <div class="flex justify-between items-center mb-6">
                     <div>
                         <h2 class="text-base font-semibold text-slate-200">Τάση Ισοτιμίας EUR/USD</h2>
-                        <p class="text-xs text-slate-400">Ωριαία διακύμανση από την Κεντρική Τράπεζα</p>
+                        <p class="text-xs text-slate-400">Πραγματικές τιμές ανά 5 λεπτά (τελευταία 1 ώρα)</p>
                     </div>
                     <span class="text-xs text-slate-500 flex items-center gap-1">
-                        <i class="fa-solid fa-clock-rotate-left"></i> 30m Auto-Refresh
+                        <i class="fa-solid fa-clock-rotate-left"></i> 5m Auto-Refresh
                     </span>
                 </div>
                 <div class="h-72 relative">
@@ -165,7 +165,7 @@
                 </div>
                 <div class="mt-4 pt-3 border-t border-slate-700/50 flex justify-between items-center text-xs text-slate-400">
                     <span>Status: <strong class="text-emerald-400 font-normal">Active</strong></span>
-                    <span>Interval: <strong>1800s</strong></span>
+                    <span>Interval: <strong>300s</strong></span>
                 </div>
             </div>
 
@@ -177,7 +177,7 @@
     <footer class="border-t border-slate-800 bg-slate-950/40 p-4 text-center text-xs text-slate-500">
         <div class="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
             <span>Belgium Analytics Platform &copy; 2026</span>
-            <span>Data Source: European Central Bank (ECB) Feed</span>
+            <span>Data Source: Coinbase Exchange Rates API</span>
         </div>
     </footer>
 
@@ -213,10 +213,10 @@
             analyticsChart = new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: ['00:00', '04:00', '08:00', '12:00', '16:00', '20:00'],
+                    labels: [],
                     datasets: [{
                         label: 'EUR/USD Rate',
-                        data: [1.0820, 1.0835, 1.0828, 1.0850, 1.0842, 1.0865],
+                        data: [],
                         borderColor: '#f59e0b',
                         borderWidth: 2,
                         backgroundColor: gradient,
@@ -248,55 +248,55 @@
             addLogEntry('Chart canvas initialized successfully.');
         }
 
-        // 2. Fetch Data from European Central Bank API
+        // 2. Fetch live rates from Coinbase public API
         async function fetchCentralBankData() {
             const btn = document.getElementById('manual-refresh-btn');
             const icon = btn.querySelector('i');
             
             try {
                 icon.classList.add('fa-spin');
-                addLogEntry('Requesting live feed from ECB API...', 'info');
+                addLogEntry('Requesting live feed from Coinbase API...', 'info');
 
-                // Open Exchange Rates API backed by European Central Bank data
-                const response = await fetch('https://open.er-api.com/v6/latest/EUR');
+                const response = await fetch('https://api.coinbase.com/v2/exchange-rates?currency=EUR', { cache: 'no-store' });
                 
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
 
-                const data = await response.json();
+                const json = await response.json();
+                const rates = json && json.data && json.data.rates;
 
-                if (data && data.rates) {
+                if (rates && rates.USD) {
+                    const usdRate = parseFloat(rates.USD);
+
                     // Update UI Metrics
-                    document.getElementById('metric-usd').textContent = data.rates.USD.toFixed(4);
-                    document.getElementById('metric-gbp').textContent = data.rates.GBP.toFixed(4);
-                    document.getElementById('metric-chf').textContent = data.rates.CHF.toFixed(4);
+                    document.getElementById('metric-usd').textContent = usdRate.toFixed(4);
+                    document.getElementById('metric-gbp').textContent = parseFloat(rates.GBP).toFixed(4);
+                    document.getElementById('metric-chf').textContent = parseFloat(rates.CHF).toFixed(4);
 
                     const nowStr = new Date().toLocaleTimeString();
                     document.getElementById('last-update').textContent = 'Τελευταία ενημέρωση: ' + nowStr;
 
-                    // Dynamic Chart Data Updates based on fresh rates
+                    // Append the real reading to the chart, keep the last 12 (1 hour)
                     if (analyticsChart) {
-                        const usdRate = data.rates.USD;
-                        analyticsChart.data.datasets[0].data = [
-                            (usdRate - 0.0035).toFixed(4),
-                            (usdRate - 0.0018).toFixed(4),
-                            (usdRate - 0.0005).toFixed(4),
-                            usdRate.toFixed(4),
-                            (usdRate + 0.0012).toFixed(4),
-                            (usdRate + 0.0025).toFixed(4)
-                        ];
+                        const chartData = analyticsChart.data;
+                        chartData.labels.push(new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }));
+                        chartData.datasets[0].data.push(usdRate);
+                        if (chartData.labels.length > 12) {
+                            chartData.labels.shift();
+                            chartData.datasets[0].data.shift();
+                        }
                         analyticsChart.update();
                     }
 
-                    addLogEntry(`Data synced successfully. EUR/USD: ${data.rates.USD.toFixed(4)}`, 'success');
+                    addLogEntry(`Data synced successfully. EUR/USD: ${usdRate.toFixed(4)}`, 'success');
                 } else {
                     addLogEntry('Received invalid data format from server.', 'error');
                 }
 
             } catch (error) {
                 console.error("API Error:", error);
-                addLogEntry(`Failed to fetch ECB data: ${error.message}`, 'error');
+                addLogEntry(`Failed to fetch live data: ${error.message}`, 'error');
             } finally {
                 setTimeout(() => {
                     icon.classList.remove('fa-spin');
@@ -309,13 +309,12 @@
             initChart();
             fetchCentralBankData(); // Immediate initial fetch
 
-            // 30 Minutes Interval = 30 * 60 * 1000 = 1,800,000 ms
-            const THIRTY_MINUTES = 30 * 60 * 1000;
-            setInterval(fetchCentralBankData, THIRTY_MINUTES);
+            // 5 Minutes Interval = 5 * 60 * 1000 = 300,000 ms
+            const FIVE_MINUTES = 5 * 60 * 1000;
+            setInterval(fetchCentralBankData, FIVE_MINUTES);
             
-            addLogEntry('Scheduled auto-refresh interval set to 30 minutes.', 'warn');
+            addLogEntry('Scheduled auto-refresh interval set to 5 minutes.', 'warn');
         });
     </script>
 </body>
 </html>
-
