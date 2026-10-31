@@ -126,7 +126,7 @@
                     <p class="text-slate-400 text-xs font-semibold uppercase tracking-wider">Επιτόκιο ΕΚΤ</p>
                     <span class="text-xs bg-purple-500/10 text-purple-400 px-2 py-0.5 rounded border border-purple-500/20">ECB</span>
                 </div>
-                <h3 id="metric-ecb" class="text-3xl font-bold mt-2 text-purple-400">3.25 %</h3>
+                <h3 id="metric-ecb" class="text-3xl font-bold mt-2 text-purple-400">2.50 %</h3>
                 <p class="text-xs text-slate-400 mt-2 flex items-center gap-1">
                     <i class="fa-solid fa-percent text-slate-500"></i> Βασικό Επιτόκιο
                 </p>
@@ -169,6 +169,30 @@
                 </div>
             </div>
 
+        </div>
+
+        <!-- AI Research: why did the rates move? -->
+        <div class="bg-slate-800/60 border border-slate-700/50 p-6 rounded-xl shadow-sm">
+            <div class="flex flex-col sm:flex-row justify-between sm:items-center gap-2 mb-4">
+                <div class="flex items-center gap-3">
+                    <div class="p-2 bg-purple-500/10 border border-purple-500/20 rounded-lg">
+                        <i class="fa-solid fa-wand-magic-sparkles text-purple-400"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-base font-semibold text-slate-200">Γιατί κουνήθηκαν σήμερα;</h2>
+                        <p class="text-xs text-slate-400">Ανάλυση AI με αναζήτηση ειδήσεων, ανά 30 λεπτά</p>
+                    </div>
+                </div>
+                <span id="research-updated" class="text-xs text-slate-400 font-mono">Ενημέρωση: --</span>
+            </div>
+
+            <p id="research-headline" class="text-slate-200 font-medium mb-4">Φόρτωση ανάλυσης...</p>
+            <div id="research-pairs" class="grid grid-cols-1 md:grid-cols-3 gap-4"></div>
+
+            <div class="mt-4 pt-3 border-t border-slate-700/50">
+                <p class="text-xs text-slate-500 mb-2">Πηγές:</p>
+                <div id="research-sources" class="flex flex-wrap gap-2 text-xs"></div>
+            </div>
         </div>
 
     </main>
@@ -304,14 +328,70 @@
             }
         }
 
-        // 3. Document Ready Initialization & Interval Setup
+        // 3. Load the AI research (research.json is written by GitHub Actions)
+        async function loadResearch() {
+            try {
+                const response = await fetch('research.json', { cache: 'no-store' });
+                if (!response.ok) throw new Error('not ready yet');
+                const r = await response.json();
+
+                document.getElementById('research-headline').textContent = r.headline || '';
+                document.getElementById('research-updated').textContent =
+                    'Ενημέρωση: ' + new Date(r.updated).toLocaleString();
+
+                const arrows = {
+                    up:   ['fa-arrow-trend-up', 'text-emerald-400'],
+                    down: ['fa-arrow-trend-down', 'text-rose-400'],
+                    flat: ['fa-minus', 'text-slate-400']
+                };
+
+                const pairsBox = document.getElementById('research-pairs');
+                pairsBox.innerHTML = '';
+                (r.pairs || []).forEach(p => {
+                    const [icon, color] = arrows[p.direction] || arrows.flat;
+                    const card = document.createElement('div');
+                    card.className = 'bg-slate-900/60 border border-slate-700/50 rounded-lg p-4';
+                    card.innerHTML = `
+                        <div class="flex justify-between items-center mb-2">
+                            <span class="text-xs font-semibold text-slate-300 tracking-wider"></span>
+                            <i class="fa-solid ${icon} ${color}"></i>
+                        </div>
+                        <p class="text-sm text-slate-400 leading-relaxed"></p>`;
+                    card.querySelector('span').textContent = p.pair;
+                    card.querySelector('p').textContent = p.reason;
+                    pairsBox.appendChild(card);
+                });
+
+                const sourcesBox = document.getElementById('research-sources');
+                sourcesBox.innerHTML = '';
+                (r.sources || []).forEach(s => {
+                    if (!String(s.url).startsWith('https://')) return;
+                    const a = document.createElement('a');
+                    a.href = s.url;
+                    a.target = '_blank';
+                    a.rel = 'noopener';
+                    a.className = 'px-2 py-1 bg-slate-900/60 border border-slate-700/50 rounded text-sky-400 hover:text-sky-300';
+                    a.textContent = s.title;
+                    sourcesBox.appendChild(a);
+                });
+
+                addLogEntry('AI research loaded.', 'success');
+            } catch (error) {
+                document.getElementById('research-headline').textContent =
+                    'Η πρώτη ανάλυση AI δεν είναι έτοιμη ακόμα.';
+            }
+        }
+
+        // 4. Document Ready Initialization & Interval Setup
         document.addEventListener('DOMContentLoaded', () => {
             initChart();
             fetchCentralBankData(); // Immediate initial fetch
+            loadResearch();
 
             // 5 Minutes Interval = 5 * 60 * 1000 = 300,000 ms
             const FIVE_MINUTES = 5 * 60 * 1000;
             setInterval(fetchCentralBankData, FIVE_MINUTES);
+            setInterval(loadResearch, FIVE_MINUTES);
             
             addLogEntry('Scheduled auto-refresh interval set to 5 minutes.', 'warn');
         });
