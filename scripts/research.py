@@ -127,7 +127,13 @@ if __name__ == "__main__":
         main()
     except urllib.error.HTTPError as e:
         # Show Google's real error message (the key is not in it)
-        body = e.read().decode(errors="replace")[:500].replace("\n", " ")
+        raw = e.read().decode(errors="replace")
+        try:
+            err = json.loads(raw)["error"]
+            details = [d.get("violations", d.get("retryDelay", "")) for d in err.get("details", [])]
+            body = f'{err.get("message", "")} | {json.dumps(details)}'[:1500]
+        except Exception:
+            body = raw[:1500].replace("\n", " ")
         print(f"::error::HTTP {e.code} from {e.url.split('?')[0]}: {body}")
         sys.exit(1)
     except SystemExit as e:
