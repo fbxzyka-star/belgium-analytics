@@ -180,7 +180,7 @@
                     </div>
                     <div>
                         <h2 class="text-base font-semibold text-slate-200">Γιατί κουνήθηκαν σήμερα;</h2>
-                        <p class="text-xs text-slate-400">Ανάλυση AI με αναζήτηση ειδήσεων, ανά 30 λεπτά</p>
+                        <p class="text-xs text-slate-400">Ανάλυση AI πάνω σε πραγματικές ειδήσεις, ανά 2 ώρες</p>
                     </div>
                 </div>
                 <span id="research-updated" class="text-xs text-slate-400 font-mono">Ενημέρωση: --</span>
@@ -190,7 +190,7 @@
             <div id="research-pairs" class="grid grid-cols-1 md:grid-cols-3 gap-4"></div>
 
             <div class="mt-4 pt-3 border-t border-slate-700/50">
-                <p class="text-xs text-slate-500 mb-2">Πηγές:</p>
+                <p class="text-xs text-slate-500 mb-2">Ειδήσεις που διάβασε το AI:</p>
                 <div id="research-sources" class="flex flex-wrap gap-2 text-xs"></div>
             </div>
         </div>
@@ -354,10 +354,15 @@
                     card.innerHTML = `
                         <div class="flex justify-between items-center mb-2">
                             <span class="text-xs font-semibold text-slate-300 tracking-wider"></span>
-                            <i class="fa-solid ${icon} ${color}"></i>
+                            <span class="flex items-center gap-2 text-xs font-mono ${color}">
+                                <span class="pct"></span><i class="fa-solid ${icon}"></i>
+                            </span>
                         </div>
                         <p class="text-sm text-slate-400 leading-relaxed"></p>`;
                     card.querySelector('span').textContent = p.pair;
+                    if (typeof p.change === 'number') {
+                        card.querySelector('.pct').textContent = (p.change > 0 ? '+' : '') + p.change.toFixed(2) + '%';
+                    }
                     card.querySelector('p').textContent = p.reason;
                     pairsBox.appendChild(card);
                 });

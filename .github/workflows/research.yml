@@ -2,12 +2,8 @@ name: AI Research
 
 on:
   schedule:
-    - cron: "7 */2 * * *"    # every 2 hours (free tier = 20 calls/day)
+    - cron: "7 */2 * * *"    # every 2 hours (free tier has a daily limit)
   workflow_dispatch:          # adds a "Run workflow" button to test by hand
-    inputs:
-      search:
-        description: "Use Google Search"
-        default: "true"
 
 permissions:
   contents: write             # allowed to save research.json in the repo
@@ -30,7 +26,6 @@ jobs:
       - name: Ask Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API }}
-          USE_SEARCH: ${{ inputs.search || 'true' }}
         run: python scripts/research.py
 
       - name: Save research.json
