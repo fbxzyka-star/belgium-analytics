@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 # Change these lines to change the research
 # ------------------------------------------------------------
 # Tried in this order; if one has no free quota, the next is used
-MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-flash-lite-latest", "gemini-2.5-flash-lite"]
+MODELS = ["gemini-2.5-flash", "gemini-2.5-flash-lite"]   # free tier: 20 calls/day each
 LANGUAGE = "Greek"                 # e.g. "English" for clients
 PAIRS = ["USD", "GBP", "CHF"]      # currencies against EUR
 
@@ -116,7 +116,8 @@ def main():
         except urllib.error.HTTPError as e:
             if e.code not in (404, 429):
                 raise
-            errors.append(f"{model}: HTTP {e.code}")
+            detail = e.read().decode(errors="replace")[:300].replace("\n", " ")
+            errors.append(f"{model}: HTTP {e.code} {detail}")
             print("Skipping", model, "->", e.code)
     else:
         sys.exit("No model worked: " + ", ".join(errors))

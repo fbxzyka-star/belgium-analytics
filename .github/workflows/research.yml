@@ -2,7 +2,7 @@ name: AI Research
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
+    - cron: "7 */2 * * *"    # every 2 hours (free tier = 20 calls/day)
   workflow_dispatch:          # adds a "Run workflow" button to test by hand
 
 permissions:
