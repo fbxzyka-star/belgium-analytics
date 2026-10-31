@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 # Change these lines to change the research
 # ------------------------------------------------------------
 # Tried in this order; if one has no free quota, the next is used
-MODELS = ["gemini-2.5-flash", "gemini-2.5-flash-lite"]   # free tier: 20 calls/day each
+MODELS = ["gemini-3.5-flash-lite", "gemini-3.8-flash"]   # cheapest first
 LANGUAGE = "Greek"                 # e.g. "English" for clients
 PAIRS = ["USD", "GBP", "CHF"]      # currencies against EUR
 
