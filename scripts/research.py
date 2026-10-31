@@ -13,6 +13,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 
@@ -122,4 +123,17 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except urllib.error.HTTPError as e:
+        # Show Google's real error message (the key is not in it)
+        body = e.read().decode(errors="replace")[:500].replace("\n", " ")
+        print(f"::error::HTTP {e.code} from {e.url.split('?')[0]}: {body}")
+        sys.exit(1)
+    except SystemExit as e:
+        if e.code not in (0, None):
+            print(f"::error::{e.code}")
+        raise
+    except Exception as e:
+        print(f"::error::{type(e).__name__}: {str(e)[:500]}".replace("\n", " "))
+        sys.exit(1)
