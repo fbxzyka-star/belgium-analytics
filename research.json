@@ -1,26 +1,26 @@
 {
-  "headline": "Το ευρώ ενισχύεται έναντι των κύριων νομισμάτων εν μέσω αποκλινουσών προοπτικών των κεντρικών τραπεζών και πολιτικών εξελίξεων.",
+  "headline": "Το ευρώ ενισχύθηκε έναντι του δολαρίου, της λίρας και του φράγκου, με φόντο τις ανησυχίες για την τεχνητή νοημοσύνη και τις εξελίξεις στις κεντρικές τράπεζες.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
       "change": 0.06,
-      "reason": "Το EUR/USD σημείωσε άνοδο στα 1.1179 (+0.06%). Η κίνηση αυτή υποστηρίχθηκε από την υποχώρηση του δολαρίου λόγω ανησυχιών γύρω από τις ενδιάμεσες εκλογές και την τεχνητή νοημοσύνη, παρά τις πιέσεις από δημοσιονομικά ρίσκα, την ενεργειακή κατάσταση και την πολιτική αδιέξοδου στη Γαλλία."
+      "reason": "Η ισοτιμία EUR/USD ανέβηκε στα 1.1179 (+0.06%). Η κίνηση αυτή υποστηρίχθηκε από την αδυναμία του δολαρίου, το οποίο επηρεάστηκε από τις ανησυχίες γύρω από την τεχνητή νοημοσύνη (AI jitters) και τις πιέσεις που προκάλεσε το sell-off στον τεχνολογικό τομέα, καθώς και από τις αποκλίνουσες προοπτικές των κεντρικών τραπεζών."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
       "change": 0.11,
-      "reason": "Το EUR/GBP ενισχύθηκε στα 0.8347 (+0.11%). Η πορεία του ζεύγους διαμορφώνεται εν μέσω αναλύσεων για την προοπτική της στερλίνας και τις εκτιμήσεις της αγοράς, όπως η πρόβλεψη της Rabobank για το EUR/GBP στο 0.84 σε διάστημα τριών μηνών."
+      "reason": "Η ισοτιμία EUR/GBP ενισχύθηκε στα 0.8347 (+0.11%), παρόλο που υπήρξαν αναφορές για προσπάθειες της λίρας και εκτιμήσεις από αναλυτές (όπως η Rabobank) για την πορεία της ζώνης των 0.84, ενώ σημειώθηκαν και προσδοκίες για αυξήσεις επιτοκίων από την Τράπεζα της Αγγλίας."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
       "change": 0.25,
-      "reason": "Το EUR/CHF κατέγραψε τη μεγαλύτερη άνοδο στα 0.9217 (+0.25%). Η ενίσχυση του ευρώ έναντι του ελβετικού φράγκου έρχεται στον απόηχο των ανακοινώσεων για τα 9μηνα κέρδη της Εθνικής Τράπεζας της Ελβετίας και τη σχετική αποδυνάμωση του φράγκου."
+      "reason": "Η ισοτιμία EUR/CHF αυξήθηκε στα 0.9217 (+0.25%). Σύμφωνα με τις ειδήσεις, η Εθνική Τράπεζα της Ελβετίας ανακοίνωσε 9μηνα κέρδη 44.2 δισ. φράγκων εν μέσω αποδυνάμωσης του φράγκου, ενώ παράλληλα υπήρξε ζήτηση για ασφαλή καταφύγιο και τεχνικές αναλύσεις για την πορεία της ζεύξης."
     }
   ],
-  "updated": "2026-10-31T16:34+00:00",
+  "updated": "2026-10-31T18:38+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
     "USD": 1.1179,
@@ -57,8 +57,8 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWdBaU5sMkppeUZwXzdiSWN4amlIbmNXT0VsRTBuYWhfZEhEd0RTd2JuR21CNW1sN1dQOG9rY1Y1eXRWemVZRUlTLWt6YmhWaVpNQVB0Qjl0VmI4cjFMOE5oOWt3T0Zra3BHaEtDZzVFUWdPaUhaektiaDlfanVtQnJlX1o3a0pndDl6RDhCYmo2aVp5dS00bUlQa0ZqU0R5bGNlVDMwWWEyRzhw?oc=5"
     },
     {
-      "title": "StoneX: EUR/USD Forecast: FOREX Friday | October 30, 2026 - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONndLT3JmSTZ6OFN1S1ROTHRMWTVnSmY4aVJSWlR6MkJwWXVubHA2ejlLbW9fU0drUzRKdzVVVHR4YXpiZS02TUdoX0gxT0FmMng1NkJoQXdMOWJFeWlDZk93RmV0QWlZM2hqTWdrc0R4bGFNcHo5WGJfam5SYTVES3gzUG5qaGR1NHJId1VDVDdCdWFjejBfbHdrdHNjQ2JEUWRoMkJvRQ?oc=5"
+      "title": "Seeking Alpha: Euro markets slip as tech selloff weighs on sentiment (EUR:USD:) - Seeking ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRU9BX2hOQ1FZMG43YWZnNGxfSnBwek1VUm01Nmp1WEhpN3Q2YkR5SjRTRnE0SWk3cF84SjYzU0VGcGVHdHV4WlNCRlBjN0ZvaVVUWmg3VVZUOWxvZ25qSzBCbHdQTWhpWUoxZVJfbkNQemlZMngtRXllMmhrazZWYzY5OFZKYnFrZUM0eXZTRTFDSjFZSnc?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
