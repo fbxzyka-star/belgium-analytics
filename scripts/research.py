@@ -69,8 +69,9 @@ def ask_gemini(prompt, api_key, MODEL):
     )
     request = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "tools": [{"google_search": {}}],   # lets Gemini search the web
     }
+    if os.environ.get("USE_SEARCH", "true") != "false":
+        request["tools"] = [{"google_search": {}}]   # lets Gemini search the web
     reply = get_json(url, request)
     candidate = reply["candidates"][0]
 
