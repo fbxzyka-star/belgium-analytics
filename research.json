@@ -1,26 +1,26 @@
 {
-  "headline": "Το ευρώ ενισχύθηκε έναντι του δολαρίου, της λίρας και του φράγκου, με φόντο τις ανησυχίες για την τεχνητή νοημοσύνη και τις εξελίξεις στις κεντρικές τράπεζες.",
+  "headline": "Το ευρώ ενισχύεται έναντι των βασικών νομισμάτων εν μέσω μεταβολών της αγοράς και προσδοκιών για τις κεντρικές τράπεζες.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
       "change": 0.06,
-      "reason": "Η ισοτιμία EUR/USD ανέβηκε στα 1.1179 (+0.06%). Η κίνηση αυτή υποστηρίχθηκε από την αδυναμία του δολαρίου, το οποίο επηρεάστηκε από τις ανησυχίες γύρω από την τεχνητή νοημοσύνη (AI jitters) και τις πιέσεις που προκάλεσε το sell-off στον τεχνολογικό τομέα, καθώς και από τις αποκλίνουσες προοπτικές των κεντρικών τραπεζών."
+      "reason": "Το EUR/USD σημείωσε άνοδο 0,06% στα 1,1179. Η κίνηση υποστηρίχθηκε από τη περιορισμένη απόκλιση πολιτικής έναντι του δολαρίου και την υποχώρηση του δολαρίου καθώς το sell-off στον τεχνολογικό κλάδο ενίσχυσε τις τοποθετήσεις σε ομόλογα, παρά τους κινδύνους από την ευρωπαϊκή ενέργεια και τη δημοσιονομική πολιτική."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
       "change": 0.11,
-      "reason": "Η ισοτιμία EUR/GBP ενισχύθηκε στα 0.8347 (+0.11%), παρόλο που υπήρξαν αναφορές για προσπάθειες της λίρας και εκτιμήσεις από αναλυτές (όπως η Rabobank) για την πορεία της ζώνης των 0.84, ενώ σημειώθηκαν και προσδοκίες για αυξήσεις επιτοκίων από την Τράπεζα της Αγγλίας."
+      "reason": "Το EUR/GBP κατέγραψε αύξηση 0,11% φθάνοντας στα 0,8347. Η κίνηση αυτή σημειώθηκε εν μέσω αναφορών για τις προβλέψεις της Rabobank και συζητήσεων για το εύρος τιμών μετά το Brexit, καθώς και προσδοκιών για αυξήσεις επιτοκίων από την Τράπεζα της Αγγλίας."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
       "change": 0.25,
-      "reason": "Η ισοτιμία EUR/CHF αυξήθηκε στα 0.9217 (+0.25%). Σύμφωνα με τις ειδήσεις, η Εθνική Τράπεζα της Ελβετίας ανακοίνωσε 9μηνα κέρδη 44.2 δισ. φράγκων εν μέσω αποδυνάμωσης του φράγκου, ενώ παράλληλα υπήρξε ζήτηση για ασφαλή καταφύγιο και τεχνικές αναλύσεις για την πορεία της ζεύξης."
+      "reason": "Το EUR/CHF ενισχύθηκε κατά 0,25% στα 0,9217. Παρόλο που το ελβετικό φράγκο δέχθηκε πιέσεις και κατέγραψε κέρδη λόγω της ζήτησης ασdαλούς καταφυγίου, το ευρώ κατάφερε να κλείσει υψηλότερα σύμφωνα με τα τεχνικά δεδομένα και τις αναλύσεις της αγοράς."
     }
   ],
-  "updated": "2026-10-31T18:38+00:00",
+  "updated": "2026-10-31T20:31+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
     "USD": 1.1179,
@@ -53,12 +53,12 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWl6Q2R4X0RRV01UeWMwMmNaYVdqWmY2d3FDQ1YzR0V0MV9vbEpHUTJENmd2NDlwekNQUkNmd21oUjJBUV9ST0VFZ3k1TVhLOGt4VEpWZUhzTEVSREhlSGhwcGJ6MUZXeEkydzlrU2JBTkMzZTNuMHV6TnZfbzRkMUVJQ3RTeF9IRlVGYlNmMlQ0NGFzaks4MEs2Y2s1ald6ejU3dVpNSlQ5X0gxMjZLUHNqM2pFRmhGQWNuaU5SQW83Y0ZHR1lVTFZRMllfR05TekIwV1N0dUtBZHc?oc=5"
     },
     {
-      "title": "LiteFinance: Technical Analysis of US Crude, XAUUSD and EURUSD for Today (October 30, 2026",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWdBaU5sMkppeUZwXzdiSWN4amlIbmNXT0VsRTBuYWhfZEhEd0RTd2JuR21CNW1sN1dQOG9rY1Y1eXRWemVZRUlTLWt6YmhWaVpNQVB0Qjl0VmI4cjFMOE5oOWt3T0Zra3BHaEtDZzVFUWdPaUhaektiaDlfanVtQnJlX1o3a0pndDl6RDhCYmo2aVp5dS00bUlQa0ZqU0R5bGNlVDMwWWEyRzhw?oc=5"
-    },
-    {
       "title": "Seeking Alpha: Euro markets slip as tech selloff weighs on sentiment (EUR:USD:) - Seeking ",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRU9BX2hOQ1FZMG43YWZnNGxfSnBwek1VUm01Nmp1WEhpN3Q2YkR5SjRTRnE0SWk3cF84SjYzU0VGcGVHdHV4WlNCRlBjN0ZvaVVUWmg3VVZUOWxvZ25qSzBCbHdQTWhpWUoxZVJfbkNQemlZMngtRXllMmhrazZWYzY5OFZKYnFrZUM0eXZTRTFDSjFZSnc?oc=5"
+    },
+    {
+      "title": "FXStreet: Euro: Supported by limited policy divergence against US Dollar – BBH - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHVPVTJ2eFJWSGxXXy1HR1d3REdKRWwtSzhNcXVFXzlsaWRuMFNjRF93VFE5dDdNaURpU0pTOGpscjliQjRIT2VrNHZWLVYxV0VtamxfQzZJejRRZG5tR1FSSEpZb1BHNFZKZ2JFa25FX1k4R1NkZDF3ZnRzRlRYbHhoLUEtT0hqcjU5LVN1STItei1mWnp6RE9SczR4dE5KSDlVSzdmb2VTeUxs?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
