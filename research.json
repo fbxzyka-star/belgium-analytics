@@ -1,28 +1,65 @@
 {
-  "headline": "Ήπια κίνηση στις αγορές συναλλάγματος με έμφαση στα μακροοικονομικά στοιχεία και τις δηλώσεις κεντρικών τραπεζιτών.",
+  "headline": "Το ευρώ ενισχύεται έναντι των κύριων νομισμάτων, με το EUR/USD να ανεβαίνει στα 1.1179, το EUR/GBP στα 0.8347 και το EUR/CHF στα 0.9217.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "reason": "Το ευρώ ενισχύθηκε ελαφρώς έναντι του δολαρίου, καθώς τα στοιχεία για τον πληθωρισμό στην Ευρωζώνη κινήθηκαν σύμφωνα με τις εκτιμήσεις, διατηρώντας τις προσδοκίες για τη στάση της ΕΚΤ. Παράλληλα, οι επενδυτές αξιολόγησαν τα νέα στοιχεία για την απασχόληση στις ΗΠΑ, τα οποία έδειξαν μια μικρή ψύξη στην αγορά εργασίας."
+      "change": 0.06,
+      "reason": "Το ευρώ βρήκε στήριξη καθώς η απόκλιση της πολιτικής με το δολάριο ΗΠΑ παραμένει περιορισμένη, ενώ η νομισματική προοπτική δείχνει προώθηση του ευρώ και της στερλίνας έναντι του δολαρίου. Παράλληλα, η νομισματική ισοτιμία κατέγραψε άνοδο 0.06% από το χθεσινό κλείσιμο της ΕΚΤ, φτάνοντας στο 1.1179."
     },
     {
       "pair": "EUR/GBP",
-      "direction": "down",
-      "reason": "Η βρετανική λίρα κατέγραψε κέρδη έναντι του ευρώ, λαμβάνοντας στήριξη από τα σχόλια αξιωματούχων της Τράπεζας της Αγγλίας (BoE) που υποδηλώνουν ότι τα επιτόκια ενδέχεται να παραμείνουν σε περιοριστικά επίπεδα για μεγαλύτερο χρονικό διάστημα. Αυτό περιόρισε τη δυναμική του κοινού νομίσματος στο Λονδίνο."
+      "direction": "up",
+      "change": 0.11,
+      "reason": "Η ισοτιμία ενισχύθηκε κατά 0.11% από το χθεσινό κλείσιμο της ΕΚΤ στα 0.8347. Ωστόσο, οι πρόσφατες ειδήσεις αναφέρουν αυξανόμενα στοιχήματα για αύξηση των επιτοκίων από την Τράπεζα της Αγγλίας (BoE) και προβλέψεις της Rabobank για την πορεία της στερλίνας, χωρίς ωστόσο να παρέχεται κάποιος άλλος άμεσος οδηγός ειδήσεων για την κίνηση του συγκεκριμένου σταυρού."
     },
     {
       "pair": "EUR/CHF",
-      "direction": "flat",
-      "reason": "Η ισοτιμία EUR/CHF παρέμεινε σχεδόν αμετάβλητη, καθώς η αγορά δεν επηρεάστηκε από κάποιο σημαντικό νέο από την Ελβετία. Η Εθνική Τράπεζα της Ελβετίας (SNB) δεν προέβη σε νέες παρεμβάσεις και η διάθεση ανάληψης ρίσκου παρέμεινε σταθερή."
+      "direction": "up",
+      "change": 0.25,
+      "reason": "Το EUR/CHF σημείωσε άνοδο 0.25% από το κλείσιμο της ΕΚΤ, φτάνοντας στο 0.9217. Παρά το γεγονός ότι οι ειδήσεις αναφέρουν πως το ελβετικό φράγκο παραμένει ισχυρό λόγω της ζήτησης ασdαλούς καταφυγίου και τα κέρδη της Εθνικής Τράπεζας της Ελβετίας (SNB), δεν υπάρχει κάποιος συγκεκριμένος τίτλος ειδήσεων που να εξηγεί αποκλειστικά την ημερήσια άνοδο του ευρώ έναντι του φράγκου."
     }
   ],
-  "updated": "2026-10-31T15:36+00:00",
+  "updated": "2026-10-31T15:46+00:00",
+  "compared_to": "ECB 2026-10-30",
   "rates": {
     "USD": 1.1179,
     "GBP": 0.8347,
     "CHF": 0.9217
   },
-  "sources": [],
+  "sources": [
+    {
+      "title": "ECB: Philip R. Lane: AI adoption in Europe",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html"
+    },
+    {
+      "title": "ECB: Decisions taken by the Governing Council of the ECB (in addition to decisions setting",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html"
+    },
+    {
+      "title": "ECB: Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html"
+    },
+    {
+      "title": "Yahoo! Finance Canada: EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo!",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
+    },
+    {
+      "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
+    },
+    {
+      "title": "FOREX.com: US Dollar Price Action Setups: EUR/USD, GBP/USD, USD/JPY - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkVrbzUybnZWQzN1V2lSbEl2OXdkSDNpRDVwN0RScWlrd2FwY1llWVlPdWJfY09FSkh2UmlXb0diRUZIQmtjeTJOWHlOWER1UUl2TkxWR0xFY2xNX2J3RmtnV1YwbmU5RFRjT0h3MGw0OGtNSld0eUNJZ1RjM2FnU3hMeTRPWlNTVmZEOFRiSXFNSWs5RHBVSWtWNGNhTW9DUmJUaXRoZkZNYXhO?oc=5"
+    },
+    {
+      "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
+    },
+    {
+      "title": "www.tmgm.com: Euro finds support as policy divergence with US Dollar remains limited – BBH",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQXpKWDZRSFZLLUF5NGZiVjAxM0RubkgtRHNmQkE3cVlaSnY3SlIzVmU5ZXJrVkNOSXRCTWFDUjZKeHBWRjRxSmlfYTJPWjQ0SWZ3NGFEcDcyY2wwOE55MXFfT1RvNXlNMVJ0Q2dyMzN6WFByeDhIMjYwUWMwTncxUzJvdTZtWF9QVlpKckhONDZnMmxfM1laYzY2WE1ZLXlreEEzSTlldDZGX3paOXhJYmh5U0Q5TlJQYVlvUzZhYmpUeTB3QzFMRUt5VVFVUnM?oc=5"
+    }
+  ],
   "model": "gemini-3.5-flash-lite"
 }
