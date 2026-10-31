@@ -20,7 +20,8 @@ from datetime import datetime, timezone
 # ------------------------------------------------------------
 # Change these lines to change the research
 # ------------------------------------------------------------
-MODEL = "gemini-flash-latest"      # always points to Google's newest Flash model
+# Tried in this order; if one has no free quota, the next is used
+MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-flash-lite-latest", "gemini-2.5-flash-lite"]
 LANGUAGE = "Greek"                 # e.g. "English" for clients
 PAIRS = ["USD", "GBP", "CHF"]      # currencies against EUR
 
@@ -61,7 +62,7 @@ def get_rates():
     return {cur: round(float(all_rates[cur]), 4) for cur in PAIRS}
 
 
-def ask_gemini(prompt, api_key):
+def ask_gemini(prompt, api_key, MODEL):
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
         f"{MODEL}:generateContent?key={api_key}"
@@ -107,13 +108,24 @@ def main():
         language=LANGUAGE,
     )
 
-    text, sources = ask_gemini(prompt, api_key)
+    errors = []
+    for model in MODELS:
+        try:
+            text, sources = ask_gemini(prompt, api_key, model)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code not in (404, 429):
+                raise
+            errors.append(f"{model}: HTTP {e.code}")
+            print("Skipping", model, "->", e.code)
+    else:
+        sys.exit("No model worked: " + ", ".join(errors))
     result = parse_json(text)
 
     result["updated"] = now.isoformat(timespec="minutes")
     result["rates"] = rates
     result["sources"] = sources
-    result["model"] = MODEL
+    result["model"] = model
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
