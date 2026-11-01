@@ -1,26 +1,26 @@
 {
-  "headline": "Το ευρώ ενισχύεται ελαφρά έναντι των βασικών νομισμάτων εν μέσω ανησυχιών για τον πληθωρισμό, τους γαλλικούς ομολόγους και τη μεταβολή της δυναμικής του δολαρίου.",
+  "headline": "Το ευρώ ενισχύεται ελαφρώς έναντι των κυριότερων νομισμάτων, ενώ οι επενδυτές αξιολογούν τα μακροοικονομικά δεδομένα και τους πολιτικούς κινδύνους.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
       "change": 0.06,
-      "reason": "Το EUR/USD σημείωσε άνοδο 0,06% φτάνοντας στο 1,1179. Η κίνηση αυτή τροφοδοτείται από την εξασθένιση της εξαιρετικής θέσης του δολαρίου ΗΠΑ και τις προσδοκίες για πιθανή διάσπαση, παρά τις πιέσεις από τα ζητήματα του πληθωρισμού και τους κινδύνους που σχετίζονται με τα γαλλικά ομόλογα."
+      "reason": "Η ισοτιμία κατέγραψε άνοδο φτάνοντας στο 1.1179 από το 1.1172 (+0.06%). Η κίνηση αυτή σημειώνεται εν μέσω συζητήσεων για την εξασθένηση του αμερικανικού δολαρίου και την προσοχή της αγοράς στους κινδύνους από τα γαλλικά ομόλογα και τον πληθωρισμό."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
       "change": 0.11,
-      "reason": "Το EUR/GBP κατέγραψε άνοδο 0,11% φτάνοντας στο 0,8347. Σύμφωνα με τις διαθέσιμες ειδήσεις, δεν υπάρχει συγκεκριμένος άμεσος οδηγός ειδήσεων για την ακριβή εξήγηση αυτής της ημερήσιας μεταβολής, αν και αναλύσεις προβλέπουν την πορεία του ζεύγους προς το 0,84 σε τρίμηνο ορίζοντα."
+      "reason": "Η ισοτιμία ενισχύθηκε στο 0.8347 από το 0.8338 (+0.11%). Οι αναλύσεις της αγοράς εστιάζουν στις προοπτικές της στερλίνας και τις προβλέψεις για την πορεία του ζεύγους."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
       "change": 0.25,
-      "reason": "Το EUR/CHF ενισχύθηκε κατά 0,25% φτάνοντας στο 0,9217. Οι πρόσφατες ειδήσεις επικεντρώνονται κυρίως στις τεχνικές προοπτικές του ελβετικού φράγκου και τις δοκιμές σημαντικών επιπέδων στήριξης, χωρίς ωστόσο να καταγράφεται κάποιο συγκεκριμένο νέο θεμελιώδες γεγονός που να εξηγεί πλήρως την ημερήσια άνοδο."
+      "reason": "Η ισοτιμία σημείωσε άνοδο φτάνοντας στο 0.9217 από το 0.9194 (+0.25%). Ωστόσο, οι διαθέσιμες ειδήσεις δεν παρέχουν κάποιο συγκεκριμένο θεμελιώδες γεγονός που να εξηγεί άμεσα αυτή την κίνηση, πέραν των τεχνικών αναλύσεων για το ελβετικό φράγκο."
     }
   ],
-  "updated": "2026-11-01T16:36+00:00",
+  "updated": "2026-11-01T16:54+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
     "USD": 1.1179,
@@ -33,8 +33,8 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
     },
     {
-      "title": "StoneX: USD/JPY falters, EUR/USD awaits French bond verdict - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
+      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
     },
     {
       "title": "Exchange Rates UK: Euro-Dollar Forecast: Inflation And French Bond Risks Test The Euro - E",
@@ -49,8 +49,8 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
     },
     {
-      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
+      "title": "StoneX: USD/JPY falters, EUR/USD awaits French bond verdict - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
     },
     {
       "title": "Yahoo Finance UK: GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK",
