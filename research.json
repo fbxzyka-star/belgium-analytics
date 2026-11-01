@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ ενισχύεται έναντι των βασικών νομισμάτων εν μέσω εξασθένησης του δολαρίου και εγχώριων κινδύνων.",
+  "headline": "Το ευρώ πιέζεται ελαφρώς έναντι του δολαρίου, της λίρας και του φράγκου την 1η Νοεμβρίου 2026, εν μέσω ανησυχιών για τον πληθωρισμό και τα γαλλικά ομόλογα.",
   "pairs": [
     {
       "pair": "EUR/USD",
-      "direction": "up",
-      "change": 0.06,
-      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1.1179 (+0.06%), ωθούμενο από την εξασθένηση της εξαιρετικότητας του δολαρίου ΗΠΑ και χαμηλότερες αποδόσεις που προκάλεσαν πιέσεις στο αμερικανικό νόμισμα και βραχυπρόθεσμο short squeeze. Ωστόσο, η ανοδική πορεία δοκιμάζεται από ανησυχίες για τον πληθωρισμό, κινδύνους από τα γαλλικά ομόλογα και αναμονή για την ετυμηγορία της αγοράς."
+      "direction": "down",
+      "change": -0.12,
+      "reason": "Η ισοτιμία υποχώρησε στα 1,1159 (-0,12%) από το κλείσιμο της ΕΚΤ στις 30/10 (1,1172). Οι κινήσεις αυτές έρχονται εν μέσω δοκιμασιών για το ευρώ από τον πληθωρισμό και τους κινδύνους των γαλλικών ομολόγων, ενώ προηγουμένως οι ταύροι αντιμετώπισαν κρίσιμα τεστ μετά από μια βραχυπρόθεσμη συμπίεση (short squeeze) και την εξασθένιση της εξαιρετικότητας του αμερικανικού δολαρίου."
     },
     {
       "pair": "EUR/GBP",
-      "direction": "up",
-      "change": 0.11,
-      "reason": "Το EUR/GBP ενισχύθηκε στα 0.8347 (+0.11%). Οι πρόσφατες αναλύσεις δείχνουν προβλέψεις για το EUR/GBP προς το 0.84 σε τρεις μήνες, ενώ η βρετανική λίρα δέχεται πιέσεις εν μέσω προειδοποιήσεων για απειλές στην ανάκαμψη μετά τον προϋπολογισμό και τεχνικές αντιδράσεις."
+      "direction": "flat",
+      "change": -0.05,
+      "reason": "Η ισοτιμία διαμορφώθηκε στα 0,8334, καταγράφοντας οριακή μεταβολή -0,05% (flat) σε σχέση με το κλείσιμο της ΕΚΤ στις 30/10 (0,8338). Οι ειδήσεις αναφέρουν προβλέψεις της Rabobank για την πορεία της ισοτιμίας προς το 0,84 σε τρίμηνο ορίζοντα και δοκιμασίες της λίρας έναντι του δολαρίου μετά τον προϋπολογισμό, χωρίς ωστόσο να καταγράφεται κάποιος συγκεκριμένος άμεσος καταλύτης ειδήσεων που να εξηγεί τη μικρή αυτή κίνηση."
     },
     {
       "pair": "EUR/CHF",
-      "direction": "up",
-      "change": 0.25,
-      "reason": "Το EUR/CHF κατέγραψε άνοδο στα 0.9217 (+0.25%). Η κίνηση αυτή συμβαίνει εν μέσω τεχνικών προοπτικών που θέτουν στο επίκεντρο σημαντικές στηρίξεις για το USD/CHF και ευρύτερες αναπροσαρμογές στην αγορά συναλλάγματος λόγω εκλογικών κινδύνων."
+      "direction": "down",
+      "change": -0.14,
+      "reason": "Η ισοτιμία υποχώρησε στα 0,9181 (-0,14%) από το κλείσιμο της ΕΚΤ στις 30/10 (0,9194). Παρά τις τεχνικές αναλύσεις για την τεχνική προοπτική του ελβετικού φράγκου και την αντιστροφή του USD/CHF, δεν υπάρχει στις επικεφαλίδες κάποιος συγκεκριμένος θεμελιώδης λόγος που να αιτιολογεί ειδικά τη πτώση του EUR/CHF."
     }
   ],
-  "updated": "2026-11-01T18:31+00:00",
+  "updated": "2026-11-01T19:31+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1179,
-    "GBP": 0.8347,
-    "CHF": 0.9217
+    "USD": 1.1159,
+    "GBP": 0.8334,
+    "CHF": 0.9181
   },
   "sources": [
     {
@@ -45,12 +45,12 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
     },
     {
-      "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
-    },
-    {
       "title": "FOREX.com: EUR/USD Short Squeeze Underway as Yields Drag US Dollar Lower - FOREX.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWxSYVBReVVWa2tKZkhXY0JDOERSY1lUUGVvbUdFSkZZODBsaW1Tc2NTWUs1MF8tMFlEVlJIUjdJVHozWFgwd0l4R00zdnRMaVZOQkNvQV8wRUJZTU1QN0JhTXJId0FZQS14WkhIWTVCSkNTY0ZDY3RTS3NkTU1OS3g5NmNkSF85UGpjZXNyNkV6aklMbjVIVHZ3a2k3RXlVQkhmV0w0N1dIblJS0gG4AUFVX3lxTE9hS3JxRGR1YjI0UlRmNUVFWkE2dWhfQnBTNHFOTk1hRDRDY0doY0NNUldiQmdVWFJqRkJMSDJoalNNbHVNemx2dXJsYkQtcXZhZEFLOTN1ZGMwR3BUUGhkLTB5WEtHTjRheFljT2lKbjZ2S2NBMFhidDVGR3FRRHdMOUtZSG92d2VXWTJ6WlF4WG5JMzdYbHN2QnlFa1BCNTJ4RmNuTW9PSFJqZ2d5Nm1xdVppTWRSQ3U?oc=5"
+    },
+    {
+      "title": "StoneX: Euro Technical Outlook: EUR/USD Bulls Face Critical Test After Support Rebound - S",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFVmQ2d1R0t2VnAtVF9ERDN6WG5QVENGT1RmUnJ0TWNHV1JxZDR6YkhXTGdRbHpPdGRwQk1nc0Zrd1dIUEtYYUJ6WGU4RnJ4bkQtX1cyT1lfaE9JTXBudGJYMUVIb2VMcnFqSzluM196YllxTGxSNV9FVmhPaVpjcmpSVGlVNkxEZXY5aEJhbTBmQXBSWUpsZ0xaRmhnVFhqbkJGb21FZUp3VUxpeVlxS2JZRzZvZHZmVGlQeV9LN0RMZEk?oc=5"
     },
     {
       "title": "Yahoo Finance UK: GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK",
