@@ -1,26 +1,26 @@
 {
-  "headline": "Το ευρώ κινήθηκε ανοδικά έναντι του δολαρίου, της στερλίνας και του ελβετικού φράγκου εν μέσω συζητήσεων για τεχνικές διασπάσεις και δημοσιονομικούς κινδύνους.",
+  "headline": "Το ευρώ κινήθηκε ανοδικά έναντι των κύριων νομισμάτων εν μέσω τεχνικών δοκιμασιών και πολιτικών ειδήσεων.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
       "change": 0.06,
-      "reason": "Η ισοτιμία ενισχύθηκε καθώς αναλύθηκε η εξασθένιση της εξαιρετικής θέσης του δολαρίου και οι τεχνικές προοπτικές διάσπασης. Παράλληλα, οι επενδυτές παρακολούθησαν την αναμονή για το γαλλικό ομολογιακό αποτέλεσμα και τους ευρωπαϊκούς ενεργειακούς και δημοσιονομικούς κινδύνους."
+      "reason": "Η ισοτιμία ενισχύθηκε οριακά κατά 0,06% στα 1,1179, καθώς οι επενδυτές επικεντρώθηκαν σε τεχνικές αναλύσεις, τις προοπτικές υποστήριξης του ευρώ, τους ευρωπαϊκούς ενεργειακούς και δημοσιονομικούς κινδύνους, καθώς και στην αναμονή για την ετυμηγορία των γαλλικών ομολόγων."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
       "change": 0.11,
-      "reason": "Η ισοτιμία κατέγραψε άνοδο, ενώ οι αναλύσεις επικεντρώθηκαν στην τιμολόγηση των επιτοκίων από την Τράπεζα της Αγγλίας και στις προβλέψεις της Rabobank για την πορεία του ζεύγους προς το 0.84 σε τρίμηνο ορίζοντα."
+      "reason": "Η ισοτιμία κατέγραψε άνοδο 0,11% φτάνοντας στο 0,8347. Σύμφωνα με τις διαθέσιμες ειδήσεις, οι αναλυτές εξέτασαν τις προβλέψεις της Rabobank για την πορεία της στερλίνας και του ευρώ, ενώ σημειώθηκε ότι η τιμολόγηση των επιτοκίων περιορίζει περαιτέρω κέρδη για τη βρετανική λίρα."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
       "change": 0.25,
-      "reason": "Το ευρώ ενισχύθηκε έναντι του ελβετικού φράγκου, ανακάμπτοντας ελαφρώς μετά από μια πτωτική πορεία τον Οκτώβριο που το είχε οδηγήσει σε χαμηλά 17 εβδομάδων, με φόντο τις τεχνικές προοπτικές του ζεύγους."
+      "reason": "Η ισοτιμία ενισχύθηκε κατά 0,25% στα 0,9217. Παρά το γεγονός ότι δεν υπάρχει κάποιος άμεσος πρωτογενής τίτλος ειδήσεων που να αιτιολογεί αποκλειστικά τη συγκεκριμένη κίνηση πέραν των τεχνικών outlook για το ελβετικό φράγκο έναντι του δολαρίου και του ευρώ, η αγορά κινήθηκε θετικά για το κοινό νόμισμα."
     }
   ],
-  "updated": "2026-11-01T00:57+00:00",
+  "updated": "2026-11-01T02:45+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
     "USD": 1.1179,
@@ -33,12 +33,8 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html"
     },
     {
-      "title": "ECB: Decisions taken by the Governing Council of the ECB (in addition to decisions setting",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html"
-    },
-    {
-      "title": "Yahoo Finance UK: EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
+      "title": "Yahoo! Finance Canada: EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo!",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
     },
     {
       "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
@@ -50,15 +46,19 @@
     },
     {
       "title": "FOREX.com: US Dollar Price Action Setups: EUR/USD, GBP/USD, USD/JPY - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkVrbzUybnZWQzN1V2lSbEl2OXdkSDNpRDVwN0RScWlrd2FwY1llWVlPdWJfY09FSkh2UmlXb0diRUZIQmtjeTJOWHlOWER1UUl2TkxWR0xFY2xNX2J3RmtnV1YwbmU5RFRjT0h3MGw0OGtNSld0eUNJZ1RjM2FnU3hMeTRPWlNTVmZEOFRiSXFNSWs5RHBVSWtWNGNhTW9DUmJUaXRoZkZNYXhO?oc=5"
-    },
-    {
-      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXNweEtOODZyaFJnekZZNlBzMGFaQnJLTEgxNUhIdmtJSFBCR04xODZkcDU4bGlKM0doQ1FhYkt6S3hIbEpBLUpJeVJtLWZrZFVqVnotcU9Jc1l2QWNJazFMMW5zUlBuWWVmTlBHRDE4Y1dCUzlFWFNkT090Y0N4bG42ZmhWUkFGeG9ZZDRHZG1tSWRNbkxURG1lOTRsbU81TTBranFsbUNkT0FuazhHUdIBvAFBVV95cUxQVWhZM3BxN0xZOF9BaVB4bkJXZVFSZ0RuZTQ1dUdOVktab0tLTkhRUU5NbVhweWdKa1kwNS1KTUxRczJoYkpMSnBoWDdoUF90SVhpdVdfNVhXTG1LcEpZd1FFbDd0VkNubUItOWJVSVZBSHBiOVlCSWtKVVNESkM2RXpWdW9JdF9zZGoyWXVmS0xhMmlTcGxGbHdhM3dJTENFRU5xaHBxbE5aZGlMSlpTaV90VVNfMHViaTMxbg?oc=5"
     },
     {
       "title": "StoneX: USD/JPY falters, EUR/USD awaits French bond verdict - StoneX",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
+    },
+    {
+      "title": "FOREX.com: EUR/USD Forecast: FOREX Friday | October 30, 2026 - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmdMTnZoYkIzZXZOU1Qybkc0QmlEUXpEaWlpMWtLLUMxOXlodGMtWjhpbnk2V1hvRm1OUVdUa2ZsT2wyNTl0NVRrZkY4ZDFza01zbVFQZHMyQTl3MkJ6SVBnMDNSUjJPdUFDUzJsOTBGX2JyWXJIN2FFbWRPeldKOUhoV2xPSlR3MUdyUkxFOER0NVU?oc=5"
+    },
+    {
+      "title": "Yahoo Finance UK: GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbzZVOXY1Z0JsbVlxU2paRTdhaDZSTFJ6RzRCLUF1ek1EcW9JeEFXUWdHem15UW0ydzAzYTNDSy1xWHNWS1d3c3lGOHdjQXZTQlN2Y1l6NDNEUQ?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
