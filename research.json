@@ -1,26 +1,26 @@
 {
-  "headline": "Το ευρώ ενισχύθηκεέναντι του δολαρίου, της λίρας και του φράγκου, υποβοηθούμενο από τις προσδοκίες για περιορισμένη απόκλιση νομισματικής πολιτικής.",
+  "headline": "Το ευρώ κινήθηκε ανοδικά έναντι του δολαρίου, της στερλίνας και του ελβετικού φράγκου εν μέσω συζητήσεων για τεχνικές διασπάσεις και δημοσιονομικούς κινδύνους.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
       "change": 0.06,
-      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1,1179. Η κίνηση υποστηρίχθηκε από την περιορισμένη απόκλιση πολιτικής έναντι του δολαρίου και την προσοχή της αγοράς στη γαλλική απόφαση για τα ομόλογα."
+      "reason": "Η ισοτιμία ενισχύθηκε καθώς αναλύθηκε η εξασθένιση της εξαιρετικής θέσης του δολαρίου και οι τεχνικές προοπτικές διάσπασης. Παράλληλα, οι επενδυτές παρακολούθησαν την αναμονή για το γαλλικό ομολογιακό αποτέλεσμα και τους ευρωπαϊκούς ενεργειακούς και δημοσιονομικούς κινδύνους."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
       "change": 0.11,
-      "reason": "Το EUR/GBP ενισχύθηκε στα 0,8347. Σύμφωνα με τα διαθέσιμα νέα, η τιμολόγηση των επιτοκίων και τα στοιχήματα για αυξήσεις από την Τράπεζα της Αγγλίας (BoE) επηρέασαν τη δυναμική του ζεύγους, με την Rabobank να βλέπει το EUR/GBP στο 0,84 σε τρίμηνο ορίζοντα."
+      "reason": "Η ισοτιμία κατέγραψε άνοδο, ενώ οι αναλύσεις επικεντρώθηκαν στην τιμολόγηση των επιτοκίων από την Τράπεζα της Αγγλίας και στις προβλέψεις της Rabobank για την πορεία του ζεύγους προς το 0.84 σε τρίμηνο ορίζοντα."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
       "change": 0.25,
-      "reason": "Το EUR/CHF ανέκαμψε στα 0,9217, παρόλο που σημειώθηκε πτώση 3% τον Οκτώβριο σε χαμηλό 17 εβδομάδων. Τα νέα περιλαμβάνουν τεχνικές αναλύσεις για την πορεία του ζεύγους."
+      "reason": "Το ευρώ ενισχύθηκε έναντι του ελβετικού φράγκου, ανακάμπτοντας ελαφρώς μετά από μια πτωτική πορεία τον Οκτώβριο που το είχε οδηγήσει σε χαμηλά 17 εβδομάδων, με φόντο τις τεχνικές προοπτικές του ζεύγους."
     }
   ],
-  "updated": "2026-10-31T22:32+00:00",
+  "updated": "2026-11-01T00:57+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
     "USD": 1.1179,
@@ -49,16 +49,16 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWl6Q2R4X0RRV01UeWMwMmNaYVdqWmY2d3FDQ1YzR0V0MV9vbEpHUTJENmd2NDlwekNQUkNmd21oUjJBUV9ST0VFZ3k1TVhLOGt4VEpWZUhzTEVSREhlSGhwcGJ6MUZXeEkydzlrU2JBTkMzZTNuMHV6TnZfbzRkMUVJQ3RTeF9IRlVGYlNmMlQ0NGFzaks4MEs2Y2s1ald6ejU3dVpNSlQ5X0gxMjZLUHNqM2pFRmhGQWNuaU5SQW83Y0ZHR1lVTFZRMllfR05TekIwV1N0dUtBZHc?oc=5"
     },
     {
+      "title": "FOREX.com: US Dollar Price Action Setups: EUR/USD, GBP/USD, USD/JPY - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkVrbzUybnZWQzN1V2lSbEl2OXdkSDNpRDVwN0RScWlrd2FwY1llWVlPdWJfY09FSkh2UmlXb0diRUZIQmtjeTJOWHlOWER1UUl2TkxWR0xFY2xNX2J3RmtnV1YwbmU5RFRjT0h3MGw0OGtNSld0eUNJZ1RjM2FnU3hMeTRPWlNTVmZEOFRiSXFNSWs5RHBVSWtWNGNhTW9DUmJUaXRoZkZNYXhO?oc=5"
+    },
+    {
+      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
+    },
+    {
       "title": "StoneX: USD/JPY falters, EUR/USD awaits French bond verdict - StoneX",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
-    },
-    {
-      "title": "FXStreet: Euro: Supported by limited policy divergence against US Dollar – BBH - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHVPVTJ2eFJWSGxXXy1HR1d3REdKRWwtSzhNcXVFXzlsaWRuMFNjRF93VFE5dDdNaURpU0pTOGpscjliQjRIT2VrNHZWLVYxV0VtamxfQzZJejRRZG5tR1FSSEpZb1BHNFZKZ2JFa25FX1k4R1NkZDF3ZnRzRlRYbHhoLUEtT0hqcjU5LVN1STItei1mWnp6RE9SczR4dE5KSDlVSzdmb2VTeUxs?oc=5"
-    },
-    {
-      "title": "FOREX.com: EUR/USD Forecast: FOREX Friday | October 30, 2026 - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmdMTnZoYkIzZXZOU1Qybkc0QmlEUXpEaWlpMWtLLUMxOXlodGMtWjhpbnk2V1hvRm1OUVdUa2ZsT2wyNTl0NVRrZkY4ZDFza01zbVFQZHMyQTl3MkJ6SVBnMDNSUjJPdUFDUzJsOTBGX2JyWXJIN2FFbWRPeldKOUhoV2xPSlR3MUdyUkxFOER0NVU?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
