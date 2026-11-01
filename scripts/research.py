@@ -12,6 +12,7 @@ Runs on GitHub Actions every 2 hours:
 Only the Python standard library is used, so nothing needs installing.
 """
 
+import csv
 import json
 import os
 import re
@@ -210,6 +211,39 @@ def parse_json(text):
     return json.loads(match.group(0))
 
 
+# ---------- history ----------
+
+HISTORY_DIR = "history"
+
+
+def save_history(result):
+    """Keep every run:
+       history/rates.csv            -> one row per run (opens in Excel)
+       history/analyses-YYYY-MM.jsonl -> the full analysis, one line per run
+    """
+    os.makedirs(HISTORY_DIR, exist_ok=True)
+
+    csv_path = os.path.join(HISTORY_DIR, "rates.csv")
+    new_file = not os.path.exists(csv_path)
+    with open(csv_path, "a", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        if new_file:
+            header = ["updated", "compared_to"]
+            for cur in PAIRS:
+                header += [f"EUR/{cur}", f"EUR/{cur} change %", f"EUR/{cur} direction"]
+            writer.writerow(header)
+        row = [result["updated"], result.get("compared_to", "")]
+        for p in result["pairs"]:
+            cur = p["pair"].split("/")[1]
+            row += [result["rates"].get(cur, ""), p.get("change", ""), p.get("direction", "")]
+        writer.writerow(row)
+
+    month = result["updated"][:7]   # e.g. 2026-11
+    jsonl_path = os.path.join(HISTORY_DIR, f"analyses-{month}.jsonl")
+    with open(jsonl_path, "a", encoding="utf-8") as f:
+        f.write(json.dumps(result, ensure_ascii=False) + "\n")
+
+
 # ---------- main ----------
 
 def main():
@@ -273,6 +307,8 @@ def main():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
+
+    save_history(result)
 
     print("Saved", OUTPUT_FILE)
     print(json.dumps(result, ensure_ascii=False, indent=2))
