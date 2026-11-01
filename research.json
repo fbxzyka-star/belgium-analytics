@@ -1,26 +1,26 @@
 {
-  "headline": "Το ευρώ ενισχύθηκε έναντι των βασικών νομισμάτων εν μέσω αναλύσεων για τη στάση του δολαρίου και τις τεχνικές προοπτικές.",
+  "headline": "Το ευρώ ενισχύεται έναντι των βασικών νομισμάτων καθώς το δολάριο υποχωρεί λόγω αποδόσεων και αμφισβήτησης της αμερικανικής εξαιρετικότητας.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
       "change": 0.06,
-      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1.1179 (+0.06%). Η κίνηση αυτή υποστηρίχθηκε από αναφορές ότι η εξαιρετική πορεία του δολαρίου εξασθενεί και ότι οι επενδυτές παρακολουθούν τα τεχνικά επίπεδα διάσπασης και τις αναμονές για τη γαλλική ομολογιακή αγορά."
+      "reason": "Η ισοτιμία ενισχύθηκε στα 1.1179 (+0.06%) καθώς οι αποδόσεις οδηγούν το δολάριο χαμηλότερα και βρίσκεται σε εξέλιξη βραχυπρόθεσμο σφίξιμο (short squeeze), με την αγορά να παρακολουθεί την προοπτική διάσπασης και τη γαλλική απόφαση για τα ομόλογα."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
       "change": 0.11,
-      "reason": "Το EUR/GBP ενισχύθηκε στα 0.8347 (+0.11%). Η άνοδος αυτή σημειώθηκε την ίδια περίοδο που αναλύσεις της αγοράς εξέταζαν τις προοπτικές της στερλίνας και τις προβλέψεις για τη3μηνη πορεία της ισοτιμίας."
+      "reason": "Η ισοτιμία ανέβηκε στα 0.8347 (+0.11%). Οι διαθέσιμες ειδήσεις δεν παρέχουν σαφή θεμελιώδη οδηγό για την κίνηση αυτή, πέραν των αναλύσεων για τη βρετανική λίρα και τις προβλέψεις της Rabobank."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
       "change": 0.25,
-      "reason": "Το EUR/CHF κατέγραψε άνοδο φτάνοντας τα 0.9217 (+0.25%). Σύμφωνα με τα διαθέσιμα νέα, η κίνηση συνδέεται με τις τεχνικές προοπτικές και τις αναλύσεις γύρω από τις κινήσεις του ελβετικού φράγκου και τα κύρια επίπεδα στήριξης."
+      "reason": "Η ισοτιμία κατέγραψε άνοδο στα 0.9217 (+0.25%). Οι διαθέσιμες ειδήσεις δεν περιέχουν συγκεκριμένο οδηγό ειδήσεων για την κίνηση αυτή, πέραν των τεχνικών αναλύσεων για το ελβετικό φράγκο."
     }
   ],
-  "updated": "2026-11-01T04:48+00:00",
+  "updated": "2026-11-01T06:51+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
     "USD": 1.1179,
@@ -29,28 +29,28 @@
   },
   "sources": [
     {
-      "title": "StoneX: USD/JPY falters, EUR/USD awaits French bond verdict - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
+      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
     },
     {
       "title": "Yahoo! Finance Canada: EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo!",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
     },
     {
-      "title": "FOREX.com: US Dollar Price Action Setups: EUR/USD, GBP/USD, USD/JPY - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXNweEtOODZyaFJnekZZNlBzMGFaQnJLTEgxNUhIdmtJSFBCR04xODZkcDU4bGlKM0doQ1FhYkt6S3hIbEpBLUpJeVJtLWZrZFVqVnotcU9Jc1l2QWNJazFMMW5zUlBuWWVmTlBHRDE4Y1dCUzlFWFNkT090Y0N4bG42ZmhWUkFGeG9ZZDRHZG1tSWRNbkxURG1lOTRsbU81TTBranFsbUNkT0FuazhHUdIBvAFBVV95cUxQVWhZM3BxN0xZOF9BaVB4bkJXZVFSZ0RuZTQ1dUdOVktab0tLTkhRUU5NbVhweWdKa1kwNS1KTUxRczJoYkpMSnBoWDdoUF90SVhpdVdfNVhXTG1LcEpZd1FFbDd0VkNubUItOWJVSVZBSHBiOVlCSWtKVVNESkM2RXpWdW9JdF9zZGoyWXVmS0xhMmlTcGxGbHdhM3dJTENFRU5xaHBxbE5aZGlMSlpTaV90VVNfMHViaTMxbg?oc=5"
+      "title": "FOREX.com: EUR/USD Short Squeeze Underway as Yields Drag US Dollar Lower - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWxSYVBReVVWa2tKZkhXY0JDOERSY1lUUGVvbUdFSkZZODBsaW1Tc2NTWUs1MF8tMFlEVlJIUjdJVHozWFgwd0l4R00zdnRMaVZOQkNvQV8wRUJZTU1QN0JhTXJId0FZQS14WkhIWTVCSkNTY0ZDY3RTS3NkTU1OS3g5NmNkSF85UGpjZXNyNkV6aklMbjVIVHZ3a2k3RXlVQkhmV0w0N1dIblJS0gG4AUFVX3lxTE9hS3JxRGR1YjI0UlRmNUVFWkE2dWhfQnBTNHFOTk1hRDRDY0doY0NNUldiQmdVWFJqRkJMSDJoalNNbHVNemx2dXJsYkQtcXZhZEFLOTN1ZGMwR3BUUGhkLTB5WEtHTjRheFljT2lKbjZ2S2NBMFhidDVGR3FRRHdMOUtZSG92d2VXWTJ6WlF4WG5JMzdYbHN2QnlFa1BCNTJ4RmNuTW9PSFJqZ2d5Nm1xdVppTWRSQ3U?oc=5"
     },
     {
       "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
     },
     {
-      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
+      "title": "StoneX: USD/JPY falters, EUR/USD awaits French bond verdict - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
     },
     {
-      "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
+      "title": "Yahoo Finance Singapore: EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance Sing",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xZXhQdllmNlJRWEt6OG5KTGlYYks2cjl0SnYzR0k3V2R5VHhDdGtKcFpYRmNxWDRTZ3M5NlFYM2dkbFFDaTQ3T0tUNFdEUG92NUxFV0I2RQ?oc=5"
     },
     {
       "title": "Yahoo Finance UK: GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK",
