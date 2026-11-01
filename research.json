@@ -1,40 +1,40 @@
 {
-  "headline": "Η αγορά συναλλάγματος αντιδρά σε τεχνικές δοκιμές, τις ανησυχίες για τα γαλλικά ομόλογα και τις μεταβολές των αποδόσεων.",
+  "headline": "Η αγορά συναλλάγματος επηρεάζεται από τις γαλλικές ανησυχίες για τα ομόλογα, τον πληθωρισμό και τις εξελίξεις στην ΕΚΤ.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.12,
-      "reason": "Το ζεύγος υποχώρησε ελαφρώς στα 1,1159 από το κλείσιμο της ΕΚΤ στα 1,1172 (-0,12%), παρά το γεγονός ότι οι ταύροι αντιμετωπίζουν κρίσιμη τεχνική δοκιμή και πιθανό short squeeze λόγω πτώσης των αποδόσεων του δολαρίου. Παράλληλα, οι πιέσεις συνεχίζονται εν μέσω ανησυχιών για τον πληθωρισμό, τα γαλλικά ομόλογα και την εξασθένηση της εξαιρετικότητας του δολαρίου."
+      "change": -0.13,
+      "reason": "Το EUR/USD υποχώρησε ελαφρώς στα 1.1157 (-0.13%). Η κίνηση αυτή αποδίδεται στις ανησυχίες γύρω από τα γαλλικά ομόλογα και τον πληθωρισμό που δοκιμάζουν το ευρώ, καθώς και στις αναλύσεις σχετικά με την επόμενη μέρα στην ΕΚΤ μετά την παραίτηση της Λαγκάρντ, παρά το γεγονός ότι προηγήθηκαν πιέσεις στο δολάριο από τις αποδόσεις και τεχνικές δοκιμές στήριξης."
     },
     {
       "pair": "EUR/GBP",
       "direction": "down",
-      "change": -0.07,
-      "reason": "Το ζεύγος κατέγραψε οριακή πτώση στα 0,8332 από 0,8338 (-0,07%). Οι διαθέσιμες ειδήσεις δεν παρέχουν κάποιο σαφές θεμελιώδες γεγονός αποκλειστικά για αυτή τη μικρή κίνηση, εκτός από τις γενικότερες αναλύσεις για την πορεία της στερλίνας και του ευρώ έναντι του δολαρίου."
+      "change": -0.06,
+      "reason": "Το EUR/GBP κατέγραψε μικρή πτώση στα 0.8333 (-0.06%). Οι διαθέσιμες ειδήσεις δεν προσφέρουν σαφή οδηγό ή συγκεκριμένο θεμελιώδες γεγονός που να εξηγεί αποκλειστικά αυτή την οριακή μεταβολή της ισοτιμίας."
     },
     {
       "pair": "EUR/CHF",
-      "direction": "up",
-      "change": 0.1,
-      "reason": "Το ζεύγος ενισχύθηκε στα 0,9203 από 0,9194 (+0,10%), καθώς οι τεχνικές προοπτικές του ελβετικού φράγκου δείχνουν αναστροφή και πιέσεις στη στήριξη. Ωστόσο, δεν υπάρχουν πρόσθετες ειδήσεις που να αιτιολογούν περαιτέρω την κίνηση."
+      "direction": "flat",
+      "change": 0.01,
+      "reason": "Το EUR/CHF παρέμεινε σχεδόν αμετάβλητο στα 0.9195 (+0.01%). Σύμφωνα με τα διαθέσιμα στοιχεία, δεν υπάρχει κάποιος ξεκάθαρος ειδησεογραφικός καταλύτης που να εξηγεί αυτή την επίπεδη κίνηση, παρόλο που καταγράφηκαν αναφορές για εκτίναξη του ελβετικού φράγκου λόγω αναταραχών στην αγορά ομολόγων."
     }
   ],
-  "updated": "2026-11-01T21:03+00:00",
+  "updated": "2026-11-01T23:00+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1159,
-    "GBP": 0.8332,
-    "CHF": 0.9203
+    "USD": 1.1157,
+    "GBP": 0.8333,
+    "CHF": 0.9195
   },
   "sources": [
     {
-      "title": "Yahoo! Finance Canada: EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
+      "title": "StoneX: Euro Technical Outlook: EUR/USD Bulls Face Critical Test After Support Rebound - S",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFVmQ2d1R0t2VnAtVF9ERDN6WG5QVENGT1RmUnJ0TWNHV1JxZDR6YkhXTGdRbHpPdGRwQk1nc0Zrd1dIUEtYYUJ6WGU4RnJ4bkQtX1cyT1lfaE9JTXBudGJYMUVIb2VMcnFqSzluM196YllxTGxSNV9FVmhPaVpjcmpSVGlVNkxEZXY5aEJhbTBmQXBSWUpsZ0xaRmhnVFhqbkJGb21FZUp3VUxpeVlxS2JZRzZvZHZmVGlQeV9LN0RMZEk?oc=5"
     },
     {
-      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
+      "title": "Yahoo! Finance Canada: EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
     },
     {
       "title": "Exchange Rates UK: Euro-Dollar Forecast: Inflation And French Bond Risks Test The Euro - E",
@@ -49,8 +49,8 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWxSYVBReVVWa2tKZkhXY0JDOERSY1lUUGVvbUdFSkZZODBsaW1Tc2NTWUs1MF8tMFlEVlJIUjdJVHozWFgwd0l4R00zdnRMaVZOQkNvQV8wRUJZTU1QN0JhTXJId0FZQS14WkhIWTVCSkNTY0ZDY3RTS3NkTU1OS3g5NmNkSF85UGpjZXNyNkV6aklMbjVIVHZ3a2k3RXlVQkhmV0w0N1dIblJS0gG4AUFVX3lxTE9hS3JxRGR1YjI0UlRmNUVFWkE2dWhfQnBTNHFOTk1hRDRDY0doY0NNUldiQmdVWFJqRkJMSDJoalNNbHVNemx2dXJsYkQtcXZhZEFLOTN1ZGMwR3BUUGhkLTB5WEtHTjRheFljT2lKbjZ2S2NBMFhidDVGR3FRRHdMOUtZSG92d2VXWTJ6WlF4WG5JMzdYbHN2QnlFa1BCNTJ4RmNuTW9PSFJqZ2d5Nm1xdVppTWRSQ3U?oc=5"
     },
     {
-      "title": "StoneX: Euro Technical Outlook: EUR/USD Bulls Face Critical Test After Support Rebound - S",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFVmQ2d1R0t2VnAtVF9ERDN6WG5QVENGT1RmUnJ0TWNHV1JxZDR6YkhXTGdRbHpPdGRwQk1nc0Zrd1dIUEtYYUJ6WGU4RnJ4bkQtX1cyT1lfaE9JTXBudGJYMUVIb2VMcnFqSzluM196YllxTGxSNV9FVmhPaVpjcmpSVGlVNkxEZXY5aEJhbTBmQXBSWUpsZ0xaRmhnVFhqbkJGb21FZUp3VUxpeVlxS2JZRzZvZHZmVGlQeV9LN0RMZEk?oc=5"
+      "title": "Investing.com: What’s next for Euro bonds and the euro after Lagarde’s resignation? - Inve",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWw3cXlmUXVvQ3ZrM0F0UGJVdllOcmhSQk5KZG9Oa2pSRmlZM0tRZ0ZGc1ExZndIQTRodF9xSWRSZ01fUXQyRDl1MGQwN3FVdXJrU015djg3d3VoX2FodGsxOGxibWZ4a192Z3NXVjZKX2E5SHVuUkxxeXR3czEwTHhWWnd4ckQ5VHg4RmdrRDdKN0Q1NWktS2NiVWFUbzZxcG5ON09xUGoybmJxNDVreFhUVWpzV3ot?oc=5"
     },
     {
       "title": "Yahoo Finance UK: GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK",
