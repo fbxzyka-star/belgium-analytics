@@ -1,31 +1,31 @@
 {
-  "headline": "Το Ευρώ ενισχύεται έναντι του δολαρίου και της βρετανικής λίρας, ενώ υποχωρεί έναντι του ελβετικού φράγκου.",
+  "headline": "Το ευρώ κινείται μεικτά ενόψει των αμερικανικών ενδιάμεσων εκλογών και των εξελίξεων σε Γερμανία και Ελβετία.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "change": 0.31,
-      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1.1207 (+0,31%) καθώς το δολάριο ΗΠΑ δέχεται πιέσεις ενόψει των αμερικανικών ενδιάμεσων εκλογών και λόγω των στοιχημάτων για διπλωματία στο Ιράν. Οι αναλυτές αναφέρουν τακτική ανοδική τάση και κίνηση του ευρώ προς βασικές αντιστάσεις, παρόλο που δυσκολεύεται να βρει ισχυρή συνέχεια πάνω από το 1.1200."
+      "change": 0.26,
+      "reason": "Το EUR/USD ενισχύθηκε σταθερά στα 1,1201 (+0,26%), καθώς το δολάριο ΗΠΑ δέχεται πιέσεις ενόψει των αμερικανικών ενδιάμεσων εκλογών. Τα δημοσιεύματα επισημαίνουν ότι ένα σενάριο νίκης των Δημοκρατικών θέτει το δολάριο σε κίνδυνο, αν και το ευρώ δυσκολεύεται να βρει ισχυρή συνέχεια πάνω από το επίπεδο του 1,1200."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.13,
-      "reason": "Το EUR/GBP ενισχύθηκε στα 0.8349 (+0,13%), σημειώνοντας ανάκαμψη καθώς το ευρώ προελαύνει προς βασικά επίπεδα αντίστασης. Η κίνηση αυτή σημειώθηκε παρά το γεγονός ότι το ευρώ περιόρισε τα κέρδη του έναντι της βρετανικής λίρας μετά την απροσδόκητη πτώση των λιανικών πωλήσεων στη Γερμανία τον Σεπτέμβριο."
+      "change": 0.12,
+      "reason": "Το EUR/GBP ανέβηκε στα 0,8348 (+0,12%), με το ευρώ να προχωρά προς βασικά ύψη καθώς η δυναμική της βρετανικής λίρας εξασθενεί. Ωστόσο, τα κέρδη του ευρώ έναντι της λίρας περιορίστηκαν μερικώς αφότου οι λιανικές πωλήσεις στη Γερμανία σημείωσαν απροσδόκητη πτώση τον Σεπτέμβριο."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.09,
-      "reason": "Το EUR/CHF υποχώρησε στα 0.9186 (-0,09%), καθώς το ελβετικό φράγκο παραμένει ισχυρό μετά τα στοιχεία για τον δείκτη SVME PMI και καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια."
+      "change": -0.18,
+      "reason": "Το EUR/CHF υποχώρησε στα 0,9177 (-0,18%), καθώς το ελβετικό φράγκο διατηρείται ισχυρό και καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια. Η ανθεκτικότητα του φράγκου ενισχύθηκε περαιτέρω από τα ισχυρά στοιχεία του δείκτη SVME PMI."
     }
   ],
-  "updated": "2026-11-02T15:21+00:00",
+  "updated": "2026-11-02T16:28+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1207,
-    "GBP": 0.8349,
-    "CHF": 0.9186
+    "USD": 1.1201,
+    "GBP": 0.8348,
+    "CHF": 0.9177
   },
   "sources": [
     {
@@ -37,16 +37,16 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
     },
     {
-      "title": "FOREX.com: EUR/USD, Oil Forecast: Two trades to watch - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDNubXBGTmZkTmtkdW1JelZJWDg2WHRnX1BtOVIzYWU4aTRLcVlNTEU1MHZPOEV0Sk9FTkZrdU55eUlxV2szNXh5aFNwSlBFTVBmZWJlTlVuNGNaZi1ob3pDeEdMNVdLSnpINDlXZkNiWGoyTk94MllGaUIxcjVaVGVTMUk2MGNVbzRxc0d5c051V0xxRW1reEJwaUJ4RlE?oc=5"
-    },
-    {
       "title": "Yahoo Finance Singapore: US Dollar Price Forecast: DXY Holds 101.54 Ahead of US Midterms a",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVp3TUFsWHF4MmFtY2ZmSklHZHpjUnhEOVM0dUxOZ2JZTGJaSTNocG43eUYwRlRTTHQ4alk4WWJfY3UxR2dOdUNWUVltQXdXYUJzeThSWWM0ZF9NQlU1YUR6MWhpaTdHM2dVYVhMMmwtS19Xdk4tMnBxOHlpb1dsRmRIWQ?oc=5"
     },
     {
       "title": "FXStreet: EUR/USD Price Forecast: Euro struggles to find follow-through above 1.1200 - FXS",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2Z6MzU4WFdBNkJtY0dTQ3JXdUtkMHNoRVNmaGJLcXNJWDliQ3ZEUDQ0a2g3WkxWUmRtWVVOZXUwUzFUWndvbk5ObkNHZXhvRHNmMmN2alJqWDMzLTNRZnk2d29JeFdLVEZyNU5hNkY1NWs3RTVvdWxKeE9xcXE3eVh5VkZaNU55OGdrSGZReVJjcFdZQmRQdk5nTHFyZmFVNGEybnRRRVZ6SFhGdnZCR0loc2hvZmt5SFZJ?oc=5"
+    },
+    {
+      "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
     },
     {
       "title": "CurrencyNews.co.uk: Euro to Dollar Forecast: US Midterms Democrat Sweep Put USD at Risk - ",
