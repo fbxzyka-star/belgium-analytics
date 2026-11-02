@@ -1,30 +1,30 @@
 {
-  "headline": "Το ευρώ καταγράφει ήπιες κινήσεις εν μέσω προσδοκιών για τη διπλωματία στο Ιράν και ανησυχιών για το γαλλικό χρέος.",
+  "headline": "Το ευρώ κινείται ελαφρώς ανοδικά εν μέσω διπλωματικών ελπίδων για το Ιράν και ανησυχιών για το γαλλικό χρέος.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "flat",
-      "change": -0.04,
-      "reason": "Το ζεύγος κινείται σχεδόν αμετάβλητο. Σύμφωνα με τα στοιχεία, το ευρώ ενισχύεται ελαφρά καθώς οι ελπίδες για τη διπλωματία στο Ιράν ασκούν πιέσεις στο δολάριο, ωστόσο τα κέρδη περιορίζονται από τις ανησυχίες για το γαλλικό χρέος και τα ομόλογα."
+      "change": 0.02,
+      "reason": "Το EUR/USD σημείωσε οριακή άνοδο καθώς οι ελπίδες για τη διπλωματία στο Ιράν πίεσαν το δολάριο. Ωστόσο, τα κέρδη του ευρώ περιορίστηκαν από τις ανησυχίες για το γαλλικό χρέος και τα ομόλογα."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.07,
-      "reason": "Δεν υπάρχει ξεκάθαρος καταλύτης ειδήσεων στους διαθέσιμους τίτλους που να εξηγεί την οριακή άνοδο του ζεύγους."
+      "change": 0.08,
+      "reason": "Δεν υπάρχει σαφής οδηγός ειδήσεων στα κορυφαία νέα για την κίνηση του EUR/GBP πέρα από τις γενικότερες πιέσεις που δέχεται το ευρώ από τα ζητήματα του γαλλικού χρέους και τον πληθωρισμό."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
       "change": 0.16,
-      "reason": "Δεν υπάρχει ξεκάθαρος καταλύτης ειδήσεων στους διαθέσιμους τίτλους που να εξηγεί την οριακή άνοδο του ζεύγους."
+      "reason": "Δεν υπάρχει κάποιος άμεσος και σαφής ειδησεογραφικός καταλύτης στις διαθέσιμες ειδήσεις για να εξηγήσει την οριακή άνοδο του EUR/CHF."
     }
   ],
-  "updated": "2026-11-02T03:46+00:00",
+  "updated": "2026-11-02T04:51+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1168,
-    "GBP": 0.8344,
+    "USD": 1.1174,
+    "GBP": 0.8345,
     "CHF": 0.9209
   },
   "sources": [
@@ -49,8 +49,8 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
     },
     {
-      "title": "BigGo Finance: EUR/JPY Briefly Hits 1-Year Low of 175.07 Yen as AI Investment Worries Spur",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82NzFhNjJiRk56Ui1qaURsd1pzbkNQazhFbllrMngyUU5jWnAzdGhTQkFGLUJubC1BUGtYNGF5VmpMR1FfTDd1N0Y2MHFhbjVkVWhKcnlZWGE3SV9BcXd1ZkxiNDRnblpnMTExT3o5V2FYcHQzT1E?oc=5"
+      "title": "Forex Factory: Euro-Dollar Forecast: Inflation And French Bond Risks Test The Euro - Forex",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGJFb3FwUHZUa09MV1RQUm1TY1NMbTRoakRNcFpXZ1d1TERySEdhdllQQnpQSnBaUlJzMm4tbWF3NTZwMHl0NHJmTGJOOFpOYmt6ZUg0UkFTRVdqckg0bUlZaEVEcC1haE1KRktYYjlEUTRKdzFSOV9kQkhhNmhBRF9zZVFKaU1NODRHWF9pVzhjTklVS040ZmhmczRHSzBM0gGmAUFVX3lxTE9TZXRoSldKOWRSaVNRaVlTajh6QnlRdlVkNU5pYkh0N2tQb2Jod05mQ1U4R1hWVUpIYVBmWjZDM25OTVFnTFc5NFQyNXZVMVE2T1FlVEVUM2NpdGI4RDJPc29rLVpSeHJWQU1QLXBzZm9WQkZ5Z2ZWbjlhSmtfVWtEU1VsQ0FyT3NZb2s0Y2tkM1o5Y0V3RHBWUENDdmRWazBjY0cxMUE?oc=5"
     },
     {
       "title": "Yahoo Finance UK: GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK",
