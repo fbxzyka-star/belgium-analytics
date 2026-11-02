@@ -1,30 +1,30 @@
 {
-  "headline": "Το ευρώ κινείται ελαφρώς ανοδικά εν μέσω διπλωματικών ελπίδων για το Ιράν και ανησυχιών για το γαλλικό χρέος.",
+  "headline": "Το ευρώ ενισχύεται ελαφρά έναντι των βασικών νομισμάτων, με το βλέμμα στραμμένο στις γεωπολιτικές εξελίξεις, τα ευρωπαϊκά ομόλογα και τα στοιχεία για τον πληθωρισμό.",
   "pairs": [
     {
       "pair": "EUR/USD",
-      "direction": "flat",
-      "change": 0.02,
-      "reason": "Το EUR/USD σημείωσε οριακή άνοδο καθώς οι ελπίδες για τη διπλωματία στο Ιράν πίεσαν το δολάριο. Ωστόσο, τα κέρδη του ευρώ περιορίστηκαν από τις ανησυχίες για το γαλλικό χρέος και τα ομόλογα."
+      "direction": "up",
+      "change": 0.11,
+      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1.1184 (+0.11%). Η άνοδος τροφοδοτήθηκε από τις ελπίδες για διπλωματία στο Ιράν που πίεσαν το δολάριο, παρόλο που τα κέρδη του ευρώ περιορίζονται από τις ανησυχίες για το γαλλικό χρέος και τις εκκρεμότητες γύρό από τα ομόλογα και τον πληθωρισμό."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.08,
-      "reason": "Δεν υπάρχει σαφής οδηγός ειδήσεων στα κορυφαία νέα για την κίνηση του EUR/GBP πέρα από τις γενικότερες πιέσεις που δέχεται το ευρώ από τα ζητήματα του γαλλικού χρέους και τον πληθωρισμό."
+      "change": 0.1,
+      "reason": "Το EUR/GBP κινήθηκε ανοδικά στα 0.8346 (+0.10%). Οι διαθέσιμες ειδήσεις δεν παρέχουν έναν σαφή, άμεσο οδηγό ειδήσεων αποκλειστικά για την κίνηση αυτού του σταυρού (cross rate)."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
       "change": 0.16,
-      "reason": "Δεν υπάρχει κάποιος άμεσος και σαφής ειδησεογραφικός καταλύτης στις διαθέσιμες ειδήσεις για να εξηγήσει την οριακή άνοδο του EUR/CHF."
+      "reason": "Το EUR/CHF κινήθηκε ανοδικά στα 0.9209 (+0.16%). Οι διαθέσιμες ειδήσεις αναφέρουν αναστροφή του USD/CHF και άνοδο του ελβετικού φράγκου λόγω «σφαγής» στα ομόλογα, ωστόσο δεν προσφέρουν λεπτομερή εξήγηση για τη συγκεκριμένη ημερήσια μεταβολή του σταυρού."
     }
   ],
-  "updated": "2026-11-02T04:51+00:00",
+  "updated": "2026-11-02T05:52+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1174,
-    "GBP": 0.8345,
+    "USD": 1.1184,
+    "GBP": 0.8346,
     "CHF": 0.9209
   },
   "sources": [
@@ -33,8 +33,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
     },
     {
-      "title": "StoneX: Yen Bulls Loaded Up into BOJ as Euro Shorts Hit 11-Year Extreme| COT report - Ston",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLU9KSGdKVWJmRURiTENUcWFuUHBOelk1amh3QWJzN2M4OXhwYmtGSms5aDdLUnB1NXJocDJmLWlBaWZyMWdPNktIOVYwUHdFaUM4LTJtcWpDZTRSWmpQYmNHZ09jOWVkNHF4RllESFFtQkZ1OTFvMmthZzlnVGhGeXp4Y3ZHdEE1TG8tM1VqeFh3Vi03R0RTMXJmMDA1RXhGRnVGT01obXZ4TzlzeVlYZDl2eGx2eExBU0JGZ0RoV1pScFdGc3Q4OHZiQ0otQQ?oc=5"
+      "title": "FOREX.com: Yen Bulls Loaded Up into BOJ as Euro Shorts Hit 11-Year Extreme| COT report - F",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0t3T2VWc1RJdENKOVd6Z0E0QmRzRHI4d1RORmNWaTl4d2lRZ0pTeGRwRlFxMW90SEhHRnYyQTFVc3hSWVNuTE9WcUlMYzkyZTlfanQ4SUJGV1dBVUZsazFSRFljZWswMTluRDJrLXd6U0cyWEdrdWpJY3Zwa0F3RWZmbGVIN2M1Z0cwXzFVM3M1R0w4aDhLZmZJWGc5UzNnOVQ4VDdHQURxWkNxWm5EVHJpck1IemZXUUVwbFZwaVV3QUlXekJjLURB0gHKAUFVX3lxTE5jS3dPZVZzVEl0Q0o5V3pnQTRCZHNEcjh3VE5GY1ZpOXh3aVFnSlN4ZHBGUXExb3RISEdGdjJBMVVzeFJZU25MT1ZxSUxjOTJlOV9qdDhJQkZXV0FVRmxrMVJEWWNlazAxOW5EMmstd3pTRzJYR2t1akljdnBrQXdFZmZsZUg3YzVnRzBfMVUzczVHTDhoOEtmZklYZzlTM2c5VDhUN0dBRHFaQ3FabkRUcmlyTUh6ZldRRXBsVnBpVXdBSVd6QmMtREE?oc=5"
+    },
+    {
+      "title": "StoneX: USD/JPY falters, EUR/USD awaits French bond verdict - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
     },
     {
       "title": "FXStreet: Euro edges higher as Iran diplomacy hopes weigh on the USD; French debt worries ",
@@ -45,10 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlhFTXk0WEN3LVY4TlNEVVptRUdrSVRHTE1kdUJGT3RVdkFpZnJRNm9LSkxmUEdXTTFfdlJqUVRtc1hjckxvSEk5bWNKMG1IOUNPNjlhcklSSGR3QnE2amMxdHlsOWRPV19pNEtTc0gtTGFwYkJ1amt4MnBWczZQejR1UVdRUXZpR25Pay1TLWJmdC1CN1VzUmNwNEJHcFpVNi1rMVdLT1R1TUY2NC1sYW9mcWx1ZzZobVZyN3dPS3RVUzhD?oc=5"
     },
     {
-      "title": "StoneX: USD/JPY falters, EUR/USD awaits French bond verdict - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
-    },
-    {
       "title": "Forex Factory: Euro-Dollar Forecast: Inflation And French Bond Risks Test The Euro - Forex",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGJFb3FwUHZUa09MV1RQUm1TY1NMbTRoakRNcFpXZ1d1TERySEdhdllQQnpQSnBaUlJzMm4tbWF3NTZwMHl0NHJmTGJOOFpOYmt6ZUg0UkFTRVdqckg0bUlZaEVEcC1haE1KRktYYjlEUTRKdzFSOV9kQkhhNmhBRF9zZVFKaU1NODRHWF9pVzhjTklVS040ZmhmczRHSzBM0gGmAUFVX3lxTE9TZXRoSldKOWRSaVNRaVlTajh6QnlRdlVkNU5pYkh0N2tQb2Jod05mQ1U4R1hWVUpIYVBmWjZDM25OTVFnTFc5NFQyNXZVMVE2T1FlVEVUM2NpdGI4RDJPc29rLVpSeHJWQU1QLXBzZm9WQkZ5Z2ZWbjlhSmtfVWtEU1VsQ0FyT3NZb2s0Y2tkM1o5Y0V3RHBWUENDdmRWazBjY0cxMUE?oc=5"
     },
@@ -57,8 +57,8 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbzZVOXY1Z0JsbVlxU2paRTdhaDZSTFJ6RzRCLUF1ek1EcW9JeEFXUWdHem15UW0ydzAzYTNDSy1xWHNWS1d3c3lGOHdjQXZTQlN2Y1l6NDNEUQ?oc=5"
     },
     {
-      "title": "Ratopati: Nepal Rastra Bank Sets Today's Exchange Rates - Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekVsNW5ZMDhzc2lsR1Jja3JYU2l6NTFwTWdud194N3liSjM2UjFfQUNZNmp6WUtEWnhDTEJKX1hFN0FISE5DM25Xc0pSNVNUb1dsd3dfSmM2aWdmenk2WU1sdFBoVjdlVzdiZzFhMmg4Y3dQTkJZRHFJU2hWcmtXRjNDTmgzT2h1c2Q2YTVGdw?oc=5"
+      "title": "FXStreet: British Pound steadies near 1.3400 amid BoE rate hike expectations - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekEyWFoxbjBCT011UmRkNnBBbjFXcWJrYVgyYV9WTHJ3NE1DWEZudTFlU204ZnQtZGhqMmFJR2d1Vm94QUJ4RGl4VWNXV3ZOeV96MnNOd1RwTWdEbi1kY0VUTkNncjM4QnEyc1pKTVJmcEItZW1oc08yb3FxeE5xZTJ1bUFuWW82UmI1VjV3eHdLYUxCVld2WlE2MnVLc0JEMTVvb295dFdfQ195?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
