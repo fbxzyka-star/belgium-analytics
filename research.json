@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ ενισχύεται έναντι δολαρίου και στερλίνας, αλλά υποχωρεί έναντι του ελβετικού φράγκου.",
+  "headline": "Το ευρώ ενισχύεται έναντι δολαρίου και στερλίνας, ενώ υποχωρεί έναντι του ελβετικού φράγκου.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "change": 0.17,
-      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1.1191 (+0,17%) καθώς ο DXY κρατήθηκε στα 1.1054 ενόψει των αμερικανικών ενδιάμεσων εκλογών (Midterms), με τα στοιχεία να δείχνουν πως μια ενδεχόμενη σαρωτική νίκη των Δημοκρατικών θέτει το δολάριο σε κίνδυνο. Ωστόσο, το ευρώ δυσκολεύεται να βρει συνεχή ανοδική δυναμική πάνω από το ψυχολογικό φράγμα του 1.1200."
+      "change": 0.16,
+      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1,119 (+0,16%), καθώς αναλυτές σημειώνουν ότι η εξαιρετική πορεία του δολαρίου ΗΠΑ αρχίζει να εξασθενεί, αφήνοντας περιθώρια για διάσπαση προς υψηλότερα επίπεδα. Παράλληλα, οι προβλέψεις αναφέρουν ότι οι επικείμενες ενδιάμεσες εκλογές στις ΗΠΑ και η πιθανότητα επικράτησης των Δημοκρατικών θέτουν το δολάριο σε κίνδυνο, προσφέροντας τακτική ανοδική δυναμική στο ευρώ."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.1,
-      "reason": "Το EUR/GBP σημείωσε άνοδο στα 0.8346 (+0,10%), καθώς το ευρώ δοκιμάζει την αντίσταση στα 0.8360 και προχωρά προς βασικά ανώτατα όρια, επωφελούμενο από την αποδυνάμωση της momentum της βρετανικής λίρας, ενώ στην αγορά αναμένεται και ο προϋπολογισμός του Βρετανού Υπουργού Οικονομικών (Chancellor's Budget)."
+      "change": 0.08,
+      "reason": "Το EUR/GBP ενισχύθηκε στα 0,8345 (+0,08%), καθώς το ευρώ προχωρά προς βασικά επίπεδα αντίστασης δοκιμάζοντας τα όρια κοντά στο 0,8360. Η κίνηση αυτή υποστηρίζεται από την απώλεια δυναμικής και τη στροφή της στερλίνας, η οποία χάνει έδαφος έναντι του ευρωπαϊκού νομίσματος."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.4,
-      "reason": "Το EUR/CHF κατέγραψε πτώση στα 0.9157 (-0,40%), καθώς το ελβετικό φράγκο διατηρείται ισχυρό, καταγράφοντας μάλιστα τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, υποβοηθούμενο πρόσφατα και από τα ισχυρά στοιχεία για τον δείκτη PMI (SVME PMI)."
+      "change": -0.33,
+      "reason": "Το EUR/CHF υποχώρησε στα 0,9164 (-0,33%), καθώς το ελβετικό φράγκο συνεχίζει να καταγράφει ισχυρή πορεία, σημειώνοντας τον ισχυρότερο μήνα του εδώ και πέντε χρόνια. Επιπλέον, τα ισχυρά στοιχεία για τον δείκτη PMI (SVME PMI) συνέβαλαν στο να διατηρηθεί η ισχύς και τα κέρδη του ελβετικού φράγκου."
     }
   ],
-  "updated": "2026-11-02T21:11+00:00",
+  "updated": "2026-11-02T22:09+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1191,
-    "GBP": 0.8346,
-    "CHF": 0.9157
+    "USD": 1.119,
+    "GBP": 0.8345,
+    "CHF": 0.9164
   },
   "sources": [
     {
@@ -33,16 +33,12 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html"
     },
     {
+      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
+    },
+    {
       "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
-    },
-    {
-      "title": "www.tmgm.com: EUR/USD Price Forecasts: EUR/USD struggles to find follow-through above 1.12",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUjZwdWFremRualkxMmt3T3psaE9hbWlsaldFVy1heE1INnY2dFVTMkVFeGd4VF9QeTZ3QW1UWDVOZ0NQRExfQkdrVTBiV3NrWXFUangzeFNISGdjeURLOXdyRlc0QlFsVmRvTnhuWmJuWkp6LXd1YVNEREVUeUdFUzQ1Q0tjVXZ3N3NLYmpJTnFhOUYzQ25IUUhrZXdSWmFnRkFBNmU0eWZSWVFHdFBFUlo4NktNZ0JWWll1V2txd2hKRUdoaVZjT2ZLRFoyLXhjQ0NTXzc0QVhRZw?oc=5"
-    },
-    {
-      "title": "Yahoo Finance Singapore: US Dollar Price Forecast: DXY Holds 101.54 Ahead of US Midterms a",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVp3TUFsWHF4MmFtY2ZmSklHZHpjUnhEOVM0dUxOZ2JZTGJaSTNocG43eUYwRlRTTHQ4alk4WWJfY3UxR2dOdUNWUVltQXdXYUJzeThSWWM0ZF9NQlU1YUR6MWhpaTdHM2dVYVhMMmwtS19Xdk4tMnBxOHlpb1dsRmRIWQ?oc=5"
     },
     {
       "title": "FXStreet: EUR/USD Price Forecast: Euro struggles to find follow-through above 1.1200 - FXS",
@@ -55,6 +51,10 @@
     {
       "title": "CurrencyNews.co.uk: Euro to Dollar Forecast: US Midterms Democrat Sweep Put USD at Risk - ",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVNNRnB2Tk5hN0RYWHhTNlhEaWdIR0dmUkVVRW5CNV9DbjZadERyMmo3RGxpeWhPMEl2MUR6SDIwNzRkOHlzMGhPejZCc2ZvcW9qQVJSTTlWSGlPbk1DdHNGN2duRzdjdTg4MTcxMUttQzhIN0xKN0t1N1NkMThfb2FoQXUwWW9CTlZXVkJLRkl5NFZZSm1VLVN4VjA4UmM2Vk1mYUQ5OGNvT2hxUDhnSUE1QktuaXdCSXBwMHZWYUZxUHpH?oc=5"
+    },
+    {
+      "title": "Pound Sterling Live: Euro-to-Dollar Week Ahead Forecast: Tactical Upside - Pound Sterling ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXhiSER0dG5XbEtjS3AxWVF5eHRMZ1EzaThyWVlscDRqMVJmQnZDX0g4WXpYX1FIeG5LQnBpZFh4SDE4Rkx2aUNFOWVyVVhJck1DUkhjdDdDV3Q5bDZGcHBYMl8wSkZheDQwRGU2OFFYajg1Mm8xX1U3UmhVT2pCcU83UEhXWDlpZG9XRThDZE1wM05HY05KdlBHR2lYU3Np?oc=5"
     },
     {
       "title": "TradingPedia: Euro Advances Toward Key Ceiling as EUR/GBP Rebounds - TradingPedia",
