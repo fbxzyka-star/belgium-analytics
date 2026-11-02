@@ -1,31 +1,31 @@
 {
-  "headline": "Η Ευρωζώνη ξεκινά την εβδομάδα με μικτές τάσεις, εν μέσω των επερχόμενων αμερικανικών ενδιάμεσων εκλογών και των προσδοκιών για τη διπλωματία στο Ιράν.",
+  "headline": "Το ευρώ ενισχύεται έναντι δολαρίου και στερλίνας εν μέσω των αμερικανικών ενδιάμεσων εκλογών και της αποκλιμάκωσης των τιμών του πετρελαίου, ενώ πιέζεται ελαφρά έναντι του ελβετικού φράγκου.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "change": 0.31,
-      "reason": "Το EUR/USD σημείωσε άνοδο (+0,31% στα 1,1207) καθώς οριακά υποχώρησε το δολάριο ενόψει των αμερικανικών ενδιάμεσων εκλογών και των στοιχημάτων για διπλωματία στο Ιράν. Ωστόσο, αναλυτές αναφέρουν ότι η κίνηση αυτή ενδέχεται να προσφέρει μόνο προσωρινή ανακούφιση για το ευρώ."
+      "change": 0.41,
+      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1,1218 (+0,41%) καθώς το δολάριο δέχεται πιέσεις με τον DXY να κρατά τα 101,54 ενόψει των αμερικανικών ενδιάμεσων εκλογών. Παράλληλα, το ευρώ ενισχύθηκε πάνω από το 1,1150 μετά την υπέρβαση των προβλέψεων από τα στοιχεία του ΑΕΠ της Ευρωζώνης."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.19,
-      "reason": "Το EUR/GBP ενισχύθηκε οριακά (+0,19% στα 0,8354), παρόλο που η στερλίνα δέχθηκε πιθανώς ώθηση από την υποχώρηση του δολαρίου. Παράλληλα, το ευρώ περιόρισε τα κέρδη του έναντι της βρετανικής λίρας μετά την απροσδόκητη πτώση των γερμανικών λιανικών πωλήσεων τον Σεπτέμβριο."
+      "change": 0.23,
+      "reason": "Το EUR/GBP ενισχύθηκε στα 0,8357 (+0,23%), δοκιμάζοντας αντίσταση κοντά στο 0,8360 καθώς η λίρα χάνει δυναμική, παρά το γεγονός ότι οι γερμανικές λιανικές πωλήσεις Σεπτεμβρίου σημείωσαν απροσδόκητη πτώση και περιορίζουν προσωρινά τα κέρδη."
     },
     {
       "pair": "EUR/CHF",
-      "direction": "flat",
-      "change": -0.04,
-      "reason": "Το EUR/CHF παρέμεινε σχεδόν αμετάβλητο (-0,04% στα 0,919), καθώς το ελβετικό φράγκο διατήρησε τη ισχύ του. Η ανθεκτικότητα του φράγκου υποστηρίχθηκε από τα ισχυρά στοιχεία του δείκτη SVME PMI."
+      "direction": "down",
+      "change": -0.07,
+      "reason": "Το EUR/CHF υποχώρησε ελαφρά στα 0,9188 (-0,07%), καθώς το ελβετικό φράγκου παραμένει ισχυρό έχοντας καταγράψει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, υποστηριζόμενο επίσης από τα ισχυρά στοιχεία του δείκτη SVME PMI."
     }
   ],
-  "updated": "2026-11-02T11:45+00:00",
+  "updated": "2026-11-02T12:51+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1207,
-    "GBP": 0.8354,
-    "CHF": 0.919
+    "USD": 1.1218,
+    "GBP": 0.8357,
+    "CHF": 0.9188
   },
   "sources": [
     {
@@ -33,8 +33,20 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html"
     },
     {
+      "title": "Yahoo Finance Singapore: US Dollar Price Forecast: DXY Holds 101.54 Ahead of US Midterms a",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVp3TUFsWHF4MmFtY2ZmSklHZHpjUnhEOVM0dUxOZ2JZTGJaSTNocG43eUYwRlRTTHQ4alk4WWJfY3UxR2dOdUNWUVltQXdXYUJzeThSWWM0ZF9NQlU1YUR6MWhpaTdHM2dVYVhMMmwtS19Xdk4tMnBxOHlpb1dsRmRIWQ?oc=5"
+    },
+    {
+      "title": "FOREX.com: EUR/USD, Oil Forecast: Two trades to watch - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmcwLWpYOVJCRWpieGxDSTJWV1lWMWRvN0pjRkF6b2x1LWRqNXhYYzhUNWl2ZFBkUENodmVxRlI3UWpSYTR1SEZMU080b3AtQnRHdmxGS0RUc0xPdzNUQmk4LTRkaW85d0ozVGlTenIybzhWMHU0NUJsZG9BYlFBR05WcmhQelBJVlhEck80WHBXczRtaEpXVWxpVG4ySldKcTFfT1ZhMEN2WG_SAasBQVVfeXFMTjZnMC1qWDlSQkVqYnhsQ0kyVldZVjFkbzdKY0ZBem9sdS1kajV4WGM4VDVpdmRQZFBDaHZlcUZSN1FqUmE0dUhGTFNPNG9wLUJ0R3ZsRktEVHNMT3czVEJpOC00ZGlvOXdKM1RpU3pyMm84VjB1NDVCbGRvQWJRQUdOVnJoUHpQSVZYRHJPNFhwV3M0bWhKV1VsaVRuMkpXSnExX09WYTBDdlhv?oc=5"
+    },
+    {
       "title": "CurrencyNews.co.uk: Euro to Dollar Forecast: US Midterms Democrat Sweep Put USD at Risk - ",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVNNRnB2Tk5hN0RYWHhTNlhEaWdIR0dmUkVVRW5CNV9DbjZadERyMmo3RGxpeWhPMEl2MUR6SDIwNzRkOHlzMGhPejZCc2ZvcW9qQVJSTTlWSGlPbk1DdHNGN2duRzdjdTg4MTcxMUttQzhIN0xKN0t1N1NkMThfb2FoQXUwWW9CTlZXVkJLRkl5NFZZSm1VLVN4VjA4UmM2Vk1mYUQ5OGNvT2hxUDhnSUE1QktuaXdCSXBwMHZWYUZxUHpH?oc=5"
+    },
+    {
+      "title": "www.tmgm.com: Euro strengthens above 1.1150 as Eurozone GDP beats forecasts, US midterm el",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSjhoX18wRXhFTWpHNVAtUF9IX01pWHlkWFJaVC05enZvcXB4Qk5EWG5vV0hBY0RzdTNHWG42cXB0NTg2X0VzSkFNTWZjNGR2Y202MEV2MGk2Ykc0QmgwQUJzS0FDOFBWd1ZVRDI2Y1ZYbUhseVVFY0htRzJ3TU5xclJNc3YxbzEwT2R0YVdydVgxNjVXUW9PRUw0LVJWQXMzdkhNTlA4SjhxXzhCZnBEdmFkdDNhVndzamtfYjVvVTlua2ZmbXNPMngwSEJfWU9OZGlnUnNXeUJEeVFWVGNyQnNUQ192UkE?oc=5"
     },
     {
       "title": "Seeking Alpha: Europe markets steady as oil prices ease ahead of U.S. midterm elections (E",
@@ -43,18 +55,6 @@
     {
       "title": "StoneX: Yen Bulls Loaded Up into BOJ as Euro Shorts Hit 11-Year Extreme| COT report - Ston",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLU9KSGdKVWJmRURiTENUcWFuUHBOelk1amh3QWJzN2M4OXhwYmtGSms5aDdLUnB1NXJocDJmLWlBaWZyMWdPNktIOVYwUHdFaUM4LTJtcWpDZTRSWmpQYmNHZ09jOWVkNHF4RllESFFtQkZ1OTFvMmthZzlnVGhGeXp4Y3ZHdEE1TG8tM1VqeFh3Vi03R0RTMXJmMDA1RXhGRnVGT01obXZ4TzlzeVlYZDl2eGx2eExBU0JGZ0RoV1pScFdGc3Q4OHZiQ0otQQ?oc=5"
-    },
-    {
-      "title": "Pound Sterling Live: Euro-to-Dollar Week Ahead Forecast: Temporary Respite - Pound Sterlin",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXhiSER0dG5XbEtjS3AxWVF5eHRMZ1EzaThyWVlscDRqMVJmQnZDX0g4WXpYX1FIeG5LQnBpZFh4SDE4Rkx2aUNFOWVyVVhJck1DUkhjdDdDV3Q5bDZGcHBYMl8wSkZheDQwRGU2OFFYajg1Mm8xX1U3UmhVT2pCcU83UEhXWDlpZG9XRThDZE1wM05HY05KdlBHR2lYU3Np?oc=5"
-    },
-    {
-      "title": "LiteFinance: Technical Analysis of US Crude, XAUUSD and EURUSD for Today (November 2, 2026",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlZaU2w4V3B4bTNzZG15R3lPTDR0ZHQzRFlRV1doZGExcmhfQVR4Ny1TN1dabVV5dU8tbWtVdmhROXljZDlLd0JPd3dFeDgxR2hMVmpDbGFjYzdibUFnSTRNUWxkVnljQnhBU2E1ZXUxR2NjVENUS3JQWi03YlVpN3haeFFkWkVUWmJCN05xdDhHa2dyWWpqS3cyOXJKcmowZHBOUFQzNnpnYmpW?oc=5"
-    },
-    {
-      "title": "FXEmpire: US Dollar Price Forecast: DXY Holds 101.54 Ahead of US Midterms as EUR/USD and G",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDRUeExMbVo4MHpoa0lFdU9BVUQtRVU0cDhkeWN4SXdLWENDYV8zX2wxbERSSnRkN3M2S0lXWXpHY2pFTHRycjBuMmoxUExJZU5OYUUwOTNwZS1UbU1URUtmMmExNlh6YTc0cUt2LXNsVlE0ZVFoaEloT3l2RnRtdDJ5dENtSFdjenhHZW9rODFFSlhTM3BmMngyX2pzX0d1U2h4NkVSWGVlby1NZWU3NG5hdENsSVl5TnBFWmI1cVFUbXUyUlZkYnNYdDQyM2gtYkczSjdEUTc?oc=5"
     },
     {
       "title": "FXStreet: Euro pares gains against British Pound after Germany’s Retail Sales unexpectedly",
