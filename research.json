@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ ενισχύεται έναντι δολαρίου και στερλίνας εν μέσω των αμερικανικών ενδιάμεσων εκλογών και της αποκλιμάκωσης των τιμών του πετρελαίου, ενώ πιέζεται ελαφρά έναντι του ελβετικού φράγκου.",
+  "headline": "Το ευρώ κινείται ανοδικά έναντι του δολαρίου και της βρετανικής λίρας υπό τη σκιά των αμερικανικών ενδιαμέσων εκλογών και της γεωπολιτικής ειδησεογραφίας.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "change": 0.41,
-      "reason": "Το EUR/USD κινήθηκε ανοδικά στα 1,1218 (+0,41%) καθώς το δολάριο δέχεται πιέσεις με τον DXY να κρατά τα 101,54 ενόψει των αμερικανικών ενδιάμεσων εκλογών. Παράλληλα, το ευρώ ενισχύθηκε πάνω από το 1,1150 μετά την υπέρβαση των προβλέψεων από τα στοιχεία του ΑΕΠ της Ευρωζώνης."
+      "change": 0.38,
+      "reason": "Το EUR/USD ενισχύθηκε στα 1.1214 (αύξηση 0.38%), καθώς ο δείκτης DXY κρατά τα επίπεδα των 101.54 ενόψει των αμερικανικών ενδιαμέσων εκλογών, με τις αναλύσεις να επισημαίνουν ότι ένα ενδεχόμενο σενάριο «Democrat Sweep» θέτει το δολάριο σε κίνδυνο, παρά το γεγονός ότι το ευρώ δυσκολεύεται να βρει ισSχυρή συνέχεια πάνω από το επίπεδο του 1.1200."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.23,
-      "reason": "Το EUR/GBP ενισχύθηκε στα 0,8357 (+0,23%), δοκιμάζοντας αντίσταση κοντά στο 0,8360 καθώς η λίρα χάνει δυναμική, παρά το γεγονός ότι οι γερμανικές λιανικές πωλήσεις Σεπτεμβρίου σημείωσαν απροσδόκητη πτώση και περιορίζουν προσωρινά τα κέρδη."
+      "change": 0.28,
+      "reason": "Το EUR/GBP ανέβηκε στα 0.8361 (αύξηση 0.28%), καθώς το ευρώ σημειώνει ανάκαμψη προς βασικά επίπεδα αντίστασης, παρόλο που προηγουμένως είχε περιορίσει τα κέρδη του έναντι της στερλίνας λόγω της απροσδόκητης πτώσης των γερμανικών λιανικών πωλήσεων τον Σεπτέμβριο και των κερδών της λίρας εξαιτίας στοιχημάτων για τη διπλωματία στο Ιράν."
     },
     {
       "pair": "EUR/CHF",
-      "direction": "down",
-      "change": -0.07,
-      "reason": "Το EUR/CHF υποχώρησε ελαφρά στα 0,9188 (-0,07%), καθώς το ελβετικό φράγκου παραμένει ισχυρό έχοντας καταγράψει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, υποστηριζόμενο επίσης από τα ισχυρά στοιχεία του δείκτη SVME PMI."
+      "direction": "flat",
+      "change": 0.0,
+      "reason": "Το EUR/CHF παρέμεινε αμετάβλητο στα 0.9194 (0.00%), εν μέσω ειδήσεων ότι το ελβετικό φράγκο διατηρείται ισχυρό μετά τα στοιχεία για τον δείκτη SVME PMI και καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, αν και οι διαθέσιμες κεφαλαιακές ειδήσεις δεν προσφέρουν άμεση εξήγηση για την ακριβή ημερήσια σταθερότητα του σταυρωτού αυτού ισοδυνάμου."
     }
   ],
-  "updated": "2026-11-02T12:51+00:00",
+  "updated": "2026-11-02T14:04+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1218,
-    "GBP": 0.8357,
-    "CHF": 0.9188
+    "USD": 1.1214,
+    "GBP": 0.8361,
+    "CHF": 0.9194
   },
   "sources": [
     {
@@ -33,32 +33,32 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html"
     },
     {
+      "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
+    },
+    {
       "title": "Yahoo Finance Singapore: US Dollar Price Forecast: DXY Holds 101.54 Ahead of US Midterms a",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVp3TUFsWHF4MmFtY2ZmSklHZHpjUnhEOVM0dUxOZ2JZTGJaSTNocG43eUYwRlRTTHQ4alk4WWJfY3UxR2dOdUNWUVltQXdXYUJzeThSWWM0ZF9NQlU1YUR6MWhpaTdHM2dVYVhMMmwtS19Xdk4tMnBxOHlpb1dsRmRIWQ?oc=5"
     },
     {
-      "title": "FOREX.com: EUR/USD, Oil Forecast: Two trades to watch - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmcwLWpYOVJCRWpieGxDSTJWV1lWMWRvN0pjRkF6b2x1LWRqNXhYYzhUNWl2ZFBkUENodmVxRlI3UWpSYTR1SEZMU080b3AtQnRHdmxGS0RUc0xPdzNUQmk4LTRkaW85d0ozVGlTenIybzhWMHU0NUJsZG9BYlFBR05WcmhQelBJVlhEck80WHBXczRtaEpXVWxpVG4ySldKcTFfT1ZhMEN2WG_SAasBQVVfeXFMTjZnMC1qWDlSQkVqYnhsQ0kyVldZVjFkbzdKY0ZBem9sdS1kajV4WGM4VDVpdmRQZFBDaHZlcUZSN1FqUmE0dUhGTFNPNG9wLUJ0R3ZsRktEVHNMT3czVEJpOC00ZGlvOXdKM1RpU3pyMm84VjB1NDVCbGRvQWJRQUdOVnJoUHpQSVZYRHJPNFhwV3M0bWhKV1VsaVRuMkpXSnExX09WYTBDdlhv?oc=5"
+      "title": "FXStreet: EUR/USD Price Forecast: Euro struggles to find follow-through above 1.1200 - FXS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2Z6MzU4WFdBNkJtY0dTQ3JXdUtkMHNoRVNmaGJLcXNJWDliQ3ZEUDQ0a2g3WkxWUmRtWVVOZXUwUzFUWndvbk5ObkNHZXhvRHNmMmN2alJqWDMzLTNRZnk2d29JeFdLVEZyNU5hNkY1NWs3RTVvdWxKeE9xcXE3eVh5VkZaNU55OGdrSGZReVJjcFdZQmRQdk5nTHFyZmFVNGEybnRRRVZ6SFhGdnZCR0loc2hvZmt5SFZJ?oc=5"
     },
     {
       "title": "CurrencyNews.co.uk: Euro to Dollar Forecast: US Midterms Democrat Sweep Put USD at Risk - ",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVNNRnB2Tk5hN0RYWHhTNlhEaWdIR0dmUkVVRW5CNV9DbjZadERyMmo3RGxpeWhPMEl2MUR6SDIwNzRkOHlzMGhPejZCc2ZvcW9qQVJSTTlWSGlPbk1DdHNGN2duRzdjdTg4MTcxMUttQzhIN0xKN0t1N1NkMThfb2FoQXUwWW9CTlZXVkJLRkl5NFZZSm1VLVN4VjA4UmM2Vk1mYUQ5OGNvT2hxUDhnSUE1QktuaXdCSXBwMHZWYUZxUHpH?oc=5"
     },
     {
-      "title": "www.tmgm.com: Euro strengthens above 1.1150 as Eurozone GDP beats forecasts, US midterm el",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSjhoX18wRXhFTWpHNVAtUF9IX01pWHlkWFJaVC05enZvcXB4Qk5EWG5vV0hBY0RzdTNHWG42cXB0NTg2X0VzSkFNTWZjNGR2Y202MEV2MGk2Ykc0QmgwQUJzS0FDOFBWd1ZVRDI2Y1ZYbUhseVVFY0htRzJ3TU5xclJNc3YxbzEwT2R0YVdydVgxNjVXUW9PRUw0LVJWQXMzdkhNTlA4SjhxXzhCZnBEdmFkdDNhVndzamtfYjVvVTlua2ZmbXNPMngwSEJfWU9OZGlnUnNXeUJEeVFWVGNyQnNUQ192UkE?oc=5"
+      "title": "investingLive: Danish Krone Exchange Rate: 2026 Expert Forecast and Peg Data - investingLi",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUxGRHRhcXhMSzd2R2lFclNSdDhJdWgzUjlySTZkWThMUmt0U0N4ZXVTWFNtUzhjWnZ3N3ozMXVFWnZHc1pmMXVHX1NQZnlKeEFTWkF4dXItZzNPTGFCenk3bmU2dE83bndqUE5KUXN4Mm9PVFJBQUU5SjVCamxBcUR4ZkF6ckduMEllNnpiY0JrZHRfTDM3eFFndzhNUQ?oc=5"
     },
     {
-      "title": "Seeking Alpha: Europe markets steady as oil prices ease ahead of U.S. midterm elections (E",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0dvT05xejJ1SkRQWkRfNG9hcWczLXdneDQ2TXF4all0RVdCekNPLTgwOUdqOVl6OHh2NkU0eVlyR1NCUWVSTi1TUy03TzQ2ZjNhMy1QMjRhbVlqU01ZdUxZSlBleEFSNjh3QmN2bk5hNWhTeFQyeWV5UTRtcWtQZzJKcnFOU1hPRGE1UUxNdmtGZF9BcEk5S1pYWmp6N0V4S25aaWRXckd2ZVVq?oc=5"
+      "title": "BigGo Finance: Dollar-yen stalls near 158 yen; euro slightly higher vs. dollar - BigGo Fin",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DbHkzZi16VkNTeERqUXpEOWpnV2FJZk0zUmJBdnBXQUtkbHRmSUpYVmdKX3Z6M0NmQXdGOHZwb2x5d09XR1dxc3JSSWNXUzRhcUVwOXdsTFJsYjZMYy1QenZZZ1dWcGpsM21mNmVoRmx3MnRyMnc?oc=5"
     },
     {
-      "title": "StoneX: Yen Bulls Loaded Up into BOJ as Euro Shorts Hit 11-Year Extreme| COT report - Ston",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLU9KSGdKVWJmRURiTENUcWFuUHBOelk1amh3QWJzN2M4OXhwYmtGSms5aDdLUnB1NXJocDJmLWlBaWZyMWdPNktIOVYwUHdFaUM4LTJtcWpDZTRSWmpQYmNHZ09jOWVkNHF4RllESFFtQkZ1OTFvMmthZzlnVGhGeXp4Y3ZHdEE1TG8tM1VqeFh3Vi03R0RTMXJmMDA1RXhGRnVGT01obXZ4TzlzeVlYZDl2eGx2eExBU0JGZ0RoV1pScFdGc3Q4OHZiQ0otQQ?oc=5"
-    },
-    {
-      "title": "FXStreet: Euro pares gains against British Pound after Germany’s Retail Sales unexpectedly",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWHRBUWc1NGx3UkFvQVEwbXpVS3dPV3JhbUxoQXpjUzczc1ppMlRHdFNDb01sSUN0MS1TdlpsZDJ3VkYyOXVfM0JvYWVoZXRXYXFYbkMxR0g0NjVfODNHTmkyVTdjU1Y1MUI1dGl0MFdkX3EzZGU1dFhKMjVwbHJoeU9qNWhIcE9Wa0JWSmVkUWM1ek04SEh0VjN1ak8zSkdVTHJhUDA2X0ZGTjBzZVpTbTlEZDBpemp3Y3NjcUh4XzBfczBLd05tVE9PNThZdUZoQTNhTXE2SQ?oc=5"
+      "title": "TradingPedia: Euro Advances Toward Key Ceiling as EUR/GBP Rebounds - TradingPedia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHdhcHBnNmFfV3Rfc05ZTmFmYkNDMlJBWGd4MGJTdWhycGJUNm9IS05sbXpHR3JXVGlYMXlqVGU5S2tNQ3VDWFRzaDVpbEg1Rk9iM1lPNmQza09Rb0s2dFEwV1lfaW53bGEydVVtVzl1MFBWR3h2X0JzT3JHejFQMmFxNGFpM1RVSkF4cU14Vk5fZjBiM1BxNg?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
