@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ κινείται με μικτές τάσεις, επηρεασμένο από τις γεωπολιτικές εξελίξεις, τις ανησυχίες για το γαλλικό χρέος και τα στοιχεία θέσεων.",
+  "headline": "Το ευρώ καταγράφει ήπιες κινήσεις εν μέσω προσδοκιών για τη διπλωματία στο Ιράν και ανησυχιών για το γαλλικό χρέος.",
   "pairs": [
     {
       "pair": "EUR/USD",
-      "direction": "down",
-      "change": -0.07,
-      "reason": "Το EUR/USD υποχώρησε ελαφρώς στο 1.1164 από το κλείσιμο της 30/10 (1.1172). Σύμφωνα με τις ειδήσεις, το ευρώ ενισχύθηκε προσωρινά από ελπίδες για τη διπλωματία στο Ιράν που πίεσαν το δολάριο, ωστόσο τα κέρδη περιορίστηκαν λόγω των ανησυχιών για τα γαλλικά ομόλογα και το χρέος, ενώ τα στοιχεία COT έδειξαν ότι τα short στοιχήματα στο ευρώ έφτασαν σε ακραία επίπεδα 11 ετών."
+      "direction": "flat",
+      "change": -0.04,
+      "reason": "Το ζεύγος κινείται σχεδόν αμετάβλητο. Σύμφωνα με τα στοιχεία, το ευρώ ενισχύεται ελαφρά καθώς οι ελπίδες για τη διπλωματία στο Ιράν ασκούν πιέσεις στο δολάριο, ωστόσο τα κέρδη περιορίζονται από τις ανησυχίες για το γαλλικό χρέος και τα ομόλογα."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.06,
-      "reason": "Το EUR/GBP κατέγραψε οριακή άνοδο στο 0.8343 από 0.8338. Οι διαθέσιμες ειδήσεις δεν παρέχουν κάποιον σαφή και άμεσο οδηγό ειδήσεων αποκλειστικά για την κίνηση αυτού του σταυρού νομισμάτων, πέραν της γενικότερης αξιολόγησης των κινδύνων για το ευρώ και τη βρετανική λίρα."
+      "change": 0.07,
+      "reason": "Δεν υπάρχει ξεκάθαρος καταλύτης ειδήσεων στους διαθέσιμους τίτλους που να εξηγεί την οριακή άνοδο του ζεύγους."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
-      "change": 0.18,
-      "reason": "Το EUR/CHF σημείωσε άνοδο φτάνοντας στο 0.9211 από 0.9194. Οι πρόσφατες ειδήσεις δεν περιλαμβάνουν κάποιον συγκεκριμένο και σαφή οδηγό ειδήσεων που να εξηγεί αναλυτικά τη συγκεκριμένη κίνηση έναντι του ελβετικού φράγκου."
+      "change": 0.16,
+      "reason": "Δεν υπάρχει ξεκάθαρος καταλύτης ειδήσεων στους διαθέσιμους τίτλους που να εξηγεί την οριακή άνοδο του ζεύγους."
     }
   ],
-  "updated": "2026-11-02T02:48+00:00",
+  "updated": "2026-11-02T03:46+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1164,
-    "GBP": 0.8343,
-    "CHF": 0.9211
+    "USD": 1.1168,
+    "GBP": 0.8344,
+    "CHF": 0.9209
   },
   "sources": [
     {
@@ -49,8 +49,8 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRi1WNGhMSktTTWpZOHZLZ1VJUkdwVlBwMnN5Z0lac0tYcEdqR2otQl9PY0wyUUdfRS12VmZFRmZ2V3EwQ3dSSEEwMUZjeUVpcU9NQ3V2dTFHZVFFQXp0eFo2Q1NzSWFLOUZMeGoxTDZFNHdoZE13cEtMVVBBb1FJeXdEeGlfX2lYYmZURzlIbTBBeGpJdGlOUTdwMnhKd0E?oc=5"
     },
     {
-      "title": "Bybit: Convert 1 EUR (EUR) to USDC (USD Coin) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82N0tjNDlzbC1aU193QTBwZmxGRHI4LXdJV2xmMmVWdTM1Z2lkVDVxZXpUdGxEMWtqTGlQNzRfT3BJV3I4YjhMTjM4Y0pMSlN6bHdySjNDbWo?oc=5"
+      "title": "BigGo Finance: EUR/JPY Briefly Hits 1-Year Low of 175.07 Yen as AI Investment Worries Spur",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82NzFhNjJiRk56Ui1qaURsd1pzbkNQazhFbllrMngyUU5jWnAzdGhTQkFGLUJubC1BUGtYNGF5VmpMR1FfTDd1N0Y2MHFhbjVkVWhKcnlZWGE3SV9BcXd1ZkxiNDRnblpnMTExT3o5V2FYcHQzT1E?oc=5"
     },
     {
       "title": "Yahoo Finance UK: GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK",
