@@ -1,36 +1,40 @@
 {
-  "headline": "Το ευρώ κινείται μικτά έναντι των βασικών νομισμάτων, καθώς οι επενδυτές αξιολογούν τα τεχνικά όρια, τις πολιτικές εξελίξεις και τα μακροoικονομικά στοιχεία.",
+  "headline": "Το ευρώ ενισχύεται έναντι δολαρίου και στερλίνας, αλλά υποχωρεί έναντι του ελβετικού φράγκου.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "change": 0.12,
-      "reason": "Το EUR/USD ενισχύθηκε οριακά κατά 0,12% στα 1,1185, παρόλο που το ευρώ δυσκολεύεται να βρει συνέχεια πάνω από το επίπεδο του 1,1200. Στο μεταξύ, οι αναλυτές παρακολουθούν τις προβλέψεις για το τέλος του 2026 και τους πιθανούς κινδύνους για το δολάριο από τις ενδεχόμενες πολιτικές εξελίξεις στις ΗΠΑ."
+      "change": 0.18,
+      "reason": "Η ισοτιμία EUR/USD σημείωσε άνοδο καθώς αναλύσεις αναφέρουν ότι η εξαιρετική πορεία του δολαρίου ΗΠΑ εξασθενεί και το ευρώ κοιτάζει προς μια διάσπαση. Παράλληλα, υπάρχουν εκτιμήσεις από την UBS που διατηρούν στόχο το 1.16 για το τέλος του 2026, ενώ συζητείται και ο αντίκτυπος των εν εξελίξει πολιτικών εξελίξεων (όπως οι ενδεχόμενες επιπτώσεις από τις μεσοπρόθεσμες εκλογές στις ΗΠΑ)."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.08,
-      "reason": "Το EUR/GBP κατέγραψε άνοδο 0,08% φτάνοντας στο 0,8345, καθώς το ευρώ δοκιμάζει αντιστάσεις κοντά στο 0,8360 με τη στήριξη της εξασθένησης της βρετανικής λίρας. Παράλληλα, η προσοχή της αγοράς στρέφεται στις προσδοκίες γύρω από τον επερχόμενο προϋπολογισμό του Βρετανού Υπουργού Οικονομικών."
+      "change": 0.11,
+      "reason": "Η ισοτιμία EUR/GBP κατέγραψε άνοδο καθώς το ευρώ προχωρά προς βασικά επίπεδα αντίστασης και δοκιμάζει την περιοχή των 0.8360. Την ίδια στιγμή, η βρετανική λίρα χάνει τη δυναμική της και χάνει ατμόσφαιρα ενόψει και των προσδοκιών για τον προϋπολογισμό του Υπουργού Οικονομικών."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.38,
-      "reason": "Το EUR/CHF υποχώρησε κατά 0,38% στα 0,9159, με το ελβετικό φράγκο να διατηρείται ισχυρό μετά τα ισχυρά στοιχεία για τον δείκτη PMI (SVME) και το γεγονός ότι καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια."
+      "change": -0.35,
+      "reason": "Η ισοτιμία EUR/CHF υποχώρησε καθώς το ελβετικό φράγκο κατέγραψε τον ισχυρότερο μήνα του εδώ και πέντε χρόνια. Η ισχύς του φράγκου στηρίχθηκε επίσης από τα ισχυρά στοιχεία του δείκτη PMI (SVME PMI) που ανακοινώθηκαν."
     }
   ],
-  "updated": "2026-11-02T23:08+00:00",
+  "updated": "2026-11-02T23:59+00:00",
   "compared_to": "ECB 2026-10-30",
   "rates": {
-    "USD": 1.1185,
-    "GBP": 0.8345,
-    "CHF": 0.9159
+    "USD": 1.1192,
+    "GBP": 0.8347,
+    "CHF": 0.9162
   },
   "sources": [
     {
       "title": "ECB: Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting wor",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html"
+    },
+    {
+      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
     },
     {
       "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
@@ -39,10 +43,6 @@
     {
       "title": "FXStreet: EUR/USD Price Forecast: Euro struggles to find follow-through above 1.1200 - FXS",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2Z6MzU4WFdBNkJtY0dTQ3JXdUtkMHNoRVNmaGJLcXNJWDliQ3ZEUDQ0a2g3WkxWUmRtWVVOZXUwUzFUWndvbk5ObkNHZXhvRHNmMmN2alJqWDMzLTNRZnk2d29JeFdLVEZyNU5hNkY1NWs3RTVvdWxKeE9xcXE3eVh5VkZaNU55OGdrSGZReVJjcFdZQmRQdk5nTHFyZmFVNGEybnRRRVZ6SFhGdnZCR0loc2hvZmt5SFZJ?oc=5"
-    },
-    {
-      "title": "www.tmgm.com: EUR/USD Price Forecasts: EUR/USD struggles to find follow-through above 1.12",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUjZwdWFremRualkxMmt3T3psaE9hbWlsaldFVy1heE1INnY2dFVTMkVFeGd4VF9QeTZ3QW1UWDVOZ0NQRExfQkdrVTBiV3NrWXFUangzeFNISGdjeURLOXdyRlc0QlFsVmRvTnhuWmJuWkp6LXd1YVNEREVUeUdFUzQ1Q0tjVXZ3N3NLYmpJTnFhOUYzQ25IUUhrZXdSWmFnRkFBNmU0eWZSWVFHdFBFUlo4NktNZ0JWWll1V2txd2hKRUdoaVZjT2ZLRFoyLXhjQ0NTXzc0QVhRZw?oc=5"
     },
     {
       "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
