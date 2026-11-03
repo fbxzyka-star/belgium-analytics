@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ καταγράφει ήπιες πιέσεις έναντι του δολαρίου, της στερλίνας και του ελβετικού φράγκου εν μέσω πολιτικών εξελίξεων στις ΗΠΑ και οικονομικών δεδομένων.",
+  "headline": "Το ευρώ υποχωρεί έναντι του δολαρίου, της στερλίνας και του ελβετικού φράγκου εν μέσω πολιτικών εξελίξεων και μακροοικονομικών ειδήσεων.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.22,
-      "reason": "Το EUR/USD υποχωρεί κατά 0,22% στα 1,1191. Οι αναλύσεις αναφέρουν ότι η ισοτιμία παρακολουθείται στενά με τεχνικές προοπτικές και διαχείριση θέσεων καθώς πλησιάζουν οι ενδιάμεσες εκλογές στις ΗΠΑ, ενώ προηγούμενες εκτιμήσεις έκαναν λόγο για εξασθένιση της εξαιρετικής πορείας του δολαρίου και πιθανή διάσπαση."
+      "change": -0.21,
+      "reason": "Το EUR/USD κατέγραψε πτώση στα 1.1192 (-0.21%) από το χθεσινό κλείσιμο της ΕΚΤ στα 1.1216. Οι κινήσεις στην αγορά επηρεάζονται από την πορεία του δείκτη του δολαρίου (DXY) που κρατάει τα επίπεδα στα 101.54, καθώς τα ζεύγη αντιμετωπίζουν πιέσεις ενόψει των ενδιάμεσων εκλογών στις ΗΠΑ."
     },
     {
       "pair": "EUR/GBP",
       "direction": "down",
       "change": -0.19,
-      "reason": "Το EUR/GBP καταγράφει πτώση 0,19% στα 0,8342. Σύμφωνα με τις ειδήσεις, το ευρώ αποδυναμώθηκε έναντι της βρετανικής στερλίνας λόγω των ασθενών στοιχείων για τις γερμανικές λιανικές πωλήσεις, ενώ η Goldman Sachs μείωσε πρόσφατα την πρόβλεψή της για το EUR/GBP στο 0,83 σε ορίζοντα τριών μηνών."
+      "reason": "Το EUR/GBP υποχώρησε στα 0.8342 (-0.19%) σε σύγκριση με το χθεσινό κλείσιμο της ΕΚΤ στα 0.8358. Η Goldman Sachs προχώρησε σε αναθεώρηση των προβλέψεων για τη βρετανική λίρα και μείωσε την πρόβλεψή της για το EUR/GBP στους τρεις μήνες στο 0.83, ενώ το ευρώ δέχθηκε πίεση και από τα αδύναμα στοιχεία για τις λιανικές πωλήσεις στη Γερμανία."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.05,
-      "reason": "Το EUR/CHF σημειώνει οριακή πτώση 0,05% στα 0,9188. Το ελβετικό φράγκο ενισχύεται προς τα υψηλά του Μαΐου και καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, καθώς οι traders αναμένουν τα νέα στοιχεία για τον πληθωρισμό."
+      "change": -0.08,
+      "reason": "Το EUR/CHF διαπραγματεύεται στα 0.9186 (-0.08%) έναντι του κλεισίματος της ΕΚΤ στα 0.9193. Το ελβετικό φράγκο διατηρείται ισχυρό και κινείται προς τα υψηλά Μαΐου, υποστηριζόμενο από την προσμονή των στοιχείων για τον πληθωρισμό και την πορεία του φράγκου που καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια."
     }
   ],
-  "updated": "2026-11-03T19:44+00:00",
+  "updated": "2026-11-03T20:38+00:00",
   "compared_to": "ECB 2026-11-02",
   "rates": {
-    "USD": 1.1191,
+    "USD": 1.1192,
     "GBP": 0.8342,
-    "CHF": 0.9188
+    "CHF": 0.9186
   },
   "sources": [
     {
@@ -45,10 +45,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
     },
     {
-      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
-    },
-    {
       "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
     },
@@ -57,8 +53,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QT2dqbVJ0UGRiRDVCNlNqUG1WUnNSX2U3ZVZ6ZWxESmJIakNmQzhDZ09JNHpVNXU4Q0U2TEtQNTl3UHhtSXJzS1NhTU15eklDdVEwZExSekxvVWVWR0hfVTIzb0NWMGM?oc=5"
     },
     {
-      "title": "FXStreet: Euro edges up against US Dollar in countdown to US Midterm elections - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2ZsbUtITTVIVmZwdnZVaVFBRlVTSnVLRDd1dFFSUmFibE1kNjVMblIxTXhDS3pFb0dZXzd5V0dfbURfb1pSWndYRWl3VTBmM2duNkxWTllpYUVTcm9QcFRQVXpLZ0NBdkhycVp6MjEyODFxdTlrQVp1NktFMHRPcDhrVExYaUE4UG54bm1rV2x1VzdPbDlRYWlkRE10alVGZWYtT0I1c3dtekRJRi1jMQ?oc=5"
+      "title": "FXEmpire: US Dollar Price Forecast: DXY Holds 101.54 as EUR/USD and GBP/USD Face US Midter",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHNwaEtOd2RkWlpmNkxWUVRGVDA5d1lscGdfYWhIM3MwNWh3ZUZWQzhKNkdMZFk0UjdGX1V3UkljNU40WG42SDVjSTdEdTg3MXJLdmQ5V2s5S1k4LUw0N2dqUFFEWnNaZGszZ25oYzU0bXVsRjhjZ0c2SWtiT19wRHZhNzZKWkJQMWNtMi1STTlrVklENVlueVdjX3I4MHRYc3JmdlpJVVUzbThncG5Mc1JJdFRZcS1WdzRqNGhxdmctTlFDX3c2THdJcjQ?oc=5"
+    },
+    {
+      "title": "BigGo Finance: Dollar-yen climbs into 158 range, edges higher; euro stalls but holds firm ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00a3JCSUxkT2VjMElJY0xBWEdJQzFkQmFYRHNwd21LRUtoLU5OTnZwRDZNWmhfSFIyMDhEbnlycGxqeXNoMG01eVJkU0o5Qm9yWjUyZF9wREFjMHNKVTQ1ajlyZUNaQzRxZHpidU53dkkyRGFrdXc?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
