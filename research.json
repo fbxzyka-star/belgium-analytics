@@ -1,30 +1,30 @@
 {
-  "headline": "Το ευρώ καταγράφει ήπιες πιέσεις έναντι των κυριότερων νομισμάτων καθ' οδόν προς τις ενδιάμες εκλογές στις ΗΠΑ.",
+  "headline": "Το ευρώ καταγράφει ήπιες πιέσεις έναντι των κυριότερων νομισμάτων καθοδικά προς τις 03/11/2026.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
       "change": -0.18,
-      "reason": "Το EUR/USD υποχώρησε στα 1.1196 (-0.18%). Η κίνηση αυτή σημειώνεται εν μέσω αναλύσεων για εξασθένιση της αμερικανικής εξαιρετικότητας και προσδοκιών ενόψει των ενδιάμεων εκλογών στις ΗΠΑ, παρόλο που ορισμένα δημοσιεύματα ανέφεραν προσωρινή ενίσχυση του ευρώ έναντι του δολαρίου."
+      "reason": "Το EUR/USD υποχώρησε στα 1.1196 (-0.18%). Σύμφωνα με τα διαθέσιμα νέα, η αγορά επηρεάζεται από αναλύσεις σχετικά με την εξασθένιση της εξαιρετικότητας του αμερικανικού δολαρίου και την προοπτική διάσπασης, ενώ παράλληλα αναμένονται οι αμερικανικές ενδιάμεσες εκλογές."
     },
     {
       "pair": "EUR/GBP",
       "direction": "down",
-      "change": -0.17,
-      "reason": "Το EUR/GBP υποχώρησε στα 0.8344 (-0.17%). Η πτώση αποδίδεται σε πιέσεις από τα αδύναμα στοιχεία για τις λιανικές πωλήσεις στη Γερμανία και στις αναθεωρημένες, πτωτικές προβλέψεις της Goldman Sachs για την ισοτιμία."
+      "change": -0.22,
+      "reason": "Το EUR/GBP κατέγραψε πτώση στα 0.834 (-0.22%). Η κίνηση αυτή αποδίδεται στο γεγονός ότι το ευρώ υποχωρεί έναντι της βρετανικής λίρας, η οποία υποστηρίζεται από αναθεωρημένες προς τα πάνω προβλέψεις της Goldman Sachs και την προσοχή στραμμένη στα δεδομένα πληθωρισμού και την Τράπεζα της Αγγλίας."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
       "change": -0.07,
-      "reason": "Το EUR/CHF κατέγραψε πτώση στα 0.9187 (-0.07%). Η πορεία αυτή συμβαδίζει με την ενίσχυση του ελβετικού φράγκου, το οποίο καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια και κινείται προς τα υψηλά του Μαΐου, ενόψει και των νέων δεδομένων για τον πληθωρισμό."
+      "reason": "Το EUR/CHF υποχώρησε ελαφρώς στα 0.9187 (-0.07%). Τα νέα δείχνουν ότι το ελβετικό φράγκο διατηρείται ισχυρό, καταγράφοντας τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, καθώς οι αγορές προσβλέπουν στα εγχώρια δεδομένα πληθωρισμού και στα σήματα από τις ΗΠΑ."
     }
   ],
-  "updated": "2026-11-03T17:42+00:00",
+  "updated": "2026-11-03T18:40+00:00",
   "compared_to": "ECB 2026-11-02",
   "rates": {
     "USD": 1.1196,
-    "GBP": 0.8344,
+    "GBP": 0.834,
     "CHF": 0.9187
   },
   "sources": [
@@ -57,8 +57,8 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QT2dqbVJ0UGRiRDVCNlNqUG1WUnNSX2U3ZVZ6ZWxESmJIakNmQzhDZ09JNHpVNXU4Q0U2TEtQNTl3UHhtSXJzS1NhTU15eklDdVEwZExSekxvVWVWR0hfVTIzb0NWMGM?oc=5"
     },
     {
-      "title": "FXStreet: Euro edges up against US Dollar in countdown to US Midterm elections - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2ZsbUtITTVIVmZwdnZVaVFBRlVTSnVLRDd1dFFSUmFibE1kNjVMblIxTXhDS3pFb0dZXzd5V0dfbURfb1pSWndYRWl3VTBmM2duNkxWTllpYUVTcm9QcFRQVXpLZ0NBdkhycVp6MjEyODFxdTlrQVp1NktFMHRPcDhrVExYaUE4UG54bm1rV2x1VzdPbDlRYWlkRE10alVGZWYtT0I1c3dtekRJRi1jMQ?oc=5"
+      "title": "BigGo Finance: Dollar-yen climbs into 158 range, edges higher; euro stalls but holds firm ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00a3JCSUxkT2VjMElJY0xBWEdJQzFkQmFYRHNwd21LRUtoLU5OTnZwRDZNWmhfSFIyMDhEbnlycGxqeXNoMG01eVJkU0o5Qm9yWjUyZF9wREFjMHNKVTQ1ajlyZUNaQzRxZHpidU53dkkyRGFrdXc?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
