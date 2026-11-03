@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ καταγράφει ήπιες πιέσεις έναντι των κυριότερων νομισμάτων καθοδικά προς τις 03/11/2026.",
+  "headline": "Το ευρώ καταγράφει ήπιες πιέσεις έναντι του δολαρίου, της στερλίνας και του ελβετικού φράγκου εν μέσω πολιτικών εξελίξεων στις ΗΠΑ και οικονομικών δεδομένων.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.18,
-      "reason": "Το EUR/USD υποχώρησε στα 1.1196 (-0.18%). Σύμφωνα με τα διαθέσιμα νέα, η αγορά επηρεάζεται από αναλύσεις σχετικά με την εξασθένιση της εξαιρετικότητας του αμερικανικού δολαρίου και την προοπτική διάσπασης, ενώ παράλληλα αναμένονται οι αμερικανικές ενδιάμεσες εκλογές."
+      "change": -0.22,
+      "reason": "Το EUR/USD υποχωρεί κατά 0,22% στα 1,1191. Οι αναλύσεις αναφέρουν ότι η ισοτιμία παρακολουθείται στενά με τεχνικές προοπτικές και διαχείριση θέσεων καθώς πλησιάζουν οι ενδιάμεσες εκλογές στις ΗΠΑ, ενώ προηγούμενες εκτιμήσεις έκαναν λόγο για εξασθένιση της εξαιρετικής πορείας του δολαρίου και πιθανή διάσπαση."
     },
     {
       "pair": "EUR/GBP",
       "direction": "down",
-      "change": -0.22,
-      "reason": "Το EUR/GBP κατέγραψε πτώση στα 0.834 (-0.22%). Η κίνηση αυτή αποδίδεται στο γεγονός ότι το ευρώ υποχωρεί έναντι της βρετανικής λίρας, η οποία υποστηρίζεται από αναθεωρημένες προς τα πάνω προβλέψεις της Goldman Sachs και την προσοχή στραμμένη στα δεδομένα πληθωρισμού και την Τράπεζα της Αγγλίας."
+      "change": -0.19,
+      "reason": "Το EUR/GBP καταγράφει πτώση 0,19% στα 0,8342. Σύμφωνα με τις ειδήσεις, το ευρώ αποδυναμώθηκε έναντι της βρετανικής στερλίνας λόγω των ασθενών στοιχείων για τις γερμανικές λιανικές πωλήσεις, ενώ η Goldman Sachs μείωσε πρόσφατα την πρόβλεψή της για το EUR/GBP στο 0,83 σε ορίζοντα τριών μηνών."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.07,
-      "reason": "Το EUR/CHF υποχώρησε ελαφρώς στα 0.9187 (-0.07%). Τα νέα δείχνουν ότι το ελβετικό φράγκο διατηρείται ισχυρό, καταγράφοντας τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, καθώς οι αγορές προσβλέπουν στα εγχώρια δεδομένα πληθωρισμού και στα σήματα από τις ΗΠΑ."
+      "change": -0.05,
+      "reason": "Το EUR/CHF σημειώνει οριακή πτώση 0,05% στα 0,9188. Το ελβετικό φράγκο ενισχύεται προς τα υψηλά του Μαΐου και καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, καθώς οι traders αναμένουν τα νέα στοιχεία για τον πληθωρισμό."
     }
   ],
-  "updated": "2026-11-03T18:40+00:00",
+  "updated": "2026-11-03T19:44+00:00",
   "compared_to": "ECB 2026-11-02",
   "rates": {
-    "USD": 1.1196,
-    "GBP": 0.834,
-    "CHF": 0.9187
+    "USD": 1.1191,
+    "GBP": 0.8342,
+    "CHF": 0.9188
   },
   "sources": [
     {
@@ -57,8 +57,8 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QT2dqbVJ0UGRiRDVCNlNqUG1WUnNSX2U3ZVZ6ZWxESmJIakNmQzhDZ09JNHpVNXU4Q0U2TEtQNTl3UHhtSXJzS1NhTU15eklDdVEwZExSekxvVWVWR0hfVTIzb0NWMGM?oc=5"
     },
     {
-      "title": "BigGo Finance: Dollar-yen climbs into 158 range, edges higher; euro stalls but holds firm ",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00a3JCSUxkT2VjMElJY0xBWEdJQzFkQmFYRHNwd21LRUtoLU5OTnZwRDZNWmhfSFIyMDhEbnlycGxqeXNoMG01eVJkU0o5Qm9yWjUyZF9wREFjMHNKVTQ1ajlyZUNaQzRxZHpidU53dkkyRGFrdXc?oc=5"
+      "title": "FXStreet: Euro edges up against US Dollar in countdown to US Midterm elections - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2ZsbUtITTVIVmZwdnZVaVFBRlVTSnVLRDd1dFFSUmFibE1kNjVMblIxTXhDS3pFb0dZXzd5V0dfbURfb1pSWndYRWl3VTBmM2duNkxWTllpYUVTcm9QcFRQVXpLZ0NBdkhycVp6MjEyODFxdTlrQVp1NktFMHRPcDhrVExYaUE4UG54bm1rV2x1VzdPbDlRYWlkRE10alVGZWYtT0I1c3dtekRJRi1jMQ?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
