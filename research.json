@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ καταγράφει πιέσεις έναντι των κυριότερων νομισμάτων υπό τη σκιά των αμερικανικών ενδιάμεσων εκλογών και των στοιχείων για τη λιανική στη Γερμανία.",
+  "headline": "Το ευρώ υποχωρεί έναντι των βασικών νομισμάτων εν μέσω των αμερικανικών ενδιάμεσων εκλογών και των προσδοκιών για τα επιτόκια.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.13,
-      "reason": "Το EUR/USD υποχώρησε στα 1,1201 (-0,13%) καθώς η αγορά επικεντρώνεται στην αναμέτρηση των US Midterm elections και στη στάση του δείκτη DXY, παρότι προηγουμένως γινόταν λόγος για εξασθένηση της αμερικανικής εξαιρετικότητας και προοπτικές διάσπασης."
+      "change": -0.25,
+      "reason": "Το EUR/USD υποχώρησε κατά 0,25% στα 1,1188 καθώς το δολάριο κρατάει θέσεις και ο DXY διατηρείται στα 101,54 ενόψει των αμερικανικών ενδιάμεσων εκλογών. Παράλληλα, οι αναλυτές παρακολουθούν τεχνικές αντιστάσεις και την πιθανή εξασθένηση της αμερικανικής εξαιρετικότητας."
     },
     {
       "pair": "EUR/GBP",
       "direction": "down",
-      "change": -0.14,
-      "reason": "Το EUR/GBP κατέγραψε πτώση στα 0,8346 (-0,14%) εν μέσω αναφορών για αδύναμες λιανικές πωλήσεις στη Γερμανία και καθώς οι traders προετοιμάζονται για την επερχόμενη απόφαση της Τράπεζας της Αγγλίας (BoE)."
+      "change": -0.22,
+      "reason": "Το EUR/GBP κατέγραψε πτώση 0,22% στα 0,8340, με το ευρώ να αποδυναμώνονται έναντι της βρετανικής λίρας λόγω των αδύναμων στοιχείων για τις γερμανικές λιανικές πωλήσεις. Οι traders αναμένουν επίσης την επόμενη απόφαση επιτοκίων της Τράπεζας της Αγγλίας (BoE) και τον προϋπολογισμό του Υπουργού Οικονομικών."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.58,
-      "reason": "Το EUR/CHF σημείωσε τη μεγαλύτερη πτώση της ημέρας στα 0,914 (-0,58%), στον απόηχο της ισχυρότερης μηνιαίας επίδοσης του ελβετικού φράγκου τα τελευταία πέντε χρόνια και ενόψει των νέων στοιχείων για τον πληθωρισμό."
+      "change": -0.52,
+      "reason": "Το EUR/CHF υποχώρησε αισθητά κατά 0,52% στα 0,9145, καθώς το ελβετικό φράγκο συνεχίζει να κερδίζει ισχυρή μομέντουμ, καταγράφοντας μάλιστα τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, εν αναμονή και των νέων στοιχείων για τον πληθωρισμό στην Ελβετία."
     }
   ],
-  "updated": "2026-11-03T08:05+00:00",
+  "updated": "2026-11-03T09:18+00:00",
   "compared_to": "ECB 2026-11-02",
   "rates": {
-    "USD": 1.1201,
-    "GBP": 0.8346,
-    "CHF": 0.914
+    "USD": 1.1188,
+    "GBP": 0.834,
+    "CHF": 0.9145
   },
   "sources": [
     {
@@ -49,12 +49,12 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHNwaEtOd2RkWlpmNkxWUVRGVDA5d1lscGdfYWhIM3MwNWh3ZUZWQzhKNkdMZFk0UjdGX1V3UkljNU40WG42SDVjSTdEdTg3MXJLdmQ5V2s5S1k4LUw0N2dqUFFEWnNaZGszZ25oYzU0bXVsRjhjZ0c2SWtiT19wRHZhNzZKWkJQMWNtMi1STTlrVklENVlueVdjX3I4MHRYc3JmdlpJVVUzbThncG5Mc1JJdFRZcS1WdzRqNGhxdmctTlFDX3c2THdJcjQ?oc=5"
     },
     {
-      "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
-    },
-    {
       "title": "Yahoo Finance: US Dollar Price Forecast: DXY Holds 101.54 Ahead of US Midterms as EUR/USD ",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2Z5YVFfendoaEpiNF9VSGdqN1J1UDZrS2M0NlVwTEhENkFaejBiX2tkNGRHVm1NZVVwZEFiRExVSndnbkpVOVcwR1dEWHRPMG5zYW1fQ096U0xJUEdhZXFLNHlFLVoyMVBZNG83UWI2YUoyT3Uzd2syTjU0OHZaZlg1LWdOUEtqRmFONXNSX2VhXzVqSXd6cTRrbnQ1Zw?oc=5"
+    },
+    {
+      "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
     },
     {
       "title": "FXStreet: Euro weakens against British Pound on soft German Retail Sales, traders await Bo",
