@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ καταγράφει ήπιες πιέσεις έναντι των κυριότερων νομισμάτων ενόψει των ενδιάμεσων εκλογών στις ΗΠΑ και των εξελίξεων σε Ηνωμένο Βασίλειο και Ελβετία.",
+  "headline": "Το ευρώ καταγράφει ήπιες πιέσεις έναντι των κυριότερων νομισμάτων καθ' οδόν προς τις ενδιάμες εκλογές στις ΗΠΑ.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.21,
-      "reason": "Το EUR/USD υποχώρησε κατά 0,21% στα 1,1192. Παρά το γεγονός ότι ορισμένες αναλύσεις και δημοσιεύματα ανέφεραν μια ευρύτερη εξασθένηση της αμερικανικής εξαιρετικότητας και προσδοκίες για breakout του ευρώ ενόψει των ενδιάμεσων εκλογών στις ΗΠΑ, η τιμή κατέγραψε τελικά πτώση από το κλείσιμο της ΕΚΤ."
+      "change": -0.18,
+      "reason": "Το EUR/USD υποχώρησε στα 1.1196 (-0.18%). Η κίνηση αυτή σημειώνεται εν μέσω αναλύσεων για εξασθένιση της αμερικανικής εξαιρετικότητας και προσδοκιών ενόψει των ενδιάμεων εκλογών στις ΗΠΑ, παρόλο που ορισμένα δημοσιεύματα ανέφεραν προσωρινή ενίσχυση του ευρώ έναντι του δολαρίου."
     },
     {
       "pair": "EUR/GBP",
       "direction": "down",
-      "change": -0.18,
-      "reason": "Το EUR/GBP κατέγραψε πτώση 0,18% στα 0,8343. Η κίνηση αυτή σημειώθηκε στον απόηχο των αδύναμων λιανικών πωλήσεων στη Γερμανία και των αναθεωρημένων προγνωστικών της Goldman Sachs που μείωσαν την πρόβλεψη τριμήνου για το EUR/GBP στο 0,83, καθώς η αγορά παρακολουθεί τις αποφάσεις και τις μεταβολές στη δυναμική της στερλίνας."
+      "change": -0.17,
+      "reason": "Το EUR/GBP υποχώρησε στα 0.8344 (-0.17%). Η πτώση αποδίδεται σε πιέσεις από τα αδύναμα στοιχεία για τις λιανικές πωλήσεις στη Γερμανία και στις αναθεωρημένες, πτωτικές προβλέψεις της Goldman Sachs για την ισοτιμία."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.08,
-      "reason": "Το EUR/CHF υποχώρησε κατά 0,08% στα 0,9186. Η πτώση αυτή συμβαδίζει με τα δημοσιεύματα που δείχνουν ότι το ελβετικό φράγκο σημειώνει κέρδη προς τα υψηλά του Μαΐου και καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, εν μέσω προσδοκιών για τα εγχώρια στοιχεία πληθωρισμού."
+      "change": -0.07,
+      "reason": "Το EUR/CHF κατέγραψε πτώση στα 0.9187 (-0.07%). Η πορεία αυτή συμβαδίζει με την ενίσχυση του ελβετικού φράγκου, το οποίο καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια και κινείται προς τα υψηλά του Μαΐου, ενόψει και των νέων δεδομένων για τον πληθωρισμό."
     }
   ],
-  "updated": "2026-11-03T16:46+00:00",
+  "updated": "2026-11-03T17:42+00:00",
   "compared_to": "ECB 2026-11-02",
   "rates": {
-    "USD": 1.1192,
-    "GBP": 0.8343,
-    "CHF": 0.9186
+    "USD": 1.1196,
+    "GBP": 0.8344,
+    "CHF": 0.9187
   },
   "sources": [
     {
@@ -41,12 +41,12 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
     },
     {
-      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
-    },
-    {
       "title": "Yahoo! Finance Canada: EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo!",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
+    },
+    {
+      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
     },
     {
       "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
