@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ καταγράφει απέναντι σε USD, GBP και CHF καθώς οι αγορές επικεντρώνονται στις αμερικανικές ενδιάμεσες εκλογές, στα στοιχεία για τη γερμανική λιανική και στην ισχύ του ελβετικού φράγκου.",
+  "headline": "Το ευρώ καταγράφει απέναντι σε δολάριο, στερλίνα και φράγκο εν μέσω πολιτικών εξελίξεων και οικονομικών δεδομένων",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.35,
-      "reason": "Το EUR/USD υποχωρεί στα 1.1177 (-0.35%) καθώς το δολάριο διατηρείται ενόψει των αμερικανικών ενδιάμεσων εκλογών, παρόλο που αναλύσεις αναφέρουν ότι η εξαιρετική πορεία του δολαρίου εξασθενεί και traders παρακολουθούν τεχνικές αναλύσεις και πιθανές διασπάσεις."
+      "change": -0.33,
+      "reason": "Το EUR/USD υποχώρησε στα 1.1179 (-0.33%) καθώς το ευρώ δυσκολεύεται να βρει ανοδική συνέχεια πάνω από το επίπεδο του 1.1200, ενώ οι αγορές επηρεάζονται από τις εν εξελίξει US Midterms και τις σχετικές αναλύσεις για την πορεία του DXY."
     },
     {
       "pair": "EUR/GBP",
       "direction": "down",
-      "change": -0.26,
-      "reason": "Το EUR/GBP υποχωρεί στα 0.8336 (-0.26%), με το ευρώ να αποδυναμώνονται έναντι της βρετανικής λίρας λόγω των αδύναμων στοιχείων για τις γερμανικές λιανικές πωλήσεις, ενώ παράλληλα η Goldman Sachs μείωσε την πρόβλεψή της για το τρίμηνο στο 0.83."
+      "change": -0.29,
+      "reason": "Το EUR/GBP κατέγραψε πτώση στα 0.8334 (-0.29%) υπό το βάρος των αδύναμων στοιχείων για τις λιανικές πωλήσεις στη Γερμανία και της προσοχής των επενδυτών στις αναμενόμενες αποφάσεις της Τράπεζας της Αγγλίας (BoE), ενώ η Goldman Sachs μείωσε πρόσφατα την τρίμηνη πρόβλεψή της για το ζεύγος στο 0.83."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.39,
-      "reason": "Το EUR/CHF υποχωρεί στα 0.9157 (-0.39%), καθώς το ελβετικό φράγκο ενισχύεται καταγράφοντας τον ισχυρότερο μήνα του εδώ και πέντε χρόνια και κινείται προς τα υψηλά του Μαΐου έναντι του ευρώ, ενόψει και των επερχόμενων στοιχείων για τον πληθωρισμό."
+      "change": -0.37,
+      "reason": "Το EUR/CHF υποχώρησε στα 0.9159 (-0.37%), με το ελβετικό φράγκο να ενισχύεται προς τα υψηλά Μαΐου και να καταγράφει τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, την ώρα που οι traders αναμένουν νέα στοιχεία για τον πληθωρισμό στην Ελβετία."
     }
   ],
-  "updated": "2026-11-03T11:21+00:00",
+  "updated": "2026-11-03T12:14+00:00",
   "compared_to": "ECB 2026-11-02",
   "rates": {
-    "USD": 1.1177,
-    "GBP": 0.8336,
-    "CHF": 0.9157
+    "USD": 1.1179,
+    "GBP": 0.8334,
+    "CHF": 0.9159
   },
   "sources": [
     {
@@ -37,10 +37,6 @@
       "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members"
     },
     {
-      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
-    },
-    {
       "title": "Mitrade: EURUSD Chart | EUR to USD Rate and News - Mitrade",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QT2dqbVJ0UGRiRDVCNlNqUG1WUnNSX2U3ZVZ6ZWxESmJIakNmQzhDZ09JNHpVNXU4Q0U2TEtQNTl3UHhtSXJzS1NhTU15eklDdVEwZExSekxvVWVWR0hfVTIzb0NWMGM?oc=5"
     },
@@ -49,16 +45,20 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
     },
     {
-      "title": "FXStreet: Euro edges up against US Dollar in countdown to US Midterm elections - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2ZsbUtITTVIVmZwdnZVaVFBRlVTSnVLRDd1dFFSUmFibE1kNjVMblIxTXhDS3pFb0dZXzd5V0dfbURfb1pSWndYRWl3VTBmM2duNkxWTllpYUVTcm9QcFRQVXpLZ0NBdkhycVp6MjEyODFxdTlrQVp1NktFMHRPcDhrVExYaUE4UG54bm1rV2x1VzdPbDlRYWlkRE10alVGZWYtT0I1c3dtekRJRi1jMQ?oc=5"
-    },
-    {
       "title": "FXEmpire: US Dollar Price Forecast: DXY Holds 101.54 as EUR/USD and GBP/USD Face US Midter",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHNwaEtOd2RkWlpmNkxWUVRGVDA5d1lscGdfYWhIM3MwNWh3ZUZWQzhKNkdMZFk0UjdGX1V3UkljNU40WG42SDVjSTdEdTg3MXJLdmQ5V2s5S1k4LUw0N2dqUFFEWnNaZGszZ25oYzU0bXVsRjhjZ0c2SWtiT19wRHZhNzZKWkJQMWNtMi1STTlrVklENVlueVdjX3I4MHRYc3JmdlpJVVUzbThncG5Mc1JJdFRZcS1WdzRqNGhxdmctTlFDX3c2THdJcjQ?oc=5"
     },
     {
       "title": "LiteFinance: Technical Analysis of US Crude, XAUUSD and EURUSD for Today (November 3, 2026",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRklFVHM3dGxXcHJlWVdXZDB3YjVhZ2JaZ0RyZVpZVXhnYzNRS1BaUTRJMFhTWmpTV2wweEJwQThGR1FPZ01qVGZIbXpUNjVsbjBiZXVMWmE4S3NVa2RjWm9ySnJGcHR5S3JqUWoyN2Y2QU5QY2NXNGdXMnA3RGtpSGxFaDREMHJQS3NHdnBsUzJYTnNNQXgtaDFaOGhJenYxSmxTUW91cWRuWTdx?oc=5"
+    },
+    {
+      "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
+    },
+    {
+      "title": "FXStreet: EUR/USD Price Forecast: Euro struggles to find follow-through above 1.1200 - FXS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2Z6MzU4WFdBNkJtY0dTQ3JXdUtkMHNoRVNmaGJLcXNJWDliQ3ZEUDQ0a2g3WkxWUmRtWVVOZXUwUzFUWndvbk5ObkNHZXhvRHNmMmN2alJqWDMzLTNRZnk2d29JeFdLVEZyNU5hNkY1NWs3RTVvdWxKeE9xcXE3eVh5VkZaNU55OGdrSGZReVJjcFdZQmRQdk5nTHFyZmFVNGEybnRRRVZ6SFhGdnZCR0loc2hvZmt5SFZJ?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
