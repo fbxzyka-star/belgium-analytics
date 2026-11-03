@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ ενισχύεται έναντι δολαρίου και στερλίνας, αλλά υποχωρεί έναντι του ελβετικού φράγκου.",
+  "headline": "Το ευρώ υποχωρεί έναντι των βασικών νομισμάτων καθώς αποτυγχάνει να διατηρήσει τα πρόσφατα κέρδη του πάνω από τα βασικά τεχνικά επίπεδα αντίστασης.",
   "pairs": [
     {
       "pair": "EUR/USD",
-      "direction": "up",
-      "change": 0.18,
-      "reason": "Η ισοτιμία EUR/USD σημείωσε άνοδο καθώς αναλύσεις αναφέρουν ότι η εξαιρετική πορεία του δολαρίου ΗΠΑ εξασθενεί και το ευρώ κοιτάζει προς μια διάσπαση. Παράλληλα, υπάρχουν εκτιμήσεις από την UBS που διατηρούν στόχο το 1.16 για το τέλος του 2026, ενώ συζητείται και ο αντίκτυπος των εν εξελίξει πολιτικών εξελίξεων (όπως οι ενδεχόμενες επιπτώσεις από τις μεσοπρόθεσμες εκλογές στις ΗΠΑ)."
+      "direction": "down",
+      "change": -0.25,
+      "reason": "Το EUR/USD υποχώρησε στα 1.1188 (-0.25%). Σύμφωνα με τις αναλύσεις, το ευρώ δυσκολεύτηκε να βρει ανοδική συνέχεια και έχασε τη μομέντουμ του πάνω από το ψυχολογικό επίπεδο του 1.1200, παρά τις πρόσφατες εκτιμήσεις για εξασθένηση της αμερικανικής εξαίρεσης και ενόψει των αμερικανικών ενδιάμεσων εκλογών."
     },
     {
       "pair": "EUR/GBP",
-      "direction": "up",
-      "change": 0.11,
-      "reason": "Η ισοτιμία EUR/GBP κατέγραψε άνοδο καθώς το ευρώ προχωρά προς βασικά επίπεδα αντίστασης και δοκιμάζει την περιοχή των 0.8360. Την ίδια στιγμή, η βρετανική λίρα χάνει τη δυναμική της και χάνει ατμόσφαιρα ενόψει και των προσδοκιών για τον προϋπολογισμό του Υπουργού Οικονομικών."
+      "direction": "down",
+      "change": -0.17,
+      "reason": "Το EUR/GBP κινήθηκε πτωτικά στα 0.8344 (-0.17%). Η κίνηση αυτή σημειώθηκε τη στιγμή που το ευρώ δοκίμαζε ανεπιτυχώς την αντίσταση στην περιοχή του 0.8360, καθώς η βρετανική λίρα επηρεάστηκε επίσης από τις προσδοκίες γύρω από τον προϋπολογισμό του Υπουργού Οικονομικών (Chancellor's Budget)."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
       "change": -0.35,
-      "reason": "Η ισοτιμία EUR/CHF υποχώρησε καθώς το ελβετικό φράγκο κατέγραψε τον ισχυρότερο μήνα του εδώ και πέντε χρόνια. Η ισχύς του φράγκου στηρίχθηκε επίσης από τα ισχυρά στοιχεία του δείκτη PMI (SVME PMI) που ανακοινώθηκαν."
+      "reason": "Το EUR/CHF κατέγραψε τη μεγαλύτερη πτώση στα 0.9161 (-0.35%). Η πορεία αυτή ενισχύεται από το γεγονός ότι το ελβετικό φράγκο διατηρείται ισχυρό, καταγράφοντας τον ισχυρότερο μήνα του εδώ και πέντε χρόνια, υποστηριζόμενο μεταξύ άλλων από τα ισχυρά στοιχεία του δείκτη PMI (SVME PMI)."
     }
   ],
-  "updated": "2026-11-02T23:59+00:00",
-  "compared_to": "ECB 2026-10-30",
+  "updated": "2026-11-03T00:56+00:00",
+  "compared_to": "ECB 2026-11-02",
   "rates": {
-    "USD": 1.1192,
-    "GBP": 0.8347,
-    "CHF": 0.9162
+    "USD": 1.1188,
+    "GBP": 0.8344,
+    "CHF": 0.9161
   },
   "sources": [
     {
@@ -37,6 +37,10 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
     },
     {
+      "title": "Yahoo Finance: US Dollar Price Forecast: DXY Holds 101.54 Ahead of US Midterms as EUR/USD ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2Z5YVFfendoaEpiNF9VSGdqN1J1UDZrS2M0NlVwTEhENkFaejBiX2tkNGRHVm1NZVVwZEFiRExVSndnbkpVOVcwR1dEWHRPMG5zYW1fQ096U0xJUEdhZXFLNHlFLVoyMVBZNG83UWI2YUoyT3Uzd2syTjU0OHZaZlg1LWdOUEtqRmFONXNSX2VhXzVqSXd6cTRrbnQ1Zw?oc=5"
+    },
+    {
       "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
     },
@@ -45,16 +49,12 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2Z6MzU4WFdBNkJtY0dTQ3JXdUtkMHNoRVNmaGJLcXNJWDliQ3ZEUDQ0a2g3WkxWUmRtWVVOZXUwUzFUWndvbk5ObkNHZXhvRHNmMmN2alJqWDMzLTNRZnk2d29JeFdLVEZyNU5hNkY1NWs3RTVvdWxKeE9xcXE3eVh5VkZaNU55OGdrSGZReVJjcFdZQmRQdk5nTHFyZmFVNGEybnRRRVZ6SFhGdnZCR0loc2hvZmt5SFZJ?oc=5"
     },
     {
+      "title": "www.tmgm.com: EUR/USD Price Forecasts: EUR/USD lacks momentum to extend gains above 1.1200",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTE16Y2FwbnpSZkRZa0h5LWJZWGJVanVEZmUyR05IU3A0MERoWXdGUkRRTFVnN1dMTnczS3FpbEZJN2JPekpMSW4zd2pHdEhtdHd0UEh3X2pZVTNDak9YVkxNY3dFbnpjSERpVURCd3RKbzgzMWdxX05qd3hpam9aYlNZTzZ1SkcwMDQ4S3BKTnpMeHR0S3VjODFqUGpmWlM4aFFjMXZiZ0luSnNyMVp0ZEhNc2VDX09ERXBqTmhSbHNYNmphQ1k3TUNLd2J5ZGZFdXNBUDdzSTRVSy0wNFE?oc=5"
+    },
+    {
       "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
-    },
-    {
-      "title": "Exchange Rates UK: Euro To US Dollar Forecast: UBS Retains 1.16 Target For End-2026 - Exch",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRG9nNnhSX192Z0ZVLTVycDRObjlCYnpKWk9MQW1OaG8wZkdyUV9RZHBnTEJyWXUyMVIzSEtXdmliUGpMeDE0dFV4RWxOWHI1MG41T2NZZjd4QW55SmNib3NqemVTRVBuVmxCc21xXzB4VXlSeTluOF9ad0s4dkdKT0Y5NW8tTFRPc2w5NlNZNUhlQXpKNWpLVnVTZkVHVl8zUzNMU3Vla2p0cWtodDhLNDFDSXpMODlWMFl0RGVVenY?oc=5"
-    },
-    {
-      "title": "CurrencyNews.co.uk: Euro to Dollar Forecast: US Midterms Democrat Sweep Put USD at Risk - ",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVNNRnB2Tk5hN0RYWHhTNlhEaWdIR0dmUkVVRW5CNV9DbjZadERyMmo3RGxpeWhPMEl2MUR6SDIwNzRkOHlzMGhPejZCc2ZvcW9qQVJSTTlWSGlPbk1DdHNGN2duRzdjdTg4MTcxMUttQzhIN0xKN0t1N1NkMThfb2FoQXUwWW9CTlZXVkJLRkl5NFZZSm1VLVN4VjA4UmM2Vk1mYUQ5OGNvT2hxUDhnSUE1QktuaXdCSXBwMHZWYUZxUHpH?oc=5"
     },
     {
       "title": "TradingPedia: Euro Advances Toward Key Ceiling as EUR/GBP Rebounds - TradingPedia",
