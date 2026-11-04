@@ -1,31 +1,31 @@
 {
-  "headline": "Η αγορά FX αντιδρά ενόψει των αμερικανικών ενδιάμεσων εκλογών και των προσδοκιών για τον πληθωρισμό.",
+  "headline": "Το Ευρώ ενισχύεται έναντι του δολαρίου και της βρετανικής λίρας, ενώ υποχωρεί ελαφρώς έναντι του ελβετικού φράγκου.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "change": 0.64,
-      "reason": "Το EUR/USD σημείωσε άνοδο καθώς το δολάριο αποδυναμώθηκε ενόψει των αμερικανικών ενδιάμεσων εκλογών. Παράλληλα, οι αναλυτές παρακολουθούν στενά τις τεχνικές προοπτικές και τις κινήσεις του δείκτη DXY."
+      "change": 0.65,
+      "reason": "Το EUR/USD κατέγραψε άνοδο φτάνοντας στο 1.1252. Η κίνηση αυτή αποδίδεται στην εξασθένηση της αμερικανικής εξαιρετικότητας και την αποδυνάμωση του δολαρίου ενόψει των ενδιάμεσων εκλογών στις ΗΠΑ, καθώς το ευρώ κοιτάζει προς μια διάσπαση."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.21,
-      "reason": "Το EUR/GBP κατέγραψε οριακή άνοδο, παρά τις πιέσεις που δέχτηκε το κοινό νόμισμα έναντι της βρετανικής λίρας λόγω της εστίασης στα στοιχεία για τον πληθωρισμό και την Τράπεζα της Αγγλίας. Σημειώνεται ότι η Goldman Sachs αναθεώρησε πρόσφατα επί τα βελτίω τις προβλέψεις της για τη λίρα και μείωσε τη βραχυπρόθεσμη εκτίμησή της για το EUR/GBP."
+      "change": 0.24,
+      "reason": "Το EUR/GBP κινήθηκε ανοδικά στο 0.8356. Η αγορά επικεντρώνεται στα δεδομένα πληθωρισμού και την Τράπεζα της Αγγλίας (BoE), παρά το γεγονός ότι ορισμένες αναλύσεις σημειώνουν πως η Goldman Sachs έχει μειώσει τη βραχυπρόθεσμη πρόβλεψή της για το ζεύγος."
     },
     {
       "pair": "EUR/CHF",
-      "direction": "flat",
-      "change": -0.04,
-      "reason": "Το EUR/CHF παρέμεινε σχεδόν αμετάβλητο (flat), εν μέσω αναφορών ότι το ελβετικό φράγκο παραμένει ισχυρό και ενισχύεται προς τα υψηλά Μαΐου καθώς οι αγορές αναμένουν νέα στοιχεία για τον πληθωρισμό."
+      "direction": "down",
+      "change": -0.08,
+      "reason": "Το EUR/CHF υποχώρησε ελαφρώς στο 0.9159. Το ελβετικό φράγκο διατηρείται ισχυρό και κερδίζει έδαφος προς τα υψηλά του Μαΐου, εν μέσω προσδοκιών για τα επερχόμενα στοιχεία πληθωρισμού και τα σήματα από τις αγορές."
     }
   ],
-  "updated": "2026-11-04T02:41+00:00",
+  "updated": "2026-11-04T03:43+00:00",
   "compared_to": "ECB 2026-11-03",
   "rates": {
-    "USD": 1.1251,
-    "GBP": 0.8353,
-    "CHF": 0.9162
+    "USD": 1.1252,
+    "GBP": 0.8356,
+    "CHF": 0.9159
   },
   "sources": [
     {
@@ -41,20 +41,20 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
     },
     {
-      "title": "Yahoo! Finance Canada: EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo!",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
+      "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
     },
     {
       "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
     },
     {
-      "title": "Mitrade: EURUSD Chart | EUR to USD Rate and News - Mitrade",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QT2dqbVJ0UGRiRDVCNlNqUG1WUnNSX2U3ZVZ6ZWxESmJIakNmQzhDZ09JNHpVNXU4Q0U2TEtQNTl3UHhtSXJzS1NhTU15eklDdVEwZExSekxvVWVWR0hfVTIzb0NWMGM?oc=5"
+      "title": "Yahoo! Finance Canada: EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo!",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
     },
     {
-      "title": "FXEmpire: US Dollar Price Forecast: DXY Holds 101.54 as EUR/USD and GBP/USD Face US Midter",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHNwaEtOd2RkWlpmNkxWUVRGVDA5d1lscGdfYWhIM3MwNWh3ZUZWQzhKNkdMZFk0UjdGX1V3UkljNU40WG42SDVjSTdEdTg3MXJLdmQ5V2s5S1k4LUw0N2dqUFFEWnNaZGszZ25oYzU0bXVsRjhjZ0c2SWtiT19wRHZhNzZKWkJQMWNtMi1STTlrVklENVlueVdjX3I4MHRYc3JmdlpJVVUzbThncG5Mc1JJdFRZcS1WdzRqNGhxdmctTlFDX3c2THdJcjQ?oc=5"
+      "title": "Mitrade: EURUSD Chart | EUR to USD Rate and News - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QT2dqbVJ0UGRiRDVCNlNqUG1WUnNSX2U3ZVZ6ZWxESmJIakNmQzhDZ09JNHpVNXU4Q0U2TEtQNTl3UHhtSXJzS1NhTU15eklDdVEwZExSekxvVWVWR0hfVTIzb0NWMGM?oc=5"
     },
     {
       "title": "FXStreet: Euro slips against British Pound with inflation data and BoE in focus - FXStreet",
