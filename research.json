@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ ενισχύεται έναντι των βασικών νομισμάτων καθώς το δολάριο δέχεται πιέσεις από τα αποτελέσματα των ενδιάμεσων εκλογών στις ΗΠΑ.",
+  "headline": "Το ευρώ ενισχύεται έναντι των κυριότερων νομισμάτων καθώς το δολάριο δέχεται πιέσεις από τις εν εξελίξει εκλογές ενδιάμεσης θητείας στις ΗΠΑ.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "change": 0.72,
-      "reason": "Το EUR/USD σημείωσε άνοδο στα 1,126 (+0,72%), καθώς το δολάριο τέθηκε υπό πίεση από τα αποτελέσματα των ενδιάμεσων εκλογών στις ΗΠΑ και την επανεκτίμηση των προοπτικών της δημοσιονομικής πολιτικής. Ωστόσο, η ανοδική πορεία του ευρώ περιορίστηκε εξαιτίας της δημοσιονομικής πίεσης στη Γαλλία, ενώ τεχνικά παραμένει κάτω από τον κινητό μέσο όρο των 100 ημερών."
+      "change": 0.57,
+      "reason": "Το EUR/USD σημείωσε άνοδο 0,57% στα 1,1243 (από 1,1179). Το δολάριο τέθηκε υπό πίεση καθώς τα αποτελέσματα των ενδιάμεσων εκλογών στις ΗΠΑ οδήγησαν τις αγορές σε επαναξιολόγηση της δημοσιονομικής προοπτικής. Ταυτόχρονα, τα κέρδη του ευρώ περιορίστηκαν κάπως λόγω της γαλλικής δημοσιονομικής πίεσης."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.16,
-      "reason": "Το EUR/GBP κατέγραψε οριακή άνοδο στα 0,8349 (+0,16%), παρά το γεγονός ότι το ευρώ διστάζει γύρω από τα επίπεδα του 0,8350 εν μέσω ισχύος της βρετανικής λίρας και εν αναμονή πιθανής αύξησης των επιτοκίων από την Τράπεζα της Αγγλίας (BoE)."
+      "change": 0.12,
+      "reason": "Το EUR/GBP κατέγραψε οριακή άνοδο 0,12% στα 0,8346 (από 0,83358). Η κίνηση αυτή υποστηρίχθηκε από τη γενικότερη αδυναμία του δολαρίου πριν από τις ενδιάμες εκλογές, ενώ οι αναλυτές σημείωσαν πρόσφατες αναθεωρήσεις και εστίαση στη βρετανική λίρα με επίκεντρο τα στοιχεία για τον πληθωρισμό και την Τράπεζα της Αγγλίας."
     },
     {
       "pair": "EUR/CHF",
       "direction": "up",
-      "change": 0.21,
-      "reason": "Το EUR/CHF ενισχύθηκε στα 0,9185 (+0,21%). Σύμφωνα με τις διαθέσιμες ειδήσεις, το ελβετικό φράγκο στηρίζεται από τους κινδύνους γביw από μια ΄hawkish' (σκληρή) στάση της Εθνικής Τράπεζας της Ελβετίας (SNB) και πολιτικούς/πολιτικούς κινδύνους που πλήττουν το δολάριο, χωρίς ωστόσο να υπάρχει κάποια ειδική είδηση που να εξηγεί αποκλειστικά τη μικρή ημεisία άνοδο του σταυρού EUR/CHF."
+      "change": 0.35,
+      "reason": "Το EUR/CHF ενισχύθηκε κατά 0,35% στα 0,9198 (από 0,9166). Παρά την ευρύτερη άνοδο του ευρώ, το ελβετικό φράγκο παραμένει υποστηριγμένο από τους κινδύνους πολιτικής και πολιτικών εξελίξεων, καθώς και από τις προσδοκίες για μια πιο αυστηρή (hawkish) στάση της Εθνικής Τράπεζας της Ελβετίας (SNB) λόγω των ισχυρότερων δεδομένων για τον πληθωρισμό."
     }
   ],
-  "updated": "2026-11-04T14:02+00:00",
+  "updated": "2026-11-04T15:17+00:00",
   "compared_to": "ECB 2026-11-03",
   "rates": {
-    "USD": 1.126,
-    "GBP": 0.8349,
-    "CHF": 0.9185
+    "USD": 1.1243,
+    "GBP": 0.8346,
+    "CHF": 0.9198
   },
   "sources": [
     {
@@ -53,8 +53,8 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3QtMFhSQ19XVVRIRG9xNWpJNVJfc2VQQkNKVU9qY2pmSXRQUU9US2lkX1FsUF9VcldZZjNOQnRENUl0eGJyYlZJZjA0a2R3MmtmbnVVamhnQ0l3SlZMZG5NUVlCc25tY0Fna05EV0xsWUxzTlcxM1kwc2RPN0xTRkRQNkcya3l4UmY4OXJsQjktSkhnczlHb1BxOUY5YzNKcU5HNURZUlpQcmtqMkRTM05zNDBFdHFac2hITjR5OEhTblFl?oc=5"
     },
     {
-      "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
+      "title": "FOREX.com: EUR/USD, Gold Forecast: Two trades to watch - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRS0zRzRRMVZEdm5xdzlXLTU0QnBMSU8xX3FPcEVGUlFuM0E4NWFkSE1SSWY4R1NkdUZfcWlSTExtN190UTRQMjJUNzlBaDhEY1BXb184M0ZnX3J0cnlDMDIweTZ4QnE4ODI4RFRlODA2SFJqUGZiWVZUeWE0ZVNPTU95MFJKY3pNR0RHNEVvWWFESTVMSTVMLUVISU8zRm4zS1k2QUVUWm9Ddmp60gGsAUFVX3lxTFBFLTNHNFExVkR2bnF3OVctNTRCcExJTzFfcU9wRUZSUW4zQTg1YWRITVJJZjhHU2R1Rl9xaVJMTG03X3RRNFAyMlQ3OUFoOERjUFdvXzgzRmdfcnRyeUMwMjB5NnhCcTg4MjhEVGU4MDZIUmpQZmJZVlR5YTRlU09NT3kwUkpjek1HREc0RW9ZYURJNUxJNUwtRUhJTzNGbjNLWTZBRVRab0N2ano?oc=5"
     },
     {
       "title": "LiteFinance: Technical Analysis of US Crude, XAUUSD and EURUSD for Today (November 4, 2026",
