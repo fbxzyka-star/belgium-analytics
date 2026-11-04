@@ -1,31 +1,31 @@
 {
-  "headline": "Το Ευρώ ενισχύεται έναντι του δολαρίου και της βρετανικής λίρας, ενώ υποχωρεί ελαφρώς έναντι του ελβετικού φράγκου.",
+  "headline": "Το ευρώ ενισχύεται έναντι του δολαρίου και της λίρας, ενώ υποχωρεί ελαφρά έναντι του ελβετικού φράγκου.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "up",
-      "change": 0.65,
-      "reason": "Το EUR/USD κατέγραψε άνοδο φτάνοντας στο 1.1252. Η κίνηση αυτή αποδίδεται στην εξασθένηση της αμερικανικής εξαιρετικότητας και την αποδυνάμωση του δολαρίου ενόψει των ενδιάμεσων εκλογών στις ΗΠΑ, καθώς το ευρώ κοιτάζει προς μια διάσπαση."
+      "change": 0.62,
+      "reason": "Το EUR/USD κινήθηκε ανοδικά καθιστώντας ορατή μια πιθανή διάσπαση, καθώς το δολάριο ΗΠΑ δέχεται πιέσεις. Η εξέλιξη αυτή αποδίδεται στην εξασθένιση της εξαιρετικής πορείας του δολαρίου ενόψει των ενδιάμεσων εκλογών στις ΗΠΑ."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.24,
-      "reason": "Το EUR/GBP κινήθηκε ανοδικά στο 0.8356. Η αγορά επικεντρώνεται στα δεδομένα πληθωρισμού και την Τράπεζα της Αγγλίας (BoE), παρά το γεγονός ότι ορισμένες αναλύσεις σημειώνουν πως η Goldman Sachs έχει μειώσει τη βραχυπρόθεσμη πρόβλεψή της για το ζεύγος."
+      "change": 0.19,
+      "reason": "Το EUR/GBP κατέγραψε άνοδο, παρά το γεγονός ότι το ευρώ δέχθηκε πιέσεις νωρίτερα λόγω των αδύναμων στοιχείων για τις λιανικές πωλήσεις στη Γερμανία και την προσοχή των επενδυτών στα δεδομένα πληθωρισμού και στις αποφάσεις της Τράπεζας της Αγγλίας (BoE)."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.08,
-      "reason": "Το EUR/CHF υποχώρησε ελαφρώς στο 0.9159. Το ελβετικό φράγκο διατηρείται ισχυρό και κερδίζει έδαφος προς τα υψηλά του Μαΐου, εν μέσω προσδοκιών για τα επερχόμενα στοιχεία πληθωρισμού και τα σήματα από τις αγορές."
+      "change": -0.07,
+      "reason": "Το EUR/CHF σημείωσε μικρή πτώση, καθώς το ελβετικό φράγκο ενισχύθηκε προς τα υψηλά του Μαΐου ενόψει της ανακοίνωσης των στοιχείων για τον πληθωρισμό στην Ελβετία."
     }
   ],
-  "updated": "2026-11-04T03:43+00:00",
+  "updated": "2026-11-04T04:48+00:00",
   "compared_to": "ECB 2026-11-03",
   "rates": {
-    "USD": 1.1252,
-    "GBP": 0.8356,
-    "CHF": 0.9159
+    "USD": 1.1248,
+    "GBP": 0.8352,
+    "CHF": 0.916
   },
   "sources": [
     {
@@ -37,12 +37,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
     },
     {
-      "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
-    },
-    {
       "title": "StoneX: US Dollar Exceptionalism Fades as EUR/USD Eyes Breakout - StoneX",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFQdTNpWklVbFBXVXFfSUUzc1V6azV4YjVsMllBWTczWW5Nb2xqMXFSdzFFTGhScWJIMlB2QmdNUGc1YTBGeFhLTExfY25OVTRDQVUxT2o0TWFfVDllRVdYWUJKM0J1a3pQSEVtMHJoTlVpSmNmWnJJTkg5S2IwaXlXdzE4bUlmeTIzWU9nRnAyMzhtT3ZVVXI1QlRqVldSVlNFV3F3?oc=5"
+    },
+    {
+      "title": "Action Forex: EUR/USD Technical Outlook: Expert Forex Analysis and Predictions - Action Fo",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12VUcxeEM1Y0xFVnJ3eWdqc090cmdBVnZlOFBjWDdHbnRVN0RpVjU0REdPVHFTMGFodkJwYlAxNVpNUnlsZEpPbUhFVWlOdXRyV0tOZUgxdElUU1ZTS0pDQ0FxdzB0YVpZc19zRlFvRXpJNzd4eG0weEZ3?oc=5"
     },
     {
       "title": "Центральный Банк России: Official exchange rates on selected date | Bank of Russia - Центр",
@@ -57,8 +57,8 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QT2dqbVJ0UGRiRDVCNlNqUG1WUnNSX2U3ZVZ6ZWxESmJIakNmQzhDZ09JNHpVNXU4Q0U2TEtQNTl3UHhtSXJzS1NhTU15eklDdVEwZExSekxvVWVWR0hfVTIzb0NWMGM?oc=5"
     },
     {
-      "title": "FXStreet: Euro slips against British Pound with inflation data and BoE in focus - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSy1fZlRicF8tY3ltVzloZGszV3RMb01Qa2JtYkQ0bEhMcGplR01EbzhMU1U4NkE0RjBaUUpTTURMTnRibjZNSm96Nzgtc1NRcktmbnhGeXFDenF3aUpsc1ZXaTJCSUxhN25vVWg1R0JGTm9QWVJYTVNRbWItdk1lczZLQXdWVDdNSFprcTJ2RkE4bldwanRfMDUyb1M5X0NFRXNUeEhGQURydHRKcEdLLUpB?oc=5"
+      "title": "Pound Sterling Live: Pound Sterling Forecasts Lifted at Goldman Sachs - Pound Sterling Liv",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2Zsdks5UXFmeDZPUF9KTW1ob1dPY3pVekpkTDZ2MUdUT2pGYTlqMmluZzBqRWo0aElRa2dMZkEyUzBKWmlqYmxkYnpoclpNZ1VzYk9KYkl1QXJ5TklhdmVMZEFjRnhSOFVVLW5TODhxNUFPSDBOR0U0TmFLQkVTMlJERE03NDZQd1NXVGpmU1BBYUpuOEFKM2NEc0pqVUZFLWc?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
