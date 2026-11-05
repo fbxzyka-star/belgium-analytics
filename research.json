@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ υποχωρεί έναντι του δολαρίου, της βρετανικής λίρας και του ελβετικού φράγκου στις 5 Νοεμβρίου 2026.",
+  "headline": "Το ευρώ υποχωρεί έναντι των βασικών νομισμάτων εν μέσω της συνεδρίασης της Τράπεζας της Αγγλίας και της αναμονής για τα στοιχεία NFP των ΗΠΑ.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.43,
-      "reason": "Το EUR/USD υποχώρησε στα 1,1219 καθώς το ράλι του ευρώ αντιμετωπίζει αντίσταση πριν από τα 1,14 δολάρια, εν μέσω αναφορών για περιορισμένη ανοδική πορεία λόγω της προσεκτικής ΕΚΤ και της γαλλικής δημοσιονομικής πίεσης."
+      "change": -0.39,
+      "reason": "Το EUR/USD υποχώρησε κατά 0,39% στα 1,1223 καθώς το ευρώ έχασε τα αρχικά του κέρδη λόγω της ανάκαμψης του δολαρίου ΗΠΑ, ενώ οι επενδυτές αναμένουν τα στοιχεία NFP και εξετάζουν τεχνικές αντιστάσεις και προοπτικές πολιτικής από την ΕΚΤ."
     },
     {
       "pair": "EUR/GBP",
       "direction": "down",
-      "change": -0.07,
-      "reason": "Το EUR/GBP μειώθηκε στα 0,834, ενώ η βρετανική λίρα βρήκε αντίσταση στο επίπεδο του 1,20 έναντι του ευρώ, ενόψει της συνεδρίασης και της απόφασης της Τράπεζας της Αγγλίας."
+      "change": -0.19,
+      "reason": "Το EUR/GBP υποχώρησε κατά 0,19% στα 0,833 καθώς η στερλίνα ενισχύθηκε μετά την απόφαση της Τράπεζας της Αγγλίας να αυξήσει το βασικό επιτόκιο στο 4% και τις προσδοκίες για περαιτέρω αυξήσεις."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.12,
-      "reason": "Το EUR/CHF υποχώρησε στα 0,9177, παρόλο που το ευρώ διατηρείται σταθερό χάρη στη δυναμική της γερμανικής μεταποίησης και τη μεταξύ τους απόκλιση πολιτικής ΕΚΤ και SNB."
+      "change": -0.47,
+      "reason": "Το EUR/CHF κατέγραψε πτώση 0,47% στα 0,9145, ενώ οι αναλύσεις σημειώνουν ότι το ζεύγος συγκρατείται εν μέρει από τη νομισματική απόκλιση μεταξύ ΕΚΤ και SNB, τη δυναμική της γερμανικής μεταποίησης και τις χαμηλότερες τιμές πετρελαίου."
     }
   ],
-  "updated": "2026-11-05T11:49+00:00",
+  "updated": "2026-11-05T15:24+00:00",
   "compared_to": "ECB 2026-11-04",
   "rates": {
-    "USD": 1.1219,
-    "GBP": 0.834,
-    "CHF": 0.9177
+    "USD": 1.1223,
+    "GBP": 0.833,
+    "CHF": 0.9145
   },
   "sources": [
     {
@@ -37,8 +37,8 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html"
     },
     {
-      "title": "ECB: ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html"
+      "title": "Bank of England: Bank rate increased to 4% - November 2026 Monetary Policy Summary and Min",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
     },
     {
       "title": "Bank of England: Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
@@ -57,8 +57,8 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY1FSYU1qbk1BNWE1RnJWejNfWnZTamlHX1AtckRQSWNyNXlOQ0UteHBvemhDVW9JUW5uRFdqOVZQRkE2VXJzb1M5V1I5YTRpQUwxMlNRMGpoLU5GaElHb05fTW0yYVprcC1CYjBGZ2kwdjVUUnIydW1ZNWdYRzZQTkpVTTNWd3NKSnNVaGVqQzFZRkdodVllSWtlQnViMEsyRmY5ZlI1LTdCRmQxT1JFMk9fQ0Y0Q2tjcGxxRERuUk0yellWZml1REVReVpSNllTYy1yRmZB0gHiAUFVX3lxTE41ZWU2aERSRllvX3pCSEVaNTZjTUtzUUd0RW0wUkNyMzE2T2NlOVlzVFdBbzhZR1ZlXzBPWG1uMjh5aEZtUlIzOVh3UHZqa0VoX3dxNjl2dmxGaUI5eG16ay1La1dYdXlXSGM4d0VSUW1NcUpxT2F5RnpTS3VnWWdJRXZLZnBzZzhaalk2QV9pVUtqVl9zQ1puV1R5WmRUN1J0bHl5V2tnRVdBVlhkRW5XcmtxZGhILWYwYW1reHFNNEswQlJXdTFwdWp1V2xhWGN5NUE3R1NNUllUX2NNaTNNVWc?oc=5"
     },
     {
-      "title": "Equiti Global: EUR/USD Forecast: ECB Rate Outlook and Dollar Weakness - Equiti Global",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXJLeEFYTkJLUkhDTVo0a3pkcGIxVm9QMW9oeWRrTl9lLXBWR1dBanpWUmNlTnd2WEdjem1MeFVzcnUxV2RyWXVDdkRXcjU1dUMzUFhtZ013RUNMSU5FVzYxSEluTURkei1aMWdxVFNPQ1BpZ1BiOHFickllTXdzMnFVVFJINVRGTHFTX2hUR3M3LWlHOUx0VTI4MlgzTWs?oc=5"
+      "title": "Pound Sterling Live: Euro-Dollar Downside to be Limited by a Cautious ECB - Pound Sterling",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaks1aWxsSlEyTXRaNjhQMGcwb0JOOGZ6eDBPYzJTT0g3eEV5V2RCY0lEM1N0STN6Z3NWeEdOeW9MenJXUHRwWlRQdW5yTXpIOXRpZEFzTkg3M1NnRmMzUG1kZkxIMElTTXo3Qnd3d3pJUWZxNFNabm5BZWt0NV9TWEhZSmxZSVkwZFdicmZsOVdLblVS?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
