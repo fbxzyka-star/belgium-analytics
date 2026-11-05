@@ -1,31 +1,31 @@
 {
-  "headline": "Το ευρώ καταγράφει ήπιες απώλειες έναντι των κυριότερων νομισμάτων, την ώρα που οι αγορές αξιολογούν τα αποτελέσματα των ενδιάμεσων εκλογών στις ΗΠΑ και τα μακροοικονομικά δεδομένα.",
+  "headline": "Η αγορά συναλλάγματος επηρεάζεται από τα αποτελέσματα των ΗΠΑ, τις ανησυχίες για τη γαλλική δημοσιονομική πολιτική και την αυξημένη ισχύ του ελβετικού φράγκου λόγω ΣΝΒ.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.27,
-      "reason": "Η ισοτιμία υποχωρεί στα 1,1237 (-0,27%). Το ευρώ δέχεται πιέσεις από τη δημοσιονομική πίεση στη Γαλλία, αν και προηγουμένως είχε ενισχυθεί μετά τις αμερικανικές ενδιάμεσες εκλογές και την πίεση στο δολάριο."
+      "change": -0.12,
+      "reason": "Το EUR/USD υποχώρησε ελαφρώς στα 1.1254 (-0.12%). Η ανοδική πορεία του ευρώ περιορίστηκε από τη γαλλική δημοσιονομική πίεση, παρά το γεγονός ότι το δολάριο βρέθηκε υπό πίεση από τα αποτελέσματα των ενδιάμεσων εκλογών στις ΗΠΑ και οδήγησε σε ανατιμήσεις."
     },
     {
       "pair": "EUR/GBP",
-      "direction": "down",
-      "change": -0.11,
-      "reason": "Η ισοτιμία μειώνεται στα 0,8337 (-0,11%). Το ευρώ διστάζει γύρω από τα επίπεδα του 0,8350, καθώς η στερλίνα διατηρεί τη δυναμική της και η αγορά επικεντρώνεται στα δεδομένα πληθωρισμού και την Τράπεζα της Αγγλίας."
+      "direction": "flat",
+      "change": -0.02,
+      "reason": "Το EUR/GBP παρέμεινε σχεδόν αμετάβλητο στα 0.8344 (-0.02%), κινείται γύρω από το 0.8350. Το ευρώ διστάζει καθώς η βρετανική λίρα δείχνει αντοχή, ενώ στο προσκήνιο παραμένουν θέματα πληθωρισμού και της Τράπεζας της Αγγλίας."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.17,
-      "reason": "Η ισοτιμία υποχωρεί στα 0,9172 (-0,17%). Το ελβετικό φράγκο λαμβάνει στήριξη από τους κινδύνους για μια πιο επιθετική στάση (hawkish) της Εθνικής Τράπεζας της Ελβετίας (SNB) λόγω ισχυρότερου πληθωρισμού."
+      "change": -0.22,
+      "reason": "Το EUR/CHF σημείωσε πτώση στα 0.9168 (-0.22%). Το ελβετικό φράγκο ενισχύθηκε σημαντικά εξαιτίας των προσδοκιών για μια πιο επιθετική (hawkish) στάση της Εθνικής Τράπεζας της Ελβετίας (SNB) λόγω ισχυρότερου πληθωρισμού."
     }
   ],
-  "updated": "2026-11-05T00:04+00:00",
+  "updated": "2026-11-05T01:42+00:00",
   "compared_to": "ECB 2026-11-04",
   "rates": {
-    "USD": 1.1237,
-    "GBP": 0.8337,
-    "CHF": 0.9172
+    "USD": 1.1254,
+    "GBP": 0.8344,
+    "CHF": 0.9168
   },
   "sources": [
     {
@@ -37,8 +37,8 @@
       "url": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026"
     },
     {
-      "title": "StoneX: Euro Technical Outlook: EUR/USD Support Reversal Sets Up Breakout Test Ahead of NF",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTZvUFUySG1nNkdDYUJlemp6bk9GS0hva1FrY3ZTejl4cW5iTkhDZWhVODkzSTdzSENWTU1sajlFdUpIX1dEQ0RHd3lJV2tBNEVjMzdZaUNmLTBIZkJ2NUlQby0yLUViUl9VdUYxUFo1RWlWMFdocXVONGhQY2FLVlV2MFRoLW9Kd2ppMlAxWGRfVC1TbzJaUzV5NkFabU9sbjNuOXRFbUVKRjNXeDRYRTlaMDBDYVBoSGtIVDBQQkZsVG5Sc2RPUXJR?oc=5"
+      "title": "FOREX.com: Euro Technical Outlook: EUR/USD Support Reversal Sets Up Breakout Test Ahead of",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY1FSYU1qbk1BNWE1RnJWejNfWnZTamlHX1AtckRQSWNyNXlOQ0UteHBvemhDVW9JUW5uRFdqOVZQRkE2VXJzb1M5V1I5YTRpQUwxMlNRMGpoLU5GaElHb05fTW0yYVprcC1CYjBGZ2kwdjVUUnIydW1ZNWdYRzZQTkpVTTNWd3NKSnNVaGVqQzFZRkdodVllSWtlQnViMEsyRmY5ZlI1LTdCRmQxT1JFMk9fQ0Y0Q2tjcGxxRERuUk0yellWZml1REVReVpSNllTYy1yRmZB0gHiAUFVX3lxTE41ZWU2aERSRllvX3pCSEVaNTZjTUtzUUd0RW0wUkNyMzE2T2NlOVlzVFdBbzhZR1ZlXzBPWG1uMjh5aEZtUlIzOVh3UHZqa0VoX3dxNjl2dmxGaUI5eG16ay1La1dYdXlXSGM4d0VSUW1NcUpxT2F5RnpTS3VnWWdJRXZLZnBzZzhaalk2QV9pVUtqVl9zQ1puV1R5WmRUN1J0bHl5V2tnRVdBVlhkRW5XcmtxZGhILWYwYW1reHFNNEswQlJXdTFwdWp1V2xhWGN5NUE3R1NNUllUX2NNaTNNVWc?oc=5"
     },
     {
       "title": "Yahoo Finance UK: EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK",
