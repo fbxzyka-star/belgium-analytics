@@ -17,6 +17,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -183,23 +184,51 @@ def ask_gemini(prompt, api_key, model):
         "https://generativelanguage.googleapis.com/v1beta/models/"
         f"{model}:generateContent?key={api_key}"
     )
-    request = {"contents": [{"parts": [{"text": prompt}]}]}
+    request = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"responseMimeType": "application/json"},  # clean JSON only
+    }
     reply = get_json(url, request)
     parts = reply["candidates"][0]["content"]["parts"]
     return "".join(p.get("text", "") for p in parts)
 
 
+class TemporaryProblem(Exception):
+    """Google is busy (or a short network problem). Not our fault: skip this run."""
+
+
+BUSY_CODES = (500, 502, 503, 504)   # "try again later" errors from Google
+WAIT_SECONDS = [20, 60]             # wait between the 3 tries
+
+
 def ask_any_model(prompt, api_key):
     errors = []
+    busy = False
     for model in MODELS:
-        try:
-            return ask_gemini(prompt, api_key, model), model
-        except urllib.error.HTTPError as e:
-            if e.code not in (404, 429):
-                raise
-            detail = e.read().decode(errors="replace")[:300].replace("\n", " ")
-            errors.append(f"{model}: HTTP {e.code} {detail}")
-            print("Skipping", model, "->", e.code)
+        for attempt in range(len(WAIT_SECONDS) + 1):
+            try:
+                return ask_gemini(prompt, api_key, model), model
+            except urllib.error.HTTPError as e:
+                detail = e.read().decode(errors="replace")[:200].replace("\n", " ")
+                if e.code in BUSY_CODES:
+                    busy = True
+                    if attempt < len(WAIT_SECONDS):
+                        wait = WAIT_SECONDS[attempt]
+                        print(f"{model} busy (HTTP {e.code}), retrying in {wait}s")
+                        time.sleep(wait)
+                        continue
+                elif e.code not in (404, 429):
+                    raise
+                errors.append(f"{model}: HTTP {e.code} {detail}")
+                print("Skipping", model, "->", e.code)
+                break
+            except (TimeoutError, urllib.error.URLError) as e:
+                busy = True
+                errors.append(f"{model}: {type(e).__name__}")
+                print("Network problem with", model, "->", e)
+                break
+    if busy:
+        raise TemporaryProblem("; ".join(errors))
     sys.exit("No model worked: " + ", ".join(errors))
 
 
@@ -208,7 +237,8 @@ def parse_json(text):
     match = re.search(r"\{.*\}", text, re.DOTALL)
     if not match:
         raise ValueError("No JSON in Gemini reply:\n" + text)
-    return json.loads(match.group(0))
+    # strict=False also accepts line breaks inside the texts
+    return json.loads(match.group(0), strict=False)
 
 
 # ---------- history ----------
@@ -317,6 +347,10 @@ def main():
 if __name__ == "__main__":
     try:
         main()
+    except TemporaryProblem as e:
+        # Google was busy. Keep the previous analysis, no failure email.
+        print(f"::warning::Skipped this run, Google was busy: {str(e)[:300]}")
+        sys.exit(0)
     except urllib.error.HTTPError as e:
         body = e.read().decode(errors="replace")[:800].replace("\n", " ")
         print(f"::error::HTTP {e.code} from {e.url.split('?')[0]}: {body}")
