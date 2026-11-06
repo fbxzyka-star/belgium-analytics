@@ -1,30 +1,30 @@
 {
-  "headline": "Το ευρώ υποχωρεί έναντι του δολαρίου και του ελβετικού φράγκου, ενώ παραμένει σχεδόν αμετάβλητο έναντι της βρετανικής λίρας μετά την αύξηση επιτοκίων από την Τράπεζα της Αγγλίας.",
+  "headline": "Η Ευρωζώνη αντιμετωπίζει πιέσεις εν μέσω πρόσφατων αποφάσεων της Τράπεζας της Αγγλίας και δηλώσεων της ΕΚΤ.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.22,
-      "reason": "Το ευρώ έχασε τα αρχικά του κέρδη και υποχώρησε καθώς το δολάριο ανέκαμψε, ενώ οι επενδυτές αναμένουν τα στοιχεία για τις αμερικανικές θέσεις εργασίας (NFP). Παράλληλα, αναλυτές σημειώνουν ότι το ράλι του EUR/USD αντιμετωπίζει αντίσταση πριν από το επίπεδο των 1,14 δολάρίων."
+      "change": -0.23,
+      "reason": "Το EUR/USD υποχώρησε στα 1,1198 (-0,23%). Σύμφωνα με τα νέα, η πορεία του επηρεάζεται από την προοπτική των επιτοκίων της ΕΚΤ και τις αναλύσεις σχετικά με τα όρια του ράλι πριν από τα 1,14, ενώ επισημαίνεται ότι η καθοδική πορεία περιορίζεται από μια επιφυλακτική ΕΚΤ."
     },
     {
       "pair": "EUR/GBP",
       "direction": "flat",
-      "change": -0.02,
-      "reason": "Η ισοτιμία παρέμεινε σχεδόν αμετάβλητη, καθώς η Τράπεζα της Αγγλίας αύξησε το βασικό επιτόκιο στο 4% και άφησε υπονοούμενα για περαιτέρω αυξήσεις, ενισχύοντας τη βρετανική λίρα κοντά στο επίπεδο των 1,20 (EUR/GBP γύρω στο 0,8338)."
+      "change": -0.04,
+      "reason": "Το EUR/GBP κινήθηκε πλάγια στα 0,8336 (-0,04%). Η κίνηση αυτή σημειώνεται μετά την απόφαση της Τράπεζας της Αγγλίας να αυξήσει το βασικό επιτόκιο στο 4%, γεγονός που ενίσχυσε τη βρετανική λίρα και οδήγησε την ισοτιμία λίρας-ευρώ να αγγίξει τα επίπεδα του 1,20."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
       "change": -0.33,
-      "reason": "Το ευρώ υποχώρησε έναντι του ελβετικού φράγκου, με την κίνηση να επηρεάζεται από τη σύγκλιση της νομισματικής πολιτικής μεταξύ ΕΚΤ και Εθνικής Τράπεζας της Ελβετίας (SNB), χαμηλότερες τιμές πετρελαίου και τη γενικότερη δυναμική της γερμανικής μεταποίησης."
+      "reason": "Το EUR/CHF υποχώρησε στα 0,915 (-0,33%). Η αγορά επηρεάζεται από τη διαφοροποίηση πολιτικής μεταξύ ΕΚΤ και SNB, καθώς και από τις εξελίξεις στις τιμές του πετρελαίου και τη γερμανική μεταποιητική δυναμική που διατηρούν το νόμισμα σε σταθερότερη βάση."
     }
   ],
-  "updated": "2026-11-06T03:45+00:00",
+  "updated": "2026-11-06T04:50+00:00",
   "compared_to": "ECB 2026-11-05",
   "rates": {
-    "USD": 1.1199,
-    "GBP": 0.8338,
+    "USD": 1.1198,
+    "GBP": 0.8336,
     "CHF": 0.915
   },
   "sources": [
@@ -35,10 +35,6 @@
     {
       "title": "ECB: Piero Cipollone: Shaping the future of money",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html"
-    },
-    {
-      "title": "Federal Reserve: Federal Reserve Board announces termination of enforcement action with Al",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
     },
     {
       "title": "Bank of England: Bank rate increased to 4% - November 2026 Monetary Policy Summary and Min",
@@ -55,6 +51,10 @@
     {
       "title": "Pound Sterling Live: Euro-Dollar Downside to be Limited by a Cautious ECB - Pound Sterling",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaks1aWxsSlEyTXRaNjhQMGcwb0JOOGZ6eDBPYzJTT0g3eEV5V2RCY0lEM1N0STN6Z3NWeEdOeW9MenJXUHRwWlRQdW5yTXpIOXRpZEFzTkg3M1NnRmMzUG1kZkxIMElTTXo3Qnd3d3pJUWZxNFNabm5BZWt0NV9TWEhZSmxZSVkwZFdicmZsOVdLblVS?oc=5"
+    },
+    {
+      "title": "www.equiti.com: EUR/USD Forecast: ECB Rate Outlook and Dollar Weakness - www.equiti.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenYydGxCNXhZSkswNS1OR0Jsd0piRm5vSENHSXZyeER3LUhkX1QyckVoelk1dF9USlYtUFlpdUJiNThhSzhfbFpzSDk3bU0xRUZmNU5LX1hKMzExRkJqTElYMVFuU1VEUXFYOG9kRmh3T1g5YWYwU3VobnNocEZKUDF3YkFRMUdsbXVGVXpvTHAwZ2U0Z3FCQl92SmVlNjJa?oc=5"
     },
     {
       "title": "Mitrade: EURUSD Chart | EUR to USD Rate and News - Mitrade",
