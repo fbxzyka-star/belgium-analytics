@@ -1,31 +1,31 @@
 {
-  "headline": "Η αγορά συναλλάγματος επηρεάζεται από τις αποφάσεις της Τράπεζας της Αγγλίας και τις δηλώσεις αξιωματούχων της ΕΚΤ.",
+  "headline": "Η αγορά συναλλάγματος επηρεάζεται από τις τελευταίες αποφάσεις των κεντρικών τραπεζών και τις ομιλίες αξιωματούχων.",
   "pairs": [
     {
       "pair": "EUR/USD",
-      "direction": "flat",
-      "change": -0.01,
-      "reason": "Η ισοτιμία EUR/USD παρέμεινε σχεδόν αμετάβλητη (-0,01%). Οι αναλύσεις επισημαίνουν ότι το ράλι του ευρώ αντιμετωπίζει αντιστάσεις πριν από τα 1,14 δολάρια, ενώ η καθοδική πορεία περιορίζεται από μια επιφυλακτική ΕΚΤ."
+      "direction": "down",
+      "change": -0.11,
+      "reason": "Το EUR/USD υποχώρησε ελαφρώς στα 1.1212 (-0.11%). Σύμφωνα με τις ειδήσεις, το ράλι του ευρώ αντιμετωπίζει αντιστάσεις πριν από τα 1.14 και αναμένονται δοκιμές διάσπασης ενόψει των στοιχείων NFP, ενώ η ΕΚΤ και η Federal Reserve απασχολούν τις αγορές με δηλώσεις και κανονιστικές εξελίξεις."
     },
     {
       "pair": "EUR/GBP",
       "direction": "flat",
-      "change": 0.01,
-      "reason": "Η ισοτιμία EUR/GBP παρέμεινε επίσης σταθερή (+0,01%). Η κίνηση αυτή σημειώνεται εν μέσω της απόφασης της Τράπεζας της Αγγλίας να αυξήσει τα επιτόκια στο 4% και των ενδείξεων για πιθανές περαιτέρω αυξήσεις."
+      "change": -0.03,
+      "reason": "Το EUR/GBP παρέμεινε σχεδόν αμετάβλητο στα 0.8337 (-0.03%). Η κίνηση αυτή συμβαδίζει με την αύξηση του βασικού επιτοκίου της Τράπεζας της Αγγλίας στο 4% τον Νοέμβριο του 2026, γεγονός που οδήγησε σε ενίσχυση της στερλίνας."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.22,
-      "reason": "Η ισοτιμία EUR/CHF κατέγραψε πτώση 0,22%. Σύμφωνα με τα νέα, το ευρώ διατηρήθηκε αρχικά σταθερό χάρη στις χαμηλότερες τιμές πετρελαίου και τη γερμανική μεταποιητική δυναμική, αλλά εν τέλει υποχώρησε."
+      "change": -0.21,
+      "reason": "Το EUR/CHF κατέγραψε πτώση στα 0.9161 (-0.21%). Σύμφωνα με τα νέα, το ευρώ διατηρήθηκε αρχικά σταθερό χάρη στις χαμηλότερες τιμές πετρελαίου και τη γερμανική μεταποιητική δυναμική, ενώ την ίδια στιγμή το ελβετικό φράγκο ενισχύθηκε λόγω πιέσεων πληθωρισμού και της απόκλισης πολιτικής μεταξύ ΕΚΤ και Εθνικής Τράπεζας της Ελβετίας (SNB)."
     }
   ],
-  "updated": "2026-11-06T00:48+00:00",
+  "updated": "2026-11-06T01:59+00:00",
   "compared_to": "ECB 2026-11-05",
   "rates": {
-    "USD": 1.1223,
-    "GBP": 0.834,
-    "CHF": 0.916
+    "USD": 1.1212,
+    "GBP": 0.8337,
+    "CHF": 0.9161
   },
   "sources": [
     {
@@ -53,12 +53,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
     },
     {
-      "title": "Exchange Rates UK: Euro To US Dollar Forecast: EUR/USD Rally Faces Resistance Before $1.14",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnc4dDVhSlowUC1vZGhxYjhLWDFfUGw5eGFPajhmNEVWblpwQUF1emlpd2FOckVwcktpLV9Hdy10Uk1IVTNVUFZqRzgweVk1elQ1Tl8zMzBLVlFmNE13OWVoSHVBbUZMRkJobW5IVEYyLVdVbVZHUndZLVRGUHFoWGNQcEpDU0F0Z3dZZEdwQ0FCOEF5NnpmZ0l1TUVXVjQ4b0tZcGZzd1N1R3EwU01VSWFrTFEzZUozYmxVM3VNMmN6Rng1RGVqYw?oc=5"
-    },
-    {
       "title": "FOREX.com: Euro Technical Outlook: EUR/USD Support Reversal Sets Up Breakout Test Ahead of",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY1FSYU1qbk1BNWE1RnJWejNfWnZTamlHX1AtckRQSWNyNXlOQ0UteHBvemhDVW9JUW5uRFdqOVZQRkE2VXJzb1M5V1I5YTRpQUwxMlNRMGpoLU5GaElHb05fTW0yYVprcC1CYjBGZ2kwdjVUUnIydW1ZNWdYRzZQTkpVTTNWd3NKSnNVaGVqQzFZRkdodVllSWtlQnViMEsyRmY5ZlI1LTdCRmQxT1JFMk9fQ0Y0Q2tjcGxxRERuUk0yellWZml1REVReVpSNllTYy1yRmZB0gHiAUFVX3lxTE41ZWU2aERSRllvX3pCSEVaNTZjTUtzUUd0RW0wUkNyMzE2T2NlOVlzVFdBbzhZR1ZlXzBPWG1uMjh5aEZtUlIzOVh3UHZqa0VoX3dxNjl2dmxGaUI5eG16ay1La1dYdXlXSGM4d0VSUW1NcUpxT2F5RnpTS3VnWWdJRXZLZnBzZzhaalk2QV9pVUtqVl9zQ1puV1R5WmRUN1J0bHl5V2tnRVdBVlhkRW5XcmtxZGhILWYwYW1reHFNNEswQlJXdTFwdWp1V2xhWGN5NUE3R1NNUllUX2NNaTNNVWc?oc=5"
+    },
+    {
+      "title": "Exchange Rates UK: Euro To US Dollar Forecast: EUR/USD Rally Faces Resistance Before $1.14",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnc4dDVhSlowUC1vZGhxYjhLWDFfUGw5eGFPajhmNEVWblpwQUF1emlpd2FOckVwcktpLV9Hdy10Uk1IVTNVUFZqRzgweVk1elQ1Tl8zMzBLVlFmNE13OWVoSHVBbUZMRkJobW5IVEYyLVdVbVZHUndZLVRGUHFoWGNQcEpDU0F0Z3dZZEdwQ0FCOEF5NnpmZ0l1TUVXVjQ4b0tZcGZzd1N1R3EwU01VSWFrTFEzZUozYmxVM3VNMmN6Rng1RGVqYw?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
