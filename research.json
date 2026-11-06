@@ -1,33 +1,37 @@
 {
-  "headline": "Η αγορά FX επηρεάζεται από την απόφαση της Τράπεζας της Αγγλίας για αύξηση των επιτοκίων στο 4% και τις εκτιμήσεις για την πολιτική της ΕΚΤ.",
+  "headline": "Ανάλυση των κινήσεων των ισοτιμιών του ευρώ στις 6 Νοεμβρίου 2026 βάσει των τελευταίων ειδήσεων.",
   "pairs": [
     {
       "pair": "EUR/USD",
       "direction": "down",
-      "change": -0.34,
-      "reason": "Το EUR/USD υποχώρησε στα 1,1186 (-0,34%). Παρά τις αναλύσεις για περιορισμένη πτώση λόγω μιας επιφυλακτικής ΕΚΤ και τις προσδοκίες για αδυναμία του δολαρίου, το ράλι του ευρώ αντιμετώπισε αντιστάσεις πριν από τα 1,14."
+      "change": -0.45,
+      "reason": "Το EUR/USD υποχώρησε κατά 0,45% στα 1,1173. Σύμφωνα με τις ειδήσεις, το ευρώ έδωσε πίσω τα αρχικά του κέρδη καθώς το δολάριο ΗΠΑ ανέκαμψε, ενώ οι επενδυτές αναμένουν τα στοιχεία για τις θέσεις εργασίας εκτός αγροτικού τομέα (NFP) στις ΗΠΑ."
     },
     {
       "pair": "EUR/GBP",
       "direction": "up",
-      "change": 0.07,
-      "reason": "Το EUR/GBP ενισχύθηκε οριακά στα 0,8345 (+0,07%), κινούμενο κοντά σε χαμηλό 12 μηνών. Η κίνηση αυτή υποστηρίχθηκε από την απόφαση της Τράπεζας της Αγγλίας να αυξήσει τα επιτόκια στο 4% και τα μηνύματα για περαιτέρω αυξήσεις."
+      "change": 0.06,
+      "reason": "Το EUR/GBP ενισχύθηκε οριακά κατά 0,06% στα 0,8344. Οι πρόσφατες ειδήσεις δείχνουν ότι η Τράπεζα της Αγγλίας (BoE) αύξησε το βασικό επιτόκιο στο 4% κατά τη συνεδρίαση Νοεμβρίου 2026, με τη στερλίνα να δέχεται πιέσεις και να ξεθωριάζει η αρχική της αντίδραση στην αύξηση."
     },
     {
       "pair": "EUR/CHF",
       "direction": "down",
-      "change": -0.38,
-      "reason": "Το EUR/CHF κατέγραψε πτώση στα 0,9145 (-0,38%). Το ελβετικό φράγκο διατηρήθηκε ισχυρό εν μέσω ζήτησης ασdαλών καταφυγίων, πιέσεων πληθωρισμού και της απόκλισης στη νομισματική πολιτική μεταξύ ΕΚΤ και Εθνικής Τράπεζας της Ελβετίας (SNB)."
+      "change": -0.35,
+      "reason": "Το EUR/CHF κατέγραψε πτώση 0,35% στα 0,9148. Τα δημοσιεύματα αναφέρουν ότι το ελβετικό φράγκο παραμένει σταθερό και ενισχύεται λόγω της ζήτησης για ασφαλή καταφύγια, των πληθωριστικών πιέσεων και της απόκλισης μεταξύ της πολιτικής της ΕΚΤ και της Εθνικής Tράπεζας της Ελβετίας (SNB)."
     }
   ],
-  "updated": "2026-11-06T08:15+00:00",
+  "updated": "2026-11-06T09:23+00:00",
   "compared_to": "ECB 2026-11-05",
   "rates": {
-    "USD": 1.1186,
-    "GBP": 0.8345,
-    "CHF": 0.9145
+    "USD": 1.1173,
+    "GBP": 0.8344,
+    "CHF": 0.9148
   },
   "sources": [
+    {
+      "title": "ECB: ECB publishes consolidated banking data for end-June 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html"
+    },
     {
       "title": "ECB: Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html"
@@ -53,12 +57,8 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnc4dDVhSlowUC1vZGhxYjhLWDFfUGw5eGFPajhmNEVWblpwQUF1emlpd2FOckVwcktpLV9Hdy10Uk1IVTNVUFZqRzgweVk1elQ1Tl8zMzBLVlFmNE13OWVoSHVBbUZMRkJobW5IVEYyLVdVbVZHUndZLVRGUHFoWGNQcEpDU0F0Z3dZZEdwQ0FCOEF5NnpmZ0l1TUVXVjQ4b0tZcGZzd1N1R3EwU01VSWFrTFEzZUozYmxVM3VNMmN6Rng1RGVqYw?oc=5"
     },
     {
-      "title": "Pound Sterling Live: Euro-Dollar Downside to be Limited by a Cautious ECB - Pound Sterling",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaks1aWxsSlEyTXRaNjhQMGcwb0JOOGZ6eDBPYzJTT0g3eEV5V2RCY0lEM1N0STN6Z3NWeEdOeW9MenJXUHRwWlRQdW5yTXpIOXRpZEFzTkg3M1NnRmMzUG1kZkxIMElTTXo3Qnd3d3pJUWZxNFNabm5BZWt0NV9TWEhZSmxZSVkwZFdicmZsOVdLblVS?oc=5"
-    },
-    {
-      "title": "www.equiti.com: EUR/USD Forecast: ECB Rate Outlook and Dollar Weakness - www.equiti.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenYydGxCNXhZSkswNS1OR0Jsd0piRm5vSENHSXZyeER3LUhkX1QyckVoelk1dF9USlYtUFlpdUJiNThhSzhfbFpzSDk3bU0xRUZmNU5LX1hKMzExRkJqTElYMVFuU1VEUXFYOG9kRmh3T1g5YWYwU3VobnNocEZKUDF3YkFRMUdsbXVGVXpvTHAwZ2U0Z3FCQl92SmVlNjJa?oc=5"
+      "title": "Investing.com: EUR/USD: The Euro Has Spread Its Wings - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcldaUDNNOEtHME9JaVBuRUYtRVAwa2xYcHBzblZXTW9YamNEMXJtNnFodS01a3Y3Smtrbk5oZUJCbHJ5Vm1Qd3gyMk9hM0ViNFdkZjRTSGtfYzNvcjVuNV9SQUZlVnAxcUNweEswWU5iWHdrS0w1U1ZOWm85TVB2R01HS0U2b1Bj?oc=5"
     }
   ],
   "model": "gemini-3.5-flash-lite"
